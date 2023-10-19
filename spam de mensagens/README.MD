@@ -4,4 +4,4 @@ Esse código é uma copia com adições do código de [Matt-Fontes](https://gith
 
 ## Utilização
 
-Basta copiar o código no arquivo [span.js](https://github.com/) e mudar a mensagem e o numero de mensagens na chamada do metodo ```enviarScript(`Oi`, 10)```
+Basta copiar o código no arquivo [span.js](https://github.com/brksaian/bot-filmes-whats/blob/main/spam%20de%20mensagens/spam.js) e mudar a mensagem e o numero de mensagens na chamada do metodo ```enviarScript(`Oi`, 10)```
