@@ -29,3615 +29,5031 @@ async function enviarScript(scriptText) {
   return lines.length;
 }
 
-enviarScript(`/~
-I I . /
--- ..
-SCREAM IF YOU KNo·,,v WHAT I DID LAST HALLOWEEN
-by
-Jason Friedberg & Aaron Seltzer
-I
-SCREAM IF YOU KNOW WHAT I DID LAST HALLOWEEN
-by
-Jaso; Friedberg & Aaron Seltzer·
-INT - MODEST HOME - NIGH~
-A dark and spooky night.
-The place is decorated for Halloween~ jack •o lanterns,
-orange and black streamers,. human heads on sticks •••
-CINDY, our heroine, .1 7 and pretty in a Neve Campbell, Jennifer Love Hewitt way, ah fuck it - just picture any
-"Party of Five" type - talks on the cordless.phone while
-watching "Halloween" on T.V.
-CLICK.
-· CINDY.
-(into phone)
-••• o.k., so pick me up in ten.
-IN THE KITCHEN.
-She opens the pantry, rummaging for a snack. we FEATURE
-several frightening food products: ·count Cbocula and
-Frankenberry.cereal, and devil's food cake.
-She grabs a tin~skillet of "Jiffy Pop Popcorn," and puts
-it on the lit stove.
-The phone RINGS.
-CINDY
-Hello?
+enviarScript(`EXT DREW'S HOUSE � NIGHT
+
+Modest home on the outskirts of town where no one can hear
+you scream, HALLOWEEN NIGHT.
+
+INT. DREW'S KITCHEN � NIGHT
+
+CLOSE ON YOUNG HOLLYWOOD STARLET, A LITTLE ADORABLE SEXPOT
+WE WOULD ALL LOVE TO SEE KILLED FOR THIS SCENE.
+
+She grabs a tin skillet of "Jiffy Pop" and puts it on the
+lit stove.
+
+PHONE RINGS.
+
+She answers.
+
+
+DREW
+Hello.
+
+A raspy male voice with a southern accent familiar to most
+Americans.
+
+V.O. BILL
+Hey baby, what are you wearing? 
+I got a new box of cigars I want
+you to�
+
+DREW
+Hi Bill.  Look, I can't talk right now.
+
+V.O. BILL
+Aw, come on.  It took two bottles of
+Wild Turkey to get Hillary to sleep. Can't
+you just talk for a minute?
+
+DREW
+I'm sorry.  I can't.  I got company coming
+any second.
+
+V.O. BILL
+Alright, well give me a kiss.
+
+She blows him a kiss.
+
+V.O. BILL (CONT'D)
+Remember baby, who's yo daddy!
+
+A long tongue comes through the phone and licks her face.
+
+She slams down the phone.
+
+DREW
+Pervert.
+
+Phone rings again.
+
+DREW
+Look Bill, I told you�
+
 SCARY VOICE
-(from phone) Hello Cindy. .
-CINDY
-Quentin?
+Who's Bill?  Is that your boyfriend?
+
+DREW
+Who is this?
+
 SCARY VOICE
-It • s not Quentin ••• 
-DING DONG! The doorbell CHIMES.
-She walks to the front door and opens it to reveal four
-CHILDREN in Halloween costumes.
-CHILDREN
-Trick or treat!! ,
-,i
-CINDY
-Hi, kids. Gee, don't you all look
-scary •••
-(into phone) Jake, is that you?
-Distracted, she reaches for the bowl of candy, but instead
-grabs the other items on the table - bottles of liquor, marijuana joints, and hypodermic needles.
+Tell me your name and I'll tell you mine.
+
+DREW
+I don't think so.
+
 SCARY VOICE
-( from phone)
-Wrong again.
-She dumps the narcotics and booze in their candy bags.
-CINDY
-( to children) ·
-Have a safe Halloween.
-She closes the door on the surprised toddlers.
-CINDY
-(into phone) Who is this?
-SCARY VOICE.
-You have a sexy voice. It's too bad
-your boyfriend left you all alone on
-Halloween.
-Through the window we FEATURE the Children, now gleefully·
-swigging the booze, smoking the joint, and shooting the
-smack. ·
-CINDY
-Ya• know, whoever this is - fuck·
-off.
-(hangs up)
-Loser.
-IN THE KITCHEN
-The tin-skillet expands with th.e POPPING corn, finally
-BURSTING OPEN. 
-POP! PING! PANG! Kernels SHOOT through the kitchen,
-SMASHING plates and SHATTERING glasses.
-The phone RINGS again.
-Cindy eyes the phone; getting a little freaked. RING.
-RING.
-CINDY
-(picks up)
-Hello?
+What's that noise?
+
+DREW
+Oops, I farted, I didn't think you would hear me.
+
 SCARY VOICE
-Don't ever do that to me again,
-bitch.
-CINDY
-Who is this - what do you want?
+No, that popping noise.
+
+DREW
+Oh, I'm making popcorn.  I'm getting ready to
+watch a video.
+
 SCARY VOICE
-I just want to talk. You look good
-in that tight blue sweater.
-.., .
-Cindy CLICKS OFF as she looks down in horror at her tight
-blue sweater. Whoever's on the line .can see her!
-SCARY MUSIC UP
-We FOLLOW Cindy as she rushes through the house, shutting
-the curtains and blinds. With every step, the tension
-mounts ..•
-CRASH!
-A MAN jumps through the window it's FREDDY KRUEGER!
-CINDY.
-Ahhh!!1
-Freddy raises his razor-clawed hand, then stops in midslice.
-FREDDY KRUEGER
-(noticing street sign)
-Wait, this isn't Elm Street?
-CINDY
-No, it's Maple.
-FREDDY KRUEGER
-Christ, this always happens. It's
-like forgetting where you parked at ·
-the mall - it all looks the
-same ••• Give me directions'? • 
-CINDY
-R;i<jht at Oak, left at Sycamore.
-FREDDY KRUEGER
-(leaving)
-Sorry about the window. I'll have
-my insurance adjuster come by in the
-morning. '
-He exits. The phone RINGS again. She eyes it with
--trepidation.
-RING. RING.
-RING - She picks up.
-· CINDY
-Hello?
-PHONE OPERATOR
-You have a collect call
-from ••• HomicidaL Maniac ••• will you
-accept the charges?
-CINDY
-No!
-She SMASHES the phone to pieces. A beat.
-RING. RING. Her cellular phone RINGS. She answers.
+Really?  What's it called?
+
+DREW
+Big black jocks� it's my favorite.  There's this
+guy in it, Jimmy dang a lang.  He's hung like�
+
+SCARY VOICE
+What about scary movies?  Do you have a favorite?
+
+DREW
+Oh.  Uhh� The one where the girl gets
+harassed on the phone.
+(she passes a "Scream" poster)
+
 A beat.
+
 SCARY VOICE
-( from phone) Cindy?
-CINDY
-Leave me alone.
-SCARY VOICE
-Not until you answer some questions. Miss one and you die.
-CINDY
-(freaked) . Why are you doing.this to me?
-SCARY VOICE
-I'm asking the questions.
-4 . 
-SCARY VOICE
-What is your favorite teen horror
-movie?
-She n~rvously bites her fingernails, then SPITS them out.
-.A beat.
-CINDY.
-That one where the ·girl gets harassed on the phone •••
-(she passes a "Scream" movie
-poster)
-••• you know, the one with the
-chubby, alcoholic girl who was in
-E.T.?
-SCARY VOICE
-Next question.
-CINDY.
-No •••
-She now nervously bites her toenails, SPITTING them out.
-SCARY VOICE
-·I'm thinking of a number between 1
-and 100. Whatis it?
-She sinks to her knees in terror, trembling.
-CINPY
-(getting choked up)
-Uh ••• 76?
-A long beat.
-SCARY VOICE
-·tucky guess.
-Behind her we see her neglected popcorn is now ON FIRE, and
-BILLOWING smoke. .
-SHRIEK 1 SHRIEK·! The smoke detector SOUNDS, adding to
-Cindy~s confusion and terror.
-SCARY VOICE
-Last.question.
-Tears well in her eyes, and a giant snot bubble GURGLES out
-of her nostril. She is terrified. 
-. '
-SCARY VOICE
-Do you wipe up or down?
-CINDY
-Please ••. no •••
-SCARY VOICE
-QQ. or down?. ,-
-CINDY
-Up?
-SCARY VOICE
-sorry Cindy, you 1 nse. The answer
-was down.
-CINDY
-My boyfriend's gonna be here any second. He'll kick your ass.
-SCARY VOICE
-You mean him?
-The lights go on in the backyard, revealing a bloqdied and
-dead TEENAGE BOY, strapped to a chair a la "Scream." -- ·
-The Scary Voice CACKLES.
-Cindy squints at the boy through the sliding glass door.
-CINDY
-That's not my boyfriend, we went out
-like twice.
-The Scary Voice stops CACKLING.
-SCARY VOICE
-Oh.
-The backyard lights turn off.
-CINDY
-I'm calling. the cops~
-SCARY VOICE
-You might want to check the back
-door first. You forgot to lock it.
-She SCREAMS and drops the phone in horror.· She races to
-the back door~
-From outside we see a SHADOWY FIGURE also running to the
-back door.
-·1
-i 
-t
-I
-~ \
-I •
-AT THE BACK DOOR
-She gets there one step ahead of the shadowy figure and
-LOCKS the door, then CHAINS it, then puts "The Club" over
-the doorknob. ·
-Cindy backs away from the door: in terror .. · The figure disappears. The suspense mourits ...
-DING DONG!. The doorbell.· Cindy is frozen in fear who is
-it?
-She punches 9-1-1 on her cordless, then puts the receiver
-to her ear.
-DING DONG!
-SCARY VOICE
-( from phone)
-Aren't you going to answer the door?
-CINDY
-Please ••• stop •••
-SCARY VOICE
-What's the matter, Cindy? Not . having fun anymore?
-SCARY VOICE
-Answer it.
-CINDY
-No ...
-SCARY VOICE
-It could be your friends. It's been
-ten minutes.
-She moves to the front door sl~wly, then grabs a·baseball
-bat out of.the hall closet.
-CINDY
-· ( grippj,.ng bat)
-;r 'm not afraid of you •••
-SCARY VOICE.
-Then open the door.
-She raises the bat, then closes her eyes and flings the
-door open.
-With eyes still closed, she flails away with the bat. 
-cS •
-CINDY
-TAKE THAT YOU PSYCHO!!
-BANG! THUD! CRUNCH! She connects with severai swings.
-She opens her eyes to find three LITTLE TRICK OR TREATERS
-now lying bloody and beaten on_' the front porch. . '
-CINDY
-Oops •••
-She apologetically tosses the children candy, which only lands uselessly next to their broken arms.
-The children GROAN in pain as She closes the door.
-LITTLE BOY
-I can't feel my legs •.•
-INSIDE
-Cindy locks tne door. As she turns, we see the KILLER - right behind her.
-The Killer has a black cloak and white mask on; a la . "Scream," except his mask is Casper the Friendly Ghost.
-He raises a wicked look4.ng knife and creeps up behind her.
-KILLER
-Hello Cindy.
-Cindy freezes in her tracks - it's the same scary voice
-from the phone.
-She turns to see the Killer and SCREAMS!
-The Killer lunges at her and stabs twice at her chest.
-POP! POP! Her breasts POP like balloons, then deflate.
-KILLER
-Implants •••
-The Killer raises.the knife again - Cindy SHRIEKS IN.
-TERROR.
-S1.1ddenly, Cindy's 200 lb. St. Bernard, CUJO, comes
-scampering up from behind •. ·
-Before the Killer can strike, Cujo jumps up and knocks him
-to the ground. 
-CINDY
-Good boy, Cujo!
-Cujo proceeds to pin the Killer down-and vigorously HUMP
-HIS LEG.
-KILLER
-AAhhhh •••• ~.
-She uses the distraction to dash out the front door.
-OUTSIDE
-Cindy races down the steps, stepping on the BEATEN
-C~ILDREN, who YELP in pain.
-LITTLE GIRL
-Someone g·et me some morphine .•.
-9.
-Cindy runs into the street, just as her FRIENDS pull up in
-a red, '57 Cadillac convertible.
-Her friends are SKEET, JAKE, BUFFY, and QUENTIN.
-Cindy jumps in the passenger side.
-SKEET
-What's wrong?
-CINDY
-Go - just drive! Get out of here!
-Skeet puts it in gear and PEELS OUT down the road.
-As they drive off, we see the Cadi's personalized ·license
-plate "'." CH_RIS':rINE.
-CUT TO:
-EXT~ DARK AND WINDY ROAD - NIGHT
-The five teens drive down the highway. We now FEATURE our
-ensemble cast:
-SKEET ~ Cindy's boyfriend. Good-looking, cool, and
-brooding in a Skeet Ulrich way.
-JAKE - All American looks, muscular, gung-ho jock.
-BUFFY - The "It" girl. Incredibly sexy, beautiful, and
-popular. 
-1.
-QUENTIN - Freckled face, spiky haired video store geek.
-Buffy i·s in the backseat between Quentin and Jake. Skeet
-drives as Cindy tries to call the cops on her cellphone.
-CINDY
-••• still no signal.
-QUENTIN
-· It's the a ••• it's the canyons. The
-satellite signals bounce off the
-walls which •••
-BUFFY
-wonder much why you don't get laid?
-Save the tech lingo for your video
-clerk friends. Cindy needs Five-a
-not the 411.
-JAKE
-Yeah, douchebag.
-He PUNCHES Quentin in arm.
-Ow.
-QUENTIN
-(rubs arm)
-Skeet puts an arm around Cindy.
-SKEET
-Relax, the station's just down the
-road. Everything'll be o.k.
-Skeet takes his eye off the road as they pass a sign
-reading: DEER X-ING.
-SMACK! THUD! Unbeknownst to the teens, the Cadi. HITS
-several DEER.
-They travel on, riow with antlers stuck in the grill.
-QUENTIN . (to Cinqy)
-Excuse me for being the voice of
-reason. But uh, won't your dad be
-upset to find a knife wielding
-maniac in your house?
-CINDY
-He"s out of town. 
-,
-f
-They pass a sign reading: HANDICAP X-ING.
-. . .·
-A group of SENIOR CITIZEN'S try to cross the road in their
-walkers and -wheelchairs. The Cadi' ZOOMS up, and the
-senior's SCREAM and LEAP out of the way.
-several of the Senior Citizens flip them the "finger."
-The oblivious teens travel on, now with a wheelchair
-dragging behind them.
-BACK IN THE CAR
-There is a long, awkward silence.
-BUFFY
-O.K., if nobody's gonna say it, I
-will. Cindy, don't you find it kind
-of like, ironic that exactly one
-year ago tonight your mom was killed
-and now someone tried to kill
-you ••• ?
-They pass a sign reading: MEN AT WORK.
-The band MEN AT WORK stand on the shoulder, PLAYING MUSIC.
-MEN AT WORK
-(sing)
-••• I come from a land down under •••
-BACK IN THE CAR ·
-CINDY
-Are you saying that this had
-something to do with my mom"s ·
-murder? That guy's locked up in a
-looney bin for life.
-BUFFY
-Well, you have to admit •••
-SKEET
-C'mon, Buffy, you know she doesn't
-want to talk about it.
-They go around a bend.
-SKEET
-Almost there •••
-Suddenly, standing in the middle of the road - the Killer
-appears. He raises his knife, glinting in the moonlight. 
-•
-t
-,-~\
-' I
-1, ---~~/
-i f I
-I t
-f
-BUFFY
-Oh my God ••.
-CINDY
-It's him. .
-Skeet SLAMS ON THE BRAKES but }:here's no time~
-12 .
-SMACK!
-air. They hit the Killer, catapulting him high into the
-JAKE
-Oh, shit.
-ON THE KILLER
-Soaring in mid-air from the collision.
-He tucks his legs under him and does an acrobatic
-somersault, then a twist like a gymnast.
-BACK ON THE CAR
-The teens hold up score cards - a.s, 9.0, a, 10, 9.5.
-Finally, the Kille~ lands with a sickly THUD.
-BAMl The skidding car hits him again, this time dragging him under the chassis.
-KILLER
-_OWW"-11 •••• !
-They drive over different severe terrains - speedbumps, road flares, then hot asphalt.
-KILLER
-Ahhh •••• !
-They finally come to a stop. Skeet throws it in reverse
-and backs up over the killer, dislodging him from the axle.
-The teen·s get slowly out of the car. Terror on all their
-faces.
-The car's headlights illuminate the Killer's listless body
-in the middle of the road.
-SKEET
-He came out of nowhere. • • • 
-BUFFY
-Is he ••• dead?
-The Killer squirms in pain.
-IN THE CAR
-CINDY
-He's alive.
-13.
-The parking brake gives, causing the car to roll forward.
-QUENTIN
-Watch out!
-They scatter as the car rolls over the Killer's body - CRUNCH!
-The car rolls to a s~op against the shoulder. The teens
-gather around the Killer's body in fear.
-Jake pokes tentatively at the body with a stick. No
-movement.
-He discards the stick and KICKS the Killer in the balls.
-Still no response.
-JAKE
-He's dead.
-The teens look at each other in dread as this sinks in.
-BUFFY
-What•re we gonna do?
-CINDY
-.•· We've got to go to the police.
-They'll understand - it was an
-accident.
-QUENTIN
-Just a legal note here, Cindy. This
-guy just tried to kill you, then you "accidentally run over him?" ·
-Nobody's gonna buy that.
-SKEET
-There's alcohol all over the car •••
-BUFFY
-We"re all gonna fry. 
-r
-i
-,/
-JAKE
-We've got to get rid of the body.
-Jake grabs the body by the legs and drags it back toward
-the car, BANGING the head off·bumps and potholes~
-CINDY
-Are you crazy?
-BUFFY
-Jake's right. Nobody saw anything - no witnesses. Cindy, like this guy tried to kill you.
-QUENTIN
-I don't know about this ••.
-SKEET
-You have a better idea?
-A car is HEARD approaching.
-JAKE
-Someone's coming.
-Everyone stares at Cindy.
-JAKE
-So what's it gonna be?
-Cindy ponders as JEOPARDY THEME MUSIC UP. A beat.
-CINDY
-What is, to get rid of the body so
-we don't go to jail?
-As. oncoming headlights appear, the teens quickly stuff the
-body in the trunk. The Killers legs still hang out, so
-they SLAM the trunk repeatedly like an overstuffed suitcase - CRUNCH! .
-The teens hop.in and drive off just before the oncoming car
-reaches them. ·
-CUT TO:·
-EXT - BEACH - LATE NIGHT
-The teens huddle around a bonfire on this deserted stretch
-of sand.
-Buffy roasts a mars·hmallow on a stick over the flames.
-Next to. her, Jake roasts two whole·rotisserie chickens on a
-skewer. 
-I.
-. '
-,
-I
-r
-I
-I
-Skeet keeps an arm around Cindy, trying to comfort her.
-SKEET
-Fire's going out.
-JAKE
-I got it.
-l.:::, •
-Jake gets up and grabs a piece of wood. Before he throws
-it on the embers, he spots a BABY SEAL, beached at the
-shoreline. ·
-The cute baby seal tries to make it's way back into the
-surf.
-BABY SEAL
-ARF! ARF!
-THWACK!· Jake CLUBS the seal on the head with the piece of
-: wood.
-JAKE .
-(as he clubs)
-I'm not sure what we're doing is
-right •••
-THWACK!! He gives the seal two more whacks about the
-cranium.
-THWACK!
-JAKE
-(cont'd)
-••• I consider myself a moralistic
-person •••
-BABY SEAL
-ARF!
-JAKE
-·(cont'd.)
-•• ~ I go to church •••
-(THWACK!)
-••• I even donate my time to the
-Humane Society •••
-BUFFY
-Hurry up already, I'm getting cold.
-THWACK! Jake finally delivers the fatal. club, then drags
-the· dead seal over. and tos.ses it onto the fire •.. 
-I
-WHOOSH! The seal re-ignites the fire, and the teens all
-warm their hands over the flames.
-Quentin stands and paces excitedly.
-QUENTIN
-Hello? Doesn't anyone see what's
-going on here? The attempt on
-Cindy, the anniversary of her
-mother• s death, and now this •••
-BUFFY
-Get to the point, Retardo Montalban.
-Jake munches on a roasted seal paw.
-JAKE
-(mouth full)
-Tastes like chicken ••.
-QUENTIN
-This has all the makings of a
-classic teen horror movie. A low
-budget scream-fest aimed at cashing in on the youth market. Filled with
-all of your typical high school
-archetypes and a loud, edgy soundtrack. ·
-Skeet whips out a boombox, which blasts Nine Inch Nails.
-ON JAKE
-QUENTIN - (cont'd}
-we got the jock - Jake. A· win-atall-costs, beer guzzling womanizer.
-Yet·under his macho facade- lies a
-penchant for tu-tu's and dreams of
-the Jaffrey ballet.
-Now·wearing a.pink·tu-tu and tights, as he pirouettes on
-his ·tiptoes. _
-JAKE
-( to Quentin) . I guess that makes you the wisecracking, know-it-all dork. You
-secretly lust for Cindy, causing you
-to masturbate three times a day - four on the weekends, mixing in the
-_occasional· auto e~otic asphyxiation
-fetish.
-l.o. 
-,.
-)
-I
-I
-;
-ON QUENTIN
-Wearing a plastic bag over his head, trying to suffocate
-himself.
-ON BUFFY
-SKEET
-Then there's Buffy; the prom queen. Beautiful, seductive, her
-measurements are 36-24-34 •••
-Who stands in a negligee and poses for a PHOTOGRAPHER.
-SKEET
-(cont'd)
-Shallow, utterly self-centered, her
-turn en's include fresh water eels,
-and the cold sting of an Icelandic
-bidet.
-Buffy ~ejoins the group.
-ON CINDY
-BUFFY
-Cindy - the girl- next door.· Pretty,
-smart, kind, and alas, a virgin. A
-.· screwed up head case who hasn • t
-gotten over her mom's brutal murder,
-and.the· only one who will probably make it to the sequel.
-Who lounges in a director's chair, reading a script entitled, "SCREAM IF YOU KNOW WHAT I DID LAS~ HALLOWEEN
-- PART 2"
-CINDY
-Then finally, there's my boyfriend Skeet. ·
-(cuddles up to him)
-So perfect,, so cute, my little
-sriookie-wookie, my little honey- bunny, my little snuggle-wuggle •.••
-RETCH!! The other teens grab barf bags and VOMIT into th~m
-from her sugary nicknames. · ·
-SKEET
-sun• s coming up. we better do this.
-> --. CUT TO: , ____ / 
-EXT._ FISHING DOCKS - PRE-DAWN
-A sign reads: DAWSON' s RIVER. The five teens drag the
-body to the edge of the docks, then set it down.
-They stand over it in frightened awe, staring at the
-ominous black cloak and Casper'mask • . •
-BUFFY
-We all have to swear to never tell
-anyone what happened.
-They look at each other apprehensively.
-BUFFY
-Swear - each of you. swear 1
-A tense beat.
-QUENTIN
-Shit.
-JAKE
-Fuck.
-SKEET
-Cocksucker.
-They all turn to Cindy, who hesitates.
-'BUFFY
-Cindy, you have to swear.
-JAKE
-Come on, Cindy - swear.
-CINDY
-Mutherfuckin' tittie suckin' twoball bitch.
-They all nod solemnly, then start to push the body over the
-edge.
-QUENTIN
-Wait - don't you want to see who it
-is?
-CINDY
-No. Leave the mask on. The face of
-my mother' s killer haunts me every
-day.~. 
-, ·
-'
-r
-f
-She whips out a framed picture of her mom's killer,
-shudders, th~n puts it away.
-CINDY
-(cont'd)
-.•• I can't take another.
-They nod, then push the body over - SPLASH!
-UNDERWATER
-19.
-We follow the body a~ it sinks to the bottom of the river.
-It comes to rest next to a LEONARDO Dir~RIO look-alike,
-who's clutching a blue pendant.
-SUPERIMPOSED: ONE YEAR LATER
-FADE UP
-. INT - CINDY'S KITCHEN - MORNING
-FADE OUT
-Cindy sits at the breakfast .table as her father MR.
-CAMPBELL, stands over the stove, cooking her breakfast.
-He CRACKS a few eggs into a frying pan as the news drones
-on the background T.V.
-Several suitcases and an airline ticket are·by the door.
-CINDY
-How long will you be gone?
-He opens a jar of pig's feet, and dumps them into the eggs.
-MR. CAMPBELL
-Just a couple of nights.
-He unwraps butcher·paper, revealing a cow tongue. He dumps
-that in also, folding the ingredients into an omelette.
-He flips up the omelette.
-MR. CAMPBELL
-Another o·ne of these damn
-conventions. We' re previewing the
-spring line. ·
-He goes over to his briefcase and puts away the last· of his
-samples, which are· women's cosmetics: lipstick, eyeliner,·· 1 mascara, etc • . -~/ 
-\
-j)
-34.
-DANIELLE
-Hit it!
-VROOM!· A MONSTER TRUCK drives out from the wings-and rolls
-over Danielle. · ·
-She gets up, unhurt, and now sporting a tire track across
-her face. She bows to STRONGER APPLAUSE.
-BACK STAGE
-PRINCIPAL FONZY
-Thank you, Danielle.
-Cindy approaches Buffy, who waits to go onstage.
-CINDY
-Buffy, we have to talk.
-BUFFY
-Duh, Cindy, can't you see I'm in the
-middle of something really
-important?
-Cindy shows her the note, and Buffy GASPS in terror.
-ON STAGE
-BUFFY
-Oh, shit.
-CINDY
-Meet me at the swim-gym afterschool.
-PRINCIPAL FONZY
-Buffy will have to do something
-spectacular to top our first two
-finalists •••
-Buffy strides to center stage and whip·s out a. 24" oolish
-sausage. A ORUMROLL SOUNDS as a spotlight hits her.
-She takes the sausage and slowly "deep throats" it,
-swallowing the entire ~hing.
-She takes it slowly out of her mouth.
-Every MALE in the audience rises and gives her a STANDING
-OVATION. .
-ON THE JUDGES 
-I.
-35.
-They nod to each other, impressed. _.
-CUT TO:
-INT - SCHOOL AUTO SHOP - DAY
-Skeet·and four other STUDENTS 'huddle tinder the hood of a
-car, working on the engine. · ·
-The SHOP TEACHER hobbles over, sporting an eye patch and a
-prosthetic arm.
-SHOP TEACHER
-Skeet, you have a visitor.
-Skeet looks up to see Cindy in the doorway.
-SHOP TEACHER
-(to class}
-Everyone remember - safety first.
-Skeet grabs his jacket, unknowingly yanking a lever which
-drops an engine block from a_pulley.
-CRUNCH! The engine block hits two students, KNOCKING them
-senseless.
-STUDENTS
-Ow!
-As Skeet makes his way to Cindy, he unknowingly steps on a
-tire jack, depressing it.
-BOOM! The car flattens the student lying underneath it.
-His protruding legs convulse in pain.
-Help •••. !
-FLATTENED
-STUDENT
-Skeet passes the Shop Teacher, who stares into the eye of a.
-power drill, trying to fix·it.
-As Skeet continues, he spots the unplugged drill cord.
-SKEET
-Someone could trip over this •••
-_ He plugs it into the wall~
-WHIRRR! Behind him we see the Shop Teacher drill into his
-own eye, which spurts blood. 
-SHOP TEACHER
-Ahhh - my good eye!!!
-Skeet· reaches Cindy.
-CINDY
-Skeet, I •••
-SKEET
-I know •••
-(takes a note from his
-pocket)
-•.. I got one too.
-36.
-CUT TO:-
-INT - VIDEO STORE - DAY
-Quentin is in the "Porno Section," holding up a tape and
-giving his review of the latest release.
-QUENTIN
-I recommend "Robocock 4" - it's got
-it all - girl on girl 69, two-headed
-dildos, golden shower •••
-We PAN DOWN to reveal he's talking to two LITTLE OLD
-LADIES.
-LITTLE OLD LADY
-I felt it paled in comparison to the
-first three. But I did like .. Forrest Pump. " The cock-sandwich
-scene was particularly arousing, and
-that Jenny really knows how to fuck.
-OTHER OLD LADY
-Yeah, nobody takes it in the ass
-like her. ·
-QUENTIN
-Hey, that's why it's a classic.
-Be looks up to see Cindy enter. She gives him a grave
-look.
-CUT TO:
-INT_ - SCHOOL S_WIM-GYM - DAY
-Cindy, Skeet, Buffy, Jake,.and Quentin huddle together in
-the bleachers. Behind them we see the SWIM TEAM,
-p~acticing their dives. · 
-\
-)
-CINDY
-Somebody knows.
-JAKE
-Bullshit. Someone's just trying to
-fuck with us.
-BUFFY
-(to Quentin)
-It's probably you •.•
-(makes jack-off motion)
-••. Mr. Busyfist. I knew you
-couldn't keep your big mouth shut.
-JAKE
-Yeah, douchebag.
-He PUNCHES Quentin in the arm.
-QUENTIN
-oww ... Hey, it wasn't me.
-In the background, we see two MALE DIVERS walk by wearing thong bikini's.
-SKEET.
-Then who was it?
-BUFFY
-Maybe it's Cotton Blend ••.
-Everyone-GASPS in horror.
-QUENTIN
-Could be, but he's the obvious
-choice~ What if it·•s not him? I
-mean, what if someone saw us that
-_night?
-SKEET
-What are you trying·to say?
-In the pool, we see a SWIMMER emit a cloud of purple dye from his suit - he urinated in the water.
-QUENTIN
-It could be anyone •. It could be
-you •••
-(points to Buffy)
-••• could be me, could be her, could
-be him.-~. it co.uld be that fat guy
-over there on the trampoline~ ••
-37. 
-38.
-we·PAN to the corner, where we see a FAT GUY wearing
-boxers, BOUNCING on a trampoline. The Fat Guy waives as he . boun~es.
-QUENTIN.
-It could be •••
-SLAP! Jake bitch slaps Quentin across the face, leaving a
-red handprint on his cheek.
-JAKE
-I don't buy any of this, it's just a
-· prank. And all of you better keep quiet about what happened last
-Halloween.
-Jake walks off.
-BUFFY
-What're we supposed to do now?
-CINDY
-We wait •••
-·INT - CINDY'S BEDROOM - MIDNIGHT
-CUT TO:
-Cindy tosses and turns in her sleep, in the midst of an
-obvious bad dream.
-Suddenly, TWO HANDS grab her - startling her awake~
-She SCREAMS in horror. She sits up and turns on her
-nightstand light, revealing it's her father.
-CINDY
-Oad1
-MR. CAMPBELL
-It's o.k., honey, you were having another one of your nightmares. But
-I'm here now.
-CINDY
-When did you get home?
-MR. CAMPBELL
-A few·hours ago. I didn't want to
-wake you, you looked so peaceful
-sleeping ••• but you could use some
-blush. 
-39.
-He takes out qis Avon makeup kit and brushes rouge onto her
-cheeks.
-MR. CAMPBELL
-Cindy, what's wrong?
-CINDY
-Nothing.
-He continues making her over, putting false eyelashes on
-her.
-MR. CAMPBELL
-Come on, you know you can tel1 your old man anything.
-She wants to talk, but holds back~
-CINDY
-Just high school stuff, Dad.
-MR. CAMPBELL
-(smiles)
-O.K., I understand·.
-He now rolls her hair in curlers with fatherly tenderness.
-MR. CAMPBELL
-Say, did I ever tell you about the
-day you were ·born?
-She shakes her head "no," then puts her head on the pillow
-to hear his bedtime story. ·
-MR. CAMPBELL
-I remember like it was yesterday.
-You know, you almost didn't make it.
-He applies a mudmask over her face.
-MR. CAMPBELL
-There we were at the abortion
-clinic. The physician's assistant
-vacuumed and scraped you out of · your
-mother; the·n tossed you in the
-garbage with the other fetuses •••
-(plucks her eyebrows)
-••• But the doctor noticed that your
-heart was still beating, so we got shafted on that whole · .. 3rd
-Trimester" thing~ · Then !'18- took you
-home and named you Cindy after
-your grandmother, Diane. 
-40.
-She closes her eyes and smiles peacefully as he waxes her
-mustache.
-CINDY
-(drifting off) Thanks, Dad.
-We now see she is heavily made up, looking like Tammy Faye Baker.
-MR. CAMPBELL
-Goodr-. ~.ght, pumpkin.
-INT - SCHOOL GYM - NIGHT
-_Jake pumps iron in the deserted weight room.
-CUT TO:
-He turns his walkman up, and we HEAR Hanson's "Mmm - Bop"
-over his headphones. He bobs· his head to the music.
-AT THE LOCKERS
-A SHADOWY FIGURE enters, and opens Jake's locker.
-CLOSE ON the ~igure' s black gloved hand,. which switches
-Jake's steroid vial with a vial labeled: ESTROGEN.
-The Shadowy figure exits. A moment later, Jake enters.
-Jake takes a needle, fills it from the switched vial, then
-plunges it into his arm.
-BACK IN THE Gm
-. Jake resumes his workout, curling ·dumbbells.
-Suddenly; his chest swells •.
-JAKE
-What the ••• ?
-His chest continues to swell, he's developing tits.·
-He rushes to the mirror, whips off his shirt and GASPS.
-Jake now has a pair of 38OO.WOMEN'S BREASTS!
-· JAKE
-Noooo ••••• !
-CUT TO:· 
-I
-/
-41.
-INT - VIDEO STORE - NIGHT
-Quentin lets out the last CUSTOMER, then locks the door and
-hangs the CLOSED sign. He turns off the lights, and walks
-to the back room.
-IN THE BACK ROOM
-Quentin enters and CLAPS ON the lights, which transforms
-the room into a porno haven:
-A disco ball and red ligh~ illuminate the room as a heart
-shaped Murphy bed folds down from the wall.
-The song, "I Touch Myself," by The Divinyls UP.
-The shelves flip over, revealing zebra and leopard skin
-walls.
-Tacked on the doors are nudie centerfold pictures of
-Quentin's favorites - CAPTAIN PICKARD, BILL GATES, and
-MARTHA STEWART.
-Quentin grabs a video and sticks it in the VCR. The cover
-of the video reads: "Shaving Ryan's Privates."
-we HEAR the sound of people MOANING, and jazzy porno music
-from the T.V.
-Quentin pulls his pants down and starts jacking-off to the . porno and centerfolds.
-QUENTIN
-Oh yeah, take that Martha Stewart •••
-He uses a penis pump, then a dustbuster, then. grabs a
-GERBIL and smiles lustfully.
-GERBIL
+You have a nice voice, and you look
+good in that tight blue sweater.
+
+DREW
 (frightened)
-Squeek - squeek ••• !
-He reaches for a nearby·jar of Vaseline, scoops a big
-dollup of goo, and spreads it on his dick.
-SHLURP - SHLURP - SHLURP ! He jacks-off with the Vaseline.
-A frown slowly creeps acrqss his face. He looks down at
-his crotch in pain. 
-42.
-QUENTIN
-OWl !
-He grabs the jar of Vaseline and examines it to find it's
-actually a jar of Ben Gay Deep Heating Rub. Somebody scratched off the label to sabotage him.
-QUENTIN
-AHHHHl !
-As smoke emanates from his crotch, he hops around the room, fanning himself in pain.
-CUT TO:
-INT - BUFFY'S BEDROOM - NIGHT
-Buffy sits at her vanity table, brushing her hair in the
-mirror.
-BUFFY
-(counting brush strokes)
-Ten-thousand one, ten-thousand
-two •••
-BUFFY'S MOM
-(O.S.)
-Buffy, time to go to bed, you"ve
-been brushing your hair for hours.
-BUFFY
-(she stops) Allright, Mom. It's just that my
-hair's so beautiful, I wouldn't want
-anything to happen . to it •••
-(she l9oks into camera)
-••• especially in the next scene.
-She gets into bed and turns off the light.
-NEXT MORNING
-TIME LAPSE:
-Buffy YAWNS and stretches awake, then goes to the mirror. ·
-Her POV: Her hair has been cut and styled into a "Friends"
-style shag.
-She.SCREAMS in terror. 
-BUFFY
-(horrified)
-Noooo!!!! Not the Jennifer Aniston
-shag - that's so out •••
-43.
-She looks down to see that she's wearing acid wash jeans.
-BUFFY
-Acid wash jeans ••• !
-She tries desperately to unzip the jeans, but the zippers been rusted shut.
-She sinks to her knees SOBBING over her outdated look.
-CUT TO:
-INT - CINDY'S BEDROOM - MORNING .. Cindy wakes slowly.
-on her silk pajamas.
-blood on them also.
-She looks down in shock to see blood
-She holds her· hands up - there's
-· She pulls back the c.overs slowly - blood -everywhere.
-Terrified, She sits up and flings the covers aside.
-The severed head of her dog Cujo lies next to her in bed.
-CINDY
-(horrified)
-Cujo!
-She pulls the covers back further, revealing a severed
-dolphin's head.
-CINDY
--Flipper!!
-She pulls _- the covers back further, revealing a severed
-pig's head ..
-CINDY
-Babe!! 1
-Her SCREAMS echo through the neighborhood.
-CUT TO:
-INT BIOLOGY CLASS - DAY
-.- A banner reads: · ANNUAL. HALLOWEEN PARTY - 3 DAYS AWAY 1 
-(~\
-\ ; ·•· _.//
-44.
-PANNING down the rows of STUDENTS, we see one dissecting a
-frog, another·dissecting a cat, and another dissecting a
-human cadaver.
-we FEATURE Cindy, Skeet, Jake, Buffy, and Quentin among the
-students.
-The BELL RINGS.
-TEACHER
-Read Chapter 13, entitled "Chapter Thirteen," for tomorrow.
-The Teacher and Students exit, leaving our cast of teens
-behind in the empty classroom.
-All are suffering from the effects of last night's terror - Jake has cleavage, Buffy has a bad hair-do, and Quentin has
-an ice pack shoved in his pants.
-CINDY
-Now do you all believe me?
-QUENTIN
-Someone definitely knows.
-BUFFY
-What happene.d to you, Skeet?
-SKEET.
-Uh ••• nothing.
-JAKE
-How come you're the only one who
-wasn't terrorized last night? • • :•:..~•• • ~: •:••;•••." _•: .:•; _' ~- •, • .- 0 • • ,h- , : • • :, ••~~ .::._. • •
-They all look·'"•at-"him :suspiciously. ·
-·SKEET
-What're you trying to say?
-BUFFY
-. ( including sign language)
-It has to be you, Skeet!
-Jake grabs him by the· throat. and CHOKES him.
-SKEET
-(gasping) . Cindy ••• tell them it.wasn't me •••
-Cindy only·stares at him. 
-Her POV: He has red horns, a pitchfork, and a pointed
-goatee like Satan.
-CINDY
-Where were you last night, Skeet?
-Jake finally .drops him, and he,.· GASPS for air.
-SKEET
-I told you. I was uh ••. helping my
-sister with her homework.
-CINDY
-But you don't have a sister.
-SKEET
-Did I say "sister?" I
-meant ••• hampster.
-CINDY
-(nods understandingly)
-Oh.
-QUENTIN
-Good enough for me.
-BUFFY
-I buy it.
-JAKE
-It's air tight.
-Cindy hugs Skeet.
-CINDY
-I 'm sorry I ever q.o~b~_ed . you.
-SKEET
-You know, it's probably that Cotton
-Blend guy.
-QUENTIN He couldn't have.
-SKEET
-How do you know?
-QUENTIN .
-He was 3,000 miles away taping the
-"Courtney: Cocks Show."
-(pulls out a video tape)
-· Check this out •••
-45. 
-46.
-Quentin goes to the nearby T.V. stand and sticks the video
-i11 the VCR •
-. ON THE T.V.
-A "Jerry Springer,. style talk show, except with Courtney Cocks as the host.
-The show"s theme music plays The Rembrandts, "I'll Be There
-For You," from the T. V. show ''Friends."
-Cotton Blend sits on stage in front of a live AUDIENCE.
-COURTNEY
-(into microphone) If you're just joining us, today's
-guest is convicted killer Cotton
-Blend.
-The audience APPLAUDS.
-ON CINDY
-COURTNEY
-Cotton, do you have anything to say
-to the survivors of your victim?
-COTTON
-Yeah, uh ••• if you're watching out
-there, I uh, just wanna say that I
-didn't do it, I didn't kill that
-lady.
-Watching with utter contempt.
-CINDY
-Goddamn liar •••
-BACK ON THE T.V.
-COTTON
-And I'm not a goddamn liar. I swear
-I never slit her jugular with a 3"
-.wusthof paring knife, draining her
-blood meticulously into empty ·
-Clausen kosher pickle jars, then
-unraveling her intestine and
-stringing it over the mantle like
-Christmas lights. ( he breaks down SOBBING) - I woutd·never do anything like that ~ I'm a pacifist ••• 
-l
-I
-•
-He wipes his tears, exposing his forearms which are
-tattooed with ~'KKK" and "Aryan Race."
-ON COURTNEY COCKS
-Also dabbing a tear from her eye.
-COURTNEY
-That is extremely touching ••.
-She recovers, then looks cheerily into the camera.
-COl.iRTNEY
-Now to boost our. ratings - some
-gratuitous violence!
-47.
-Behind her we see the audience ERUPT into an all-out, chair
-throwing BRAWL.
-KICK! PUNCH! SMASH!
-PUMMELS each other.
-It's utter chaos as everyone
-· ON CINDY
-She turns the T.V. off in_ disgust.
-BUFFY
-If it's not him, then who's doing
-this to us?.
-They ponder a beat.
-QUENTIN
-Maybe it has something to do with
-the guy we ran over in the first
-scene of the movie.·
-JAKE
-Maybe. someone saw us •••
-SKEET
-There was that other car •••
-BUFFY
-or maybe someone at the docks •••
-CINDY
-(interrupts} .. . His name was Tom Tingle •..
-She pulls a newspaper clipping out of her pocket. 
-,
-t
---,._,
-)
-/
-•
-I
-I
-I
-,
-I '
-l
-i
-__ j
-SIZZLE!
-C.l:NDY
-Dad, you're always working.
-MR. CAMPBELL
-I know, honey, but being an Avon
-Lady 'aint what it used to be.
-Th~ omelette finally 'lands back in the skillet.
-MR. CAMPBELL
-It's ready.
-.. .., .
-He FLINGS tha omelette through the air at her, like a fish
-· monger throws a fish.
-She CATCHES it in mid air, then puts it on her plate.
-CINDY
-(taking a bite)
-Mrnmm ••• mom's recipe.
-They look at each other, and tears well in their eyes. He
-goes and hugs her. ·· ·
-CINDY
-Oh, Dad, I just wish she was still
-here.
-MR. CAMPBELL
-I miss her too. ' But we' 11 always have.her ••. bones.
-we PAN to the corner, where Mrs. Campbell's skeleton hangs
-on an anatomical stand.
-Her skeleton wears an apron labeled, "Supermom"
-MR. CAMPBELL
-(grabbing luggage)
-sure you're going to be o.k.?
-CINDY
-Don't worry abo.ut me, what could
-possibly happen?
-He gives her a peck on the cheek, then exits.
-Cindy turns her- attention to the T .• V.
-ON THE T.V.
-A Courtney Cox type tabloid reporter, named COURTNEY COCKS,
-does a remote broadcast in front of a mental hospital. 
-I
-I
-)
-I
-COURTNEY
-· (into microphone)
-This is Courtney Cocks coming to you live from Bellview Mental Hospital, where, .due to budgetary cutbacks - all inmates are being released.
-·crNDY
-Oh, my lord •••
-We PAN to the couch, where JESUS CHRIST sits smoking a
-cigarette.
-JESUS CHRIST
-Yeah?
-BACK ON THE T.V.
-As Courtney reports, we see TED KACZYNSKI and HANNIBAL
-LECTER walk past her.
-Courtney eagerly approaches them for a statement.
-COURTNEY
-Unibomber and Hannibal the Cannibal - you"ve just been released from the
-insane asylum, what're you going to
-do next? ·
-LECTER &
-KACZYNSKI
-We"re going to Disneyland!
-Cindy watches the T.V •. in horror as her mother's killer,
-COTTON BLEND, is also let free.
-COURTNEY
-And here comes Bellview's most
-infamous patient - Cotton Blend,
-convicted murderer of Joan Campbell. ·
-· Cotton puts his hand over the camera, partially blocking
-his face.
-Cindy GASPS, then whips out the framed picture she keeps of
-Cotto.n.
-ON THE FRAMED PICTURE
-Cotton also has his hand in front of the lens in the photo,
-just like on T.V.
-.. ; 
-I
-BACK ON T.V.
-Courtney rushes to Cotton, and we finally get a glimpse of
-him - late J0's, stubble faced ~irtbag.
-COURTNEY
-Cotton, you have your freedom. Will
-you now try to seek closure by
-killing your victim's daughter,
-Cindy Campbell?
-COTTON
-No comment.
-Cotton throws his jacket over his head to shield himself
-from the glaring media crush.
-He gets in his car, still with his jacket over his head,
-and drives off.
-O .S • we hear SWERVE! CRASH 1 CRUNCH!
-CUT TO:
-EXT - KEVIN WILLIAMSON HIGH SCHOOL - MORNING
-Cindy parks her car in StUDENT PARKING, then exits. As
-she strides through the parking lot, she passes FACULTY
-PARKING, then finally, TABLOID REPORTER PARKING.
-A swarm of REPORTERS and CAMERAMEN get out of news vans.
-Among them is GERALDO RIVERA, JERRY SPRINGER, and
-STUTTERING JOHN.
-They spot Cindy and converge on her, shoving microphones
-and cameras in her face.
-REPORTER #1
-Cindy - can you give us a
-statement? 1
-REPORTER #2 .
-How's it feel knowing your mom's
-killer is on the loose?
-REPORTER #2
-Talk to us Cindy!
-CINDY
-No comment •••
-They continue to swarm her with questions. She squints . from the POPPING FLASHBULBS. . 
-She tries to walk past them, but they block her way .
-. CINDY
-I said no comment .•.
-23.
-SMACK! Cindy karate chops a Reporter to the ground. POW!
-She does a spinning back kick to another.
-She whips out a pair of nlinchucks with a "Waah!" and
-proceeds to WHACK! Reporters with them.
-She does a backflip, then delivers a scissor kick to a
-Photographer's neck - CRUNCH! She steps over the heap of
-beaten and GROANING Reporters and Cameramen. . .
-As she walks the front steps to school, tabloid reporter
-COURTNEY COCKS and her CAMERAMAN step into her path.
-Cindy instantly recognizes Courtney and smolders with
-hatred ..
-COURTNEY
-Cindy, how about giving me a
-statement? ·
-She puts the microphone in Cindy's face. A small crowd of
-STUDENTS gather around, including Skeet, who stands
-protectively next to Cindy.
-CINDY
-Why should I talk to you?
-. COURTNEY
-Look, just ·because I sold a madefor-T.V. movie, two best sellers,
-and an infomercial about your mom's
-murder - it doesn't make me a
-villain.
-CAMERAMAN
-· Actually, it does.
-COURTNEY
-· Do 'ya think?
-He nods "yes". Courtney looks at the crowd of Students,
-who also nod "yes."
-CINDY
-(seething)
-I found the Broadway play
-particularly offensive. 
-..i,/
-A beat.
-SKEET
-~eah, it was overbearing and
-shoddily choreographed at best.
-COURTNEY
-(shrugs)
-Anyhoo ••• Cindy, aren't you scared
-Cotton will come back for you?
-CINDY.
-You want a story?
-24.
-She rears back and PUNCHES Courtney in the face. She then
-wrenches the camera away from the Cameraman.
-CINDY
-I'll give you a story ..•
-SMACK! CRUNCH! She BASHES Courtney about the head,
-breaking the camera and knocking Courtney out •
-. SHERIFF DUTY - A Roseanna, Patricia, I mean David Arquette
-type, breaks up the fight.·.·
-SHERIFF DUTY
-Break it up - that's enough!
-Skeet puts an arm around Cindy to calm her.
-SHERIFF DUTY
-I'm very disappointed •
-. CINDY
-sorry, Sheriff Duty.
-. SHERIFF DUTY
-Why don't you kids get to class?
-Cindy and the rest. of the Students disperse to school •.
-Behind sheriff Duty, Courtney rises to her wobbly feet,
-•looking dazed.
-.SHERIFF DUTY
-(calling after the kids).
-Violence never solves anything •••
-He gestures with his police batpn_ to emphasize his point. 
-I
-SHERIFF DUTY
-(cont'd}
-We can talk things out ...
-25.
-WHACK! He unknowingly smacks Courtney over the kneecaps.
-She doubles over, MOANING in pain.
-SHERIFF DUTY
-(cont'd)
-••• without using our fists .•.
-WHACK! He unknowingly smacks her in the face, knocking her
-out again.
-CUT TO:
-INT - SCHOOL HALLWAY - DAY
-STUDENTS crowd the hallway, talking and laughing with each
-.other.
-A banner on the wall reads:. ANNUAL HALLOWEEN PARTY -
-ONE WEEK AWAY!
-Another banner reads: . HEROIN SAFETY 'ASSEMBLY - HOW TO
-HIDE YOUR TRACKS.
-Skeet walks· Cindy to class.
-SKEET
-You o.k.?
-CINDY
-I'll be allright~
-The bell RINGS.
-PRINCIPAL FONZY comes down the hall, speaking into a
-megaphone.
-PRINCIPAL FONZY
-(amplified)
-EVERYONE BACK . . TO CLASS. COME ON
-PEOPLE - NOW!
-Skeet gives Cindy a quick kiss.
-SKEET
-Meet me at the quad after bio.
-· He exits. Cindy ducks into the women's r~stroom. 
-IN THE BATHROOM
-Cindy stands at the mirror, and ·takes a hard look at
-herself.
-CINDY
-(to her reflection)
-You' ve got to be strong. You 've got
-to be a survivor.
-Two CHEERLEADERS, each sitting on the toilet in adjacent stalls, are unaware of Cindy"s presence.
-'• '
-CHEERLEADER #1.
-Did you check out that Cindy Campbell. chick this morning? She so
-creepy •••
-Cindy OVERHEARS them, becoming visibly upset.
-CHEERLEADER #2
-I know.
-FART!! FART!! The Cheerleaders let a few rip.
-CHEERLEADER #1
-Everytime I pass her in.the hall,
-she fully weirds me out.
-26.
-SHIT! PLOP! SPLASH! The Cheerleaders move their bowels.
-CHEERLEADER #2
-Everyone thinks she's a loon.
-SPRAY! SPLATERRRR11 One of the Cheerleaders HAS THE RUNS.
-CHEERL:E;ADER #1
-She's probably mental.
-Tears well in Cindy's eyes from their harsh words, and
-odors. She rushes ·out of. the bathroom.
-IN THE HALLWAY
-Principal Fonzy spots the tearful Cindy exiting the
-bathroom.
-CINDY
-Principal Fonzy? 
-t
-I
-t
-'
-I
-•
-t
-' t
-•
-J
-/'--'\
-( '
-\ ./ r---
-,
-I
-PRINCIPAL FONZY
-(still using megaphone)
-WHAT'S WRONG, CINDY?.
-CINDY
-It's nothing, really~
-I
-PRINCIPAL FONZY
-THAT'S O.K., CINDY, I THINK I KNOW
-WHAT'S TROUBLING YOU.
-CINDY
-You do?
-PRINCIPAL FONZY
-YES. A WOMAN'S MENSTRUAL CYCLE IS A
-.VERY PERSONAL AND. PRIVATE MATTER.
-CINDY
-Huh?
-L I •
-Cindy looks around to see a few. Student's now peeking their
-heads out of classroom doors to gawk at her •
-PRINCIPAL FONZY
-THE DROPPING OF HER EGG AND
-SUBSEQUENT BLOOD FLOW CAN LEAVE A
-GIRL WITH MANY QUESTIONS ABOUT HER
-BODY •••
-Cindy slinks off down the hall, as Principal Fonzy wheels
-around on the gawking students.
-PRINCIPAL FONZY
-'EVERYONE BACK TO CLASS - CINDY Is
-PERIOD DOESN'T CONCERN YOU ••.
-INT - CINDY'S BEDR90M - NIGHT
-CUT TO:
-Cindy, wearin9 a nightgown, sits on her bed studying.·
-OUTSIDE
-Skeet stands on the front lawn, looking up at her bedroom . window.
-SKEET.
-( whisper calls)
-Cindy?_ Cindy? 
-( \ No response. window.
-He picks up a pebble and throws it at her
-28.
-TINK! The pebble bounces off the window, but there's still
-no response.
-SKEET
-(louder) Cindy?
-He picks up a rock and throws it at the window - THUD!
-Still no response.·
-SKEET
-(yells)
-CINDY!
-Finally, he wheels over a medieval catapult, with. a boulder
-loaded on it. He cuts the catapult release cord.
-WHOOSH! The boulder hurtles through the air.
-SMASH! The boulder CRASHES through the entire window
-.frame.
-IN CINDY'S BEDROOM
-She is oblivious to the boulder which has CRASHED into her
-room~
-A moment later, Skeet climbs through' the window •
-. CINDY
-Skeet - you scared me.
-(helps him inside) Don't worry, my dad's out of town.
-SKEET
-That's strange, your dad's always
-out. of town.
-·sKEET & CINDY
-(in unison) . HIJlmnDil • • • • •
-SKEET
-Hey, what happened? Why didn't you
-meet me at the quad?
-She looks away. 
-I.
-CINDY
-D~ you think I'm psycho?
-He crosses his fingers behind his back.
-SKEET
-No, of course not.
-(he rubs her shoulders)
-You've got to relax. You trust me, don't you?
-He kisses her gently.
-CI~u1
-I do •• • I ...
-He sweeps her in and they kiss passionately. A beat.
-, 29 .
-He slowly lifts the sh9ulder strap of her nightgown, and
-runs his fingers sensuously through her back hair.
-He whispers softly in her ear.
-SKEET
-Your hair's so soft and silky smooth. What do you use?
-CINDY·
-(getting excited)'
-Pantene Pro-V Formula. It's two in
-one - a shampoo plus conditioner.
-He lays her down on the bed as they continue kissing •. He
-raises her nightgown and looks down.
-, SKEET
-That' s some camel toe.
-CINDY
-Thanks.
-He reaches past her to the nightstand and holds up an
-actual severed, stuffed camel's foot.
-CINDY
-My dad got it in Egypt.
-He replaces the _foot, then strips down.to his boxers •. T~ey continue making out, and he rais·es her nightgown further to
-rev~al her panties. · ·
-CLOSE ON CINDY'S PANTIES 
-I
-/,--•··,\
-! '
-I-, ..,./
-I
-Inste~d of elastic, tiny barbed wire runs along the
-perimeter. There's also a ZAPPING electrified fence and a
-sign reading: NO TRESPASSING.
-SKEET
-I don't.know if I can take this
-anymore. I mean, we've been going
-out since we were freshman.
-CINDY
-I'm just not ready.
-Frustrated, he gets out. of bed, wearing only his boxers.
-He grabs a marker and goes to the mirror.
-Like Matt Damon in "Good Will Hu_nting," he solves complex math equations on the mirror.
-CINDY
-Skeet, you always solve complex
-mathematical equations when you get
-upset - just talk to me.
-Skeet erases the equation, then draws a picture of an eye~
-They now play "Pictionary." - He draws furiously as she
-tries to decipher his message.
-CINDY
-What is that, an eye? Oh, "I" .••
-(he draws a magic wand)
-•.• wand. I want ... (he draws a 2) ... I want to •••• . ( he draws a brake pedal)
-.•• I want to break •••
-(he draws an up arrow)
-••• I - want - to - break - up.
-His pictionary message sets in.
-CINDY
-You want to break up with me?
-He doesn't answer. A beat·.
-CINDY
-I promise •••
-(she moves closer) ... I'll come around. You just have
-·to give me a little more time.
-She takes his finger and puts it into her mouth, SUCKING
-slowly on it.
-'. , . - i'I
-I ------------,
-i
-' I ------·
-Jl.
-He takes his finger out of her mouth - it's now three times
-it's normal size and THROBBING.
-CUT TO:
-INT - HIGH SCHOOL - DAY
-A banner reads: ANNUAL HALLOWEEN PARTY - 4 DAYS AWAY!
-Cindy walks down the crowded hallway to her locker. She
-opens it to reveal her locker is decorated with beefcake
-teen heart-throb photos - LEONARDO DICAPFTO, BRAD PITT, AND
-BILL CLINTON. .
-She find a note inside.
-The note reads: I KNOW WHAT YOU DID LAST HALLOWEEN.
-She GASPS, ··completely freaked.
-CINDY
-I have to tell the others •••
-CUT TO:
-INT - BOY'S LOCKER ROOM - DAY
-The FOOTBALL TEAM is gearing up for practice. As they strip down, we FOCUS on several naked butts.
-First a muscular butt, then a sun-tanned bikini line butt,
-then a ultra fat butt with crack hair and pimples.
-ON JAKE'S LOCKER
-He opens it to revea~ it looks like a medicine chest - bottles of every known prescription.
-He looks around to make sure no one"s watching, then grabs
-a syringe and fills it from a vial labeled ster<:>ids. ··
-He plunges the needle into his arm, and immediately his
-biceps. swells. to twice their size.
-He then grabs Rogaine, and rubs it into his scalp. Finally, he grabs a bottle of Massengail Disposable douche,
-and holds it up.
-JAKE
-(into camera)
-For the days when I'm just not
-feeling my freshest. 
-:...,..
-'
-1.
-I .
-I J, \./ • I
-32.
-He lowers the douche between his legs as we •..
-CUT TO:
-EXT - FOOTBALL FIELD - DAY
-As the PLAYERS come out of the locker for practice, Cindy looks for Jake.
-He comes out, all suited up.
-CINDY
-Jake •••
-JAKE
-What do you want? I got practice.
-She shows him the note.
-CINDY
-What do you make of this?
-JAKE .
-(examining note)
-Hmmm ••• 8 1/2 x. 11. •. college ruled •.• three hole punch •.•
-(looks up gravely) This is horrifying.
-· CINDY
-Now read it.
-As he turns the note over and reads, his face goes white
-with terror.
-INT - SCHOOL AUDITORIUM - DAY
-A banner reads: HOMECOMING . QUEEN PAGEANT. The seats
-are ~illed with STUDENTS.
-ON STAGE.
-A dozen TEENAGE GIRLS, including Buffy, stand in front of
-the audience.
-Principal Fonzy addresses the crowd from the podium •
-. PRINCIPAL FONZY
-(into m.icr0phone) And that concludes the bathing suit
-part of our competition. · 
-. .(,,....-,
-I ' \ ) '·~ ___ ,/.
-JJ .
-We FEATURE Cindy in the crowd, anxiously waiting to talk to
-Buffy.
-PRINCIPAL FONZY
-Our judges have narrowed it down to
-three finalists.
-ON THE JUDGES TABLE
-The judges are JUDGE JUDY, JUDGE WAPNER, and JUDGE
-REINHOLD.· They hand a card to Principal Fonzy.
-PRINCIPAL FONZY
-(reading card) And our three finalists
-are ••• Danielle; Heather ••• and Buffy 1
-Buffy, Heather,. and Danielle hug each other excitedly as
-the othe~ Contestants exit the stage to APPLAUSE.
-PRINCIPAL FONZY
-Now for the talent part of our
-competition.
-Buffy, Heather, and Danielle exit to change.
-PRINCIPAL FONZY
-First up is Heather, who will juggle
-for us.
-Heather strides out onstage, carrying juggling balls. She.
-juggles the-balls, as· a STAGEHAND stands by.
-The .stagehand tosses her an apple, which she.incorporates iQto·· her:•juggling, BITING. the apple as she juggles.
-He then tosses her a chainsaw, a.blow torch; and finally, a
-poodle.
-POOI;>LE
-Ruff!.
-She incorporates all of them into her juggling.
-She finishes to POLITE APPLAUSE.
-PRINCIPAL FONZY
-Thank you, Heather. Next up is
-Danielle •••
-Danielle strides onstage, dragging a bed of nails with her.
-She lies down on the. bed of nails. 
-)
-.• . \ ,
-CINDY
-I checked the obituaries every day
-after ••• that night. Some fishermen
-found his body in their. nets eleven
-days later. Half of him had been
-consumed by a giant octopus.
-48.
-,She whips out another newspaper clipping -.this one with a
-color photo of a giant octopus and two legs sticking out of
-it.
-CINDY
-I think someone's getting revenge for what we did to him.
-They're all freaked.
-BUFFY
-Shit ••• I knew we should've gone to
-the cops.
-QUENTIN
-(to Buffy)
-Are you for real?
-JAKE
-Yeah ••• you warited to cover it up
-more than anyone.
-BUFFY
-Me?1
-They all start to ARGUE violently,·pushing and shoving each
-other. Finally. Cindy cuts through.
-CINDY
-I think I know who it is.
-~hey all stop in mid""fight, posing in strangle, punching,
-and kneeing poses.
-CINDY
-The paper said his only living relative was his twin brother, Tim
-Tingle. I did some checking, he
-works at the Marquee movie theater
-downtown. I think we should go
-there, check it out ·- see what he
-.knows. Who's with me?·
-. They all look down at their feet, WHISTLING, obviously not
-wanting to .go. 
-QUENTIN I •·11 go.
-She looks disappointedly at Skeet.
-CINDY
-Thanks, Quentin.
-49.
-CUT TO:
-EXT - MARQUEE MOVIE THEATER - NIGHT
-The marquee reads: HORROR MOVIE FESTIVAL!
-Dozens of TEENAGERS, wearing horror costumes, wait in line.
-INSIDE
-Cindy and Quentin stand in the lobby, looking around.
-QUENTIN
-Any idea.what he looks like?
-CINDY
-Receding hairline, beady eyes, buck
-teeth •••
-we PAN to-see she's looking at a picture over a plague which r_eads: "Tim 'l'ingle - Employee of the Month."
-CINDY
-Let• s separate.
-QUENTIN
-Good idea - there's safety in
-numbers. _ ·. . . -- .. ; ,·
-They separate • . Cindy approaches an USHER.
-CINDY
-Hi, do you know if Tim is working tonight? I'm his girlfriend and I
-have something to tell him ••• _ (whispers conspiratorially)
-••• gonorrhea.
-The Usher takes a step back.
-USHER
-Upstairs_ - -in the_ proj·ection room. 
-t
-t
-CINDY
-Thanks.
-She w~lks up the staircase.
-UPSTAIRS
-A long, dark hallway leads to 'the projection room.
-Cindy, nerves on edge, walks slowly down the hall. Her
-footsteps CREAK on the floorboards.
-:~ow1 A CAT jumps out and startles her - "Ahl"
-CINDY
-(sighs in relief}
-It's just a kitten •••
--She walks on slowly, completely spooked out.
-so.
-HOOT! HOOT! An OWL flies bY., startling her. She takes a
-few more tentative steps.
-SQUEEK! SQUEEK! SQUEEK! A nest of BATS fly around her
-head, startling her.
-CINDY
-Ah!
-She rushes down the hall and enters the projection room.
-IN THE MOVIE THEATER
-Quentin scans the rows of costumed audience members in the
-dark theater • . . . ,.
-He becomes distracted by the movie on screen, "Friday the
-13th."
-QUENTIN
-Friday the 13th, my favorite •••
-He takes a seat and watches the movie.
-BACK IN THE PROJECTION ROOM
-Cindy enters to find it's deserted. She looks around for
-clues.
-She looks at the books on the shelf - Killing on $2 a Day;
-and Blowing Up the Bridges of Madison County. 
-• I
-I
-I
-~
-I
-I
-! ,• '\
-j)
-,
-I
-t
--r
-CINDY
-Jesus Christ •••
-We PAN to the corner, where JESUS CHRIST sits smoking a
-cigarette •.
-JESUS CHRIST
-What?!
-51.
-Cindy snoops around, opening file cabinets, rifling through drawers, pulling down shelves.
-Suddenly, ,=;he tu.ens to see a Xerox machine in the middle of
-the room.
-The Xerox machine is on, spitting out copies which all
-read: I. KNOW WHAT YOU DID LAST HALLOWEEN.
-Cindy grabs a flier, reads it, then drops it in horror.
-She looks at a nearby table and GASPS •
-On the table are every piece of concession merchandise.
-available - T-shirts, baseball caps, coffee mugs, and
-balloons - all with the same label: I KNOW WHAT YOU DID
-LAST HALLOWEEN.
-CINDY
-I have. to warn Quentin •••
-She rushes -out.
-BACK ON QUENTIN
-Still watching "Friday the 13th." On screen we see JASON,
-wearing his trademark hockey mask,.· about ·to stab a victim.
-Quentin n~dgEis~·the guy sitting next to him.
-QUENTIN
-This is the best part •• _.
-The guy next to Quentin doesn't respond.
-Quentin turns to see it's actually the KILLER, wearing the
-CASPER MASK, sitting next to him •.
-QUENTIN
-AAHHH! ! 1
-As Quentin SCREAMS in terror, so does the audience,
-reacting to the movie. 
-•
-I
-I
-I
-t
-f
-As JASON stabs an on-screen victim, the Killer STABS
-Quentin.
-Quentin runs bleeding down the aisle, the Killer in hot
-pursuit.
-QUENTIN
-Help me!!!
-52.
-Quentin mounts the stairs and stands in front of the movie
-screen, pleading to the audience.
-QUENTIN
-Help ••••
-The Killer appears onstage, brandishing the knife. The
-audience CHEERS them on, believing them to be pretending the parts that are on-screen.
-Quentin backs away, terrified. He runs offstage, into the
-adjacent theater, with the Killer in tow.
-IN THE ADJACENT THEATER.
-Quentin and the Killer rush onstage, in front of the movie
-screen, which plays "Pulp Fiction."
-on screen we see the famous scene where VING RHAMES gets butt-fucked by ZEKE.
-QUENTIN
-( looking at scene)
-No •••• 1
-He looks back at the Killer, who's UNBU~ONING HIS PANTS.~-
-. IN ANOTHER THEATER.
-Quentin hobbles out onstage, rubbing his now sore butt.
-He and the killer are now in front of a screen which plays
-"Titanic" - Leonardo's death scene. . .
-Quentin and the Killer can't help themselves, they both
-start WEEPING along with the audience.
-Quentin hands the Killer a hankie, as they give each other
-a: consol_ing hug. -
-The• Killer blows his nose and dries his eyes; and the
-pursuit ·continues.· 
-IN ANOTHER THEATER
-Quentin runs in front of the movie screen, which plays "Braveheart."
-SJ.
-He looks up at the screen in dread as Mel Gibson is about
-to be disemboweled.
-QUENTIN
-Oh, shit ••••
-The Killer appears onstage, brandishing his own meat hook.
-AT THE BACK OF THE THEATER
-Cindy rushes in and sees Quentin and the Killer onstage. She's the only one who realizes it's not an act.
-CINDY
-NO!!
-She races to the front of the theater.
-BACK ONSTAGE
-Coinciding with the action on-screen, the Killer pulls out
-Quentin's intestines, like a magician pulling an endless
-rope out of a hat.
-CINDY
-Quentin!
-Quentin collapses in a bloody heap as the Killer stands
-over him.
-ON TWO MOVIEGOERS
-Watching the action.
-MOVIEGOER #1
-Whoa, they're really into it.
-MOVIEGOER #2
-Yeah, but the blood looks fake.
-The Killer looks up to see Cindy rushing onstage.
-CINDY
-(to Killer) Oh my g~d - he killed Quentin! You
-bastard! 
-·,
-j
-/
-The Killer fl~es offstage, and Cindy chases after him.
-BEHIND THE SCREEN
-54.
-Cindy rushes offstage to find TIM TINGLE, standing there
-with a knife in one hand, and a Casper mask in the other.
-CINDY
-Tim Tingle!
-Tim quickly drops the knife and mask and escapes out the
-emergence exit.
-TIME LAPSE:
-OUTSIDE THE MOVIE THEATER
-The place is now a full crime scene - yellow police tape, flashing lights from the squad cars and ambulances.
-Sheriff Duty directs the POLICE to dust for fingerprint_s, and SNAP crime scene photos.
-A news van pulls up with Courtney Cocks and her Cameraman •.
-Courtney surveys the scenee
-COURTNEY
-Let's go.
-They grab their gear and exit the van.
-ON A SQUAD CAR
-Cindy sits in the back, wrapped in a blanket. She shivers,
-obviously in deep shock. . r. ,·. a•.
-Sheriff Duty stands by.
-SHERIFF DUTY
-Don't worry, we'll find him. I've
-got all my men on it.
-(beat) What were you kids doing here
-anyway?
-CINDY
-we came •••
-She looks at him, wanting to.tell him everything, but
-knowing she can't. 
-CINDY
-(cont'd,)
-••. to see the movie.•
-He stares at her skeptically. A beat.
-SHERIFF D~JTY
-Right.
-55.
-The PARAMEDICS carry Quentin out on a stretcher, zipped up in a body bag.
-Courtney Cocks swoops in to film the proceedings •.
-SHERIFF DUTY
-(to Courtney)
-Get those camera's out of here •••
-Behind him we see the Paramedics trying to load Quentin in
-the back of the ambulance.
-BAM! They miss the door, BASHING him against the fender.
-Another COP hands Sheriff Duty a foamy cup of coffee, which·
-he drinks.
-COURTNEY
-Aren't you a little young to be in
-charge of a homicide investigation,
-Sheriff?
-He lowe~s the cup of coffee, revealing a milk mustache.
-SHERIFF DUTY
-I resent that.
-EXT - KEVIN WILLIAMSON HIGH SCHOOL - MORNING
-CUT TO:
-A swarm of MEDIA has converged on the school. Dozens of
-REPORTERS broadcast into camera.' s. Among them we FEATURE
-Courtney Cocks.~
-COURTNEY _ (mid-broadcast) This is Courtney cocks live from
-Kevin Williamson High. Until his
-young life was cut short, Quentin ·
-Green wa$ a student here. He was
-murdered last night by a man wearing
-· this mask ••• 
-She holds up a Casper mask.
-COURTNEY
-••• The suspect,· Tim Tingle, is still
-at large. Tensions are high as
-panic has set in at this once
-peaceful high scho~l.
-She grabs a passing STUDENT and interviews him.
-COURTNEY
-Are you worried that you could bethe next victim?
-STUDENT -Not really. Police said they have _ the place pretty well protected and . uh... .
-COURTNEY . And you bought that crap? He could
-be anywhere, he could be stalking
-you right now!
-_The Student looks around, paranoid and scared.
-STUDENT
-You know, you're right.
-He drops his books and runs off SCREAMING.
-COURTNEY
-(turns to camera)
-As you can see, fear is rampant •••
-56.
-Skeet and Cindy pull into the parking lot in Skeet's car,
-and the crush of media spots them.
-They ru~h over ·to_the car with cries of "There she. isl"
-Courtney grabs her Cameraman.·
-COURTNEY
-Let's go.
-IN THE CAR
-Skeet and Cindy watch as the media CLAMOR around the ca~,
-BANGING on. the windows with cries of "Cindy! - Cindy1"
-CINDY
-Why can •·t they just leave me alo~e? 
-. .
-57.
-SKEET
-Hang on.
-SCREECH! · Skeet floors it, and drives away from t-he media.
-He looks in.the rearview mirror, and spots Courtney Cocks,
-running behind the.car with h~r microphone.
-As if she.were the Cyborg Cop in "Terminator 2," Courtney
-runs with superhuman speed and catches up to the car.
-She reaches out and STABS the trunk with her microphone, gaining a handhold, then uses it to pull herself onto the
-speeding car.
-She climbs over the roof and lays down on the hood, now
-staring_through the windshield at Skeet and Cindy.
-SKEET
-Get off my car!
-He makes SHARP TURNS, trying to get her off. She sticks
-her microphone in Cindy's window.
-COURTNEY
-Cindy, give me an exclusive - I can
-get you big bucks!
-Skeet drives through the Driver's Ed.obstacle course,
-trying frantically to shake her. He SCREECHES around the
-orange cones, but still she hangs on.
-COURTNEY
-Come on, Cindy!
-Cindy finally leans over and presses the wiper fluid
-button.
-·. Wiper· fluid shoots up . into Courtney's face •
-COURTNEY
-Ahh - my eyes!
-She goes FLYING off the hood and lands with a THUD!
-Skeet and Cindy drive to the back entrance of school - no
-sign of reporters.
-As they exit the car, Jake and Butfy approach.
-INSIDE THE HIGH SCHOOL 
-i ...
-l
-. ~ \
-58 .
-A banner reads: ANNUAL HALLOWEEN PARTY - 2 DAYS AWAY 1
-The four teens huddle under a stairwell, out of ear shot.
-CINDY
-I can't lie anymore. I'm gonna tell
-Sheriff Duty everything.
-JAKE
-You talk and I'll kill you myself.
-SKEET
-Hey!
-· Skeet grabs Jake, who shrugs him off •.
-JAKE
-And that goes for all of you. I'll
-take my chances with that psycho. If he wants a piece of me, he can
-bring it on. But I 'aint going to
-jail.
-He stares them all down meaningfuliy.
-JAKE
-You got it?
-They nod in silent intimidation.
-JAKE
-Now if you'll excuse me, I don't
-want to be late for my Home Ee
-class. Today we're making
-loganberry scones.
-The BELL. RINGS, and everyone goes their separate ways.
-CU'I' TO:
-INT - CLASSROOM - DAY
-Cindy sit$ at her desk, looking pale and skittish - the
-terror· and pressure are getting to her.
-Her ENGLISH TEACHER is in mid-lecture.
-ENGLISH TEACHER ..
-Your choices for book reports include~ TO Kill A Mockingbird, The
-Killing Fields, A Time to Kill,
-Death of a Salesman ••• 
-. I
-I
-I --~\
-I I
-\,,,,,./
-\
-I
-59.
-Cindy covers her ears - the room is spinning. She gets up ·and rushes out of the classroom.
-ENGLISH TEACHER
-Cindy? Cindy ••. ?!
-IN THE HALLWAY
-Cindy leans against a wall, hyperventilating. She catches
-her breath and walks down the hall.
-She turns a corner and •••
-BOO! Not one but two CASPER KILLERS jump out at her.
-Cindy SCREAMS in terror.
-The two take their masks off to reveal they are STUDENTS,
-playing a practical joke. _ They LAUGH at her.
-CINDY
-Real funny, assholes. You didn't
-scare me.
-We PAN down to reveal she is standing in a puddle of her
-own urine.
-PRINCIPAL FONZY
-Hey - you two!_
-Principal Fonzy comes up and grabs the masks out of the two
-pranksters hands.
-PRINCIPAL FONZY
-(re: masks}
-Is this your idea of a sick joke?
-PRANKSTER #1
-Well ••• yeah.
-The .other pran'kster nods •
-PRINCIPAL FONZY
-Both of you are expelled - get out
-of here.
-The two pranksters_ jump up and give each other high-fives.
-PRANKSTER #1
-Allrigh~ - no school! ··
-'I
-I .
-....---... \ I I
-'t .. ___ / PRANKSTER #2
-Yeah, let's go get drunk and do some
-vandalism •••
-They walk off happily.
-PRINCIPAL. FONZY
-Cindy, I want to see you in my office.
-INT - PRINCIPAL FONZY'S OFFICE - DAY
-Principal Fonzy and Cindy enter.
-PRINCIPAL FONZY
-Cindy, I'm concerned. I know this
-has been hard on you, but your
-grades have been slipping, you've
-been missing class ••. let's talk.
-60.
-CUT TO:
-He leads her to a black leather therapists couch. She
-reclines as he pulls up a chair behind her and takes out a
-notepad.
-PRINCIPAL F0NZY
-What's bothering you?
-CINDY
-Well ••• I've had trouble sleeping at
-night. I keep having the same
-nightmare... · ·
-. OISS0L-VE TO:
-INT - A SLAUGHTERHOUSE - HER NIGHTMARE
-In a parody of the Marilyn Manson video; "Sweet Dreams," we
-see Cindy, dressed as Marilyn, and singing.
-CINDY
-(sings)
-Sweet dreams are made of these •• • who
-am I to disagree •.•
-She wears Gothic makeup, jet black hair, and multi-colored
-contact lenses. She rides a PIG with a saddle.
-. CINDY (V .O.) ..
-And just as I '.m singing and _riding
-that pig ••• there ~omes Mom.
-FADE TO.WHITE: 
-I
--'
-IN A DREAMLIKE SETTING
-· we see different vignettes of Cindy and her mom, JOAN
-CAMPBELL - mid JO'S, pretty, motherly.
-ON A PLAYGROUND
-61.
-Joan pushes Cindy on a swing. They smile to each other as
-Joan pushes her higher, and higher.
-Joan pushes her too high, FLINGING her off the swing and
-into oncoming traffic. o.s. we hear CRASH! as we fade
-to •••
-IN THE KITCHEN
-Joan and Cindy bake together - pot brownies. We fade to •••
-·INA ROCKING CHAIR
-Joan.cradles Cindy, who breastfeeds·- at age 16. The dream
-turns into a nightmare as we fade to •.•
-THE KILLER
-Standing over JOAN'S BLOODY CORPSE. Cindy SCREAMS, but no
-sound comes out of her. mouth. Just as she tries to unmask
-the Killer, her dead mother speaks:
-DEAD JOAN
-Cindy, don't take off the
-mask ••• don't take off the mask •••
-ON- ·CINDY
-As she comes out of her dream.
-CINDY
-(cont'd)
-•· •• don •t take off the mask ••• don •t
-take off the mask •••
-DISSOLVE OUT:
-Behind her, Principal Fonzy is asleep - SNORING AWAY.
-Suddenly, Sheriff Duty appears in the doorway.
-CINDY
-Sheriff. Duty? 
-\
-}
-SHERIFF DUTY
-Cindy, I'm going to have to ask you
-to come with me.
-62.
-As they walk off, Principal Fonzy opens his eyes - he was
-pretend sleeping. He puts on the confiscated Casper mask
-and peers after them.
-INT - POLICE STATION - DAY
-Sheriff Duty leads Cindy into a lineup room.
-SHERIFF DUTY . We picked Tim Tingle up just outside
-of town. -we need you to make a
-positive I.D.
-IN THE LINEUP ROOM
-CUT TO:
-They stand behind a one-way mirror, looking through the
-glass at a SUSPECT LINEUP.
-Tim Tingle stands in the center, between five suspects.- A . FAT GUY, BLACK GUY' RED HEADED GUY' E_FFEMINATE GUY' and a
-TALL GUY.
-Sheriff Duty presses the intercom to talk to the suspects.
-SHERIFF DUTY
-(into intercom)
-Step forward.
-The suspects do. Cindy studies. them.
-CINDY
-I'm not sure, it happened so fast •••
-SHERIFF DUTY
-(into intercom)
-Turn to the left.
-The suspects turn in unison.
-SHERIFF DUTY
-(to Cindy) Take your time.
-(into intercom)
-Turn to the right.
-The suspects turn in unison. A nearby COP turns up the
-volume on his transistor radio. 
-J..
-63.
-From the radio we HEAR Joe Cocker's IOYou Can Leave Your Hat
-on."
-JOE COCKER
-(sings) Baby take off your clothes •••
-The suspects begin to do a strip-tease, a la "The Full
-Monty."
-As.they dance and strip to the music, we reveal one guy wearing woman's underwear and garter belt, and another with
-man-breas~s. ·
-Finally, they're left standing in their underwear, gearing
-up for the big finale.
-As the song ends, they turn around in unison, and whip off
-their underwear. They stand resplendent in the nude.
-PANNING from behind the suspects, we see their bare butts.
-CLOSE ON Tim Tingle's butt - the head of his penis pokes through as he has tucked his dick between his legs.
-CINDY
-That's him - number J. The one
-pulling the "pagina."
-SHERIFF DUTY
-(to GUARDS) Take,him away.
-GUARDS come from either side and escort Tim Tingle out. He
-struggles against them, eerily staring right at Cindy
-· through the glass. ·
-TIM 'l'INGLE
-I swear I didn •t do it! I was set.
-up •••.
-They lead him away. Cindy hugs Sheriff Duty gratefully.
-CUT TO:
-EXT - POLICE STATION - DAY
-· Sheriff Duty ·stands on the front steps, talking to the.
-·PRESS, who shove microphones and cameras in his face.
-Courtney Cocks jost~es her way to the front. 
-COURTNEY
-Sheriff Duty, what can you tell us?
-SHERIFF DUTY
-Well I'm a Sagittarius, 26, born in
-Rancho Cucamunga •••
-COURTNEY
-About the case?
-SHERIFF DUTY
-After a positive I.D., Tim Tingle has been arrested and charged with
-murder. our community can now rest
-easy - we've got our man. No more
-questions •••
-64.
-He walks off, and Courtney puts down her mike and follows
-him.
-COURTNEY
-(catching up)
-I guess I was wrong about you .••
-(flirtatiously) That's some police work.
-SHERIFF DUTY
-(shyly) Thanks.
-COURTNEY
-(seductively)
-Maybe you and me could get together sometime and •••
-SHERIFF DUTY
-Go on a date?
-COURTNEY
-Well I was going to say "fuck,." but
-I guess we could go out too.
-They walk off together.
-INT - CINDY'S BATHROOM - NIGHT
-CUT TO:
-Cindy sits at the edge of her bathtub, wearing only a
-towel. She adds bubble bath to the running water.
-She lights candles, incense, and a menorah.
-. , I- I
-I I
-i I
-j
-She drops her towel and steps into the sudsy bath. She
-leans back and gives a deep SIGH of relaxation •
-. The. p~one RINGS, startling her. · She eyes the phone anxiously. RING. She picks up.
-CINDY
-Hello?
-VOICE
-Hello Cindy.
-CINDY
-(alarmed) Who is this?
-VOICE
-It's me, Skeet. You know, your
-boyfriend?
-65.
-She SIGHS, then grabs a razor and leans back to shave her
-legs.
-CINDY
-sorry. I guess I'm just a little
-tired.
-SKEET
-Do you want me to come by? .
-She shaves her armpits.
-CINDY
-No, I'm just going to take a bath
-then go to sleep~
-She shaves her face.
-SKEET
-O.K. Love you.
-CINDY
-Love you too.
-She hangs up, then relaxes back into the tub, closing her
-eyes in tranquility
-BLOOP 1 BLOOP 1 Two of Cindy' s FART BUBBLES rise to the
-surface o·f the water.
-She is in deep relaxation. A beat. 
-t
-t
-~ ~
-The phone RINGS, startling her again. She picks it up warily.
-CINDY
-Skeet, I told you I;m just too
-tired •••
-, SCARY VOICE.
-( from phone) Hello Cindy, miss me?
-oo.
-Cindy stands straight up in terror at the recognition of
-the SCARY VOICE - it's the same one from the first scene.
-The bubble's farm a perfect two-piece bikini over her,
-including straps and a bow.
-CINDY
-But I thought •••
+Oh my God!  You can see me?  I haven't even
+finished putting on my make-up!
+
+She hangs up, runs to a mirror, starts fixing her hair and
+puts on lipstick.
+
+Phone rings.  She doesn't answer.  It stops.  Suddenly her
+pager goes off.  Page reads
+"Killer 911".  Drew screams.  Then the computer voice says
+"You have a threat."
+
+Phone rings again.  Drew answers.
+
+
 SCARY VOICE
-That I was arrested? Wrong.
-She listens in horror.
+Don't ever hang up on me again!
+
+DREW
+What do you want?
+
 SCARY VOICE
-I'm going to •••
-CLICK! Her ."call waitingll SOUNDS.
-A beat.
-CINDY
-That's my other line. can you hang
-on a sec?
+To see you split up the middle.
+
+DREW
+Sorry, I don't do G-strings.
+
+She hangs up.  The phone rings immediately.
+
+DREW
+Look you asshole.  My boyfriend's gonna
+be here any second, and he plays football, and
+he'll kick the shit out of you.
+
 SCARY VOICE
-O.K.
-She CLICKS ov~r.
-CINDY
-Hello?
+Oh, really?  Turn on the porch lights.
+
+Drew turns on the porch light.
+
+We see a TEENAGE BOY strapped to a chair, his mouth covered
+with duct tape.
+
+DREW
+That's not my boyfriend.  I fucked him a
+couple of times.  But that's all.
+
+The lights go out.
+
+DREW
+Look, I'm calling the cops.
+
 SCARY VOICE
-Still me·.
-CINDY.
-Oh, sorry - hang on.
-She CLICKS over. 
-I I I
-I.
-I
-CINDY
-Hello?
-SCARY VOICE
-Me again.
-CINDY
-Hang on.
-She CLICKS over.
-CINDY
-Hello?
-SCARY VOICE
-Yeah, uh ••• it's me. I'm still here.
-CINDY
-ununm ••••
-SCARY VOICE
-I could call.you back.
-CINDY
-·could you?
-SCARY -VOICE
-Yeah. But I'm still going to kill
-you. Bye.
-6 7 •
-He hangs up. She l.ooks at _the phone in horror - it's not
-over.
-CUT TO:
-EXT - HIGH SCHOOL FOOTBALL FIELD - DAY
-It's the-big game - the MARCHING BAND plays to bleachers
-packed with STUDENTS who watch the action on the field.
-ON THE FIELD
-A heated football game is underway, FEATURING Jake as the
-home te~ quarterback.
-He fades back and throws a pass over the middle. His
-RECEIVER goes up for ·the ball~ ••. ·
-CRUNCH! The Receiver is hit in mid-air and lands head
-first on the turf •. He lies there· in pain as the HOME TEAM
-CROWD holds it's breath in anticipation. A beat. 
-68.
-The Receiver finally gets up as the home crowd APPLAUDS.
-As he trots off the field, waiving to the crowd, we see his
-spine poking through his uniform.
-ON TWO SPORTSCASTERS
-Sitting behind a sideline booth, giving the play by play.
-ANNOUNCER 1
-What a game!
-ANNOUNCER 2
-You said it. It all comes down to
-this play.
-IN THE BLEACHERS
-we FEATURE Cindy and Skeet, watching the game.
-CINDY
-(mid:...conversat-ion)
-.•• I'm telling you I know that
-voice.
-SKEET
-It's not him,-he's in jail. It was
-probably just a crank call.
-A VENDOR walks down the aisle with a concession tray around
-his neck.
-VENDOR
-Peanuts! Hot dogs1 Candy apples!
-A DRUG DEALER walks down another aisle, also with a
-concession tray around his neck - only his contains
-narcotics •.
-DRUG DEALE'R
-cocaine! Mushrooms! crack!
-A STUDENT shouts out.
-_STUDENT
-I'll take a bag of crack!
-The Drug Dealer tosses the Student a crack rock in a
-plastic baqqie, as if he were tossing him a bag of peanuts.
-BACK ON CINDY AND SKEET . 
-69.
-CINDY
-You think I'm paranoid, don't you?
-She nervously swigs a bottle of tequila and chain-smokes.
-He exits.
-SKEET
-No, I don't ••• I'm going to get some
-nachos, you want anything?
-CINDY
-No thanks.
-BACK ON THE FIELD - IN THE HUDDLE
-Jake pats a RECEIVER on the butt.
-JAKE
-Nice catch.
-The Receiver turns and pats a LINEMAN on the butt.
-RECEI~R
-Nice block.
-The Lineman turns and pats a RUNNI~G BACK on the butt.
-LINEMAN
-Nice ass.
-IN THE BLEACHERS
-Cindy looks around for Skeet, who's nowhere in sight.
-BACK IN THE HUDDLE
-JAKE
-(giving play) weak side "I" formation on .. 3."
-Ready - b:teak!
-They CLAP hands and come to the line.
-•. The BEEFY OFFENSIVE AND DEFENSIVE LINEMAN dig in against each other, SNORTING and GROWLJ;NG. We even HEAR the "Moo"
-of a cow. ·
-Jake lines up under the CENTER, and calls for the ball. 
-I
-I
-t
-70.
-JAKE
-Down! .•• Set! .••
-Jake looks across at the defense.
-To his horror, one DEFENSIVE LINEBACKER has the Casper mask
-on - under his helmet1
-The Killer has disguised himself as a football player,
-right down to the number on his jersey - 666.
-JAKE
-(cont'd.)
-••• Holy shit!
-The Center shrugs, and hikes the ball anyway.
-SMASH! The two lines COLLIDE, helmet to helmet. The
-Killer rushes toward Jake but is BLOCKED by an OFFENSIVE
-LINEMAN.
-The Killer whips out his jagged knife, and the Offensive
-Lineman immediately steps back.
-OFFENSIVE
-LINEMAN
-(to Killer)
-Hey, it's all you man.
-The Killer now has a free path to Jake, and he runs
-straight for him, brandishing the knife.
-JAKE
-Ahhh"!
-ON THE SPORTSCASTERS ·
-· ANNOUNCER 1
-Number 666 is slicing his way
-through those blockers.
-ANNOUNCER 2
-He really wants to kill the
-quarterback.
-IN THE STANDS
-The home crowd· does the "Tomahawk Chop, " but instead of
-styrofoam hatchets, they use styrofoam replicas of the
-Killer's dagger.
-ON THE MARCHING BAND 
-t
-Who now play the theme from "Halloween.·.,
-BACK ON THE FIELD
-71.
-Jake looks over his shoulder to see the Killer now riding a
-lawn mower, still in hot pursuit.
-Jake runs into the opposing eridzone - scoring a touchback.
-The Home Crowd "BOOS!" the touchback.
-The Killer catches up to Jake.
-JAKE
-No ••• no ••• !
-WHIRRRR!!! The Killer runs over Jake, sending his blood
-and guts flying out the other side of the mower .
-. ANNOUNCER 1
-That' 11 make the highlight reel. ·
-ANNOUNCER . 2
-Let's see that again in slow motion!
-JUMP CUT:
-JAKE'S DEATH SCENE PLAYED AGAIN:
-This time in slow motion.
-In the background we see a: crew of GARDENERS with
-leafblowers, cleaning up Jake"s remains.
-BACK TO REAL TIME:
-ON THE KILLER
-Who celebrates the murder by doing an elaborate endzone
-dance - a backflip, the splits, then a cartwheel.
-TOOT! The Referee ·blows his whistle,- and _the Killer
-escapes.
-EXT - HIGH SCHOOL - NIGHT
-CUT TO:
-A candlelight vigil is being held - dozens of STUDENTS,
-TEACHERS, and-PARENTS mourn.
-we PAN across some STUDENTS holding candles, some flicking lighters, · then finally, some setting library books on fire. 
-I.
-.,
-72.
-Some hold signs which read: "WE'LL MISS YOU, QUENTIN,"
-"REMEMBER JAKE," and finally' "LEGALIZE HEMP.".
-Among the sorrowful crowd, we FEATURE Cindy and Skeet,
-holding their own candles.
-Courtney Cocks stands by with her Cameraman. She rubs an
-onion in her eyes to manuf actu·re -tears.
-CAMERAMAN
-You're on.
-COURTNEY
-(into microphone) This is Courtney Cocks live from
-Kevin Williamson High where a
-candlelight vigil is underway for
-students Quentin Green and Jake
-Schroeder. Let's see if we can get
-a word with one of the mourners •••
-She interviews a nearby elderly man, MR. CURTIS.
-COURTNEY
-(to Curtis)
-Excuse me sir, what's your name?
-MR. CURTIS
-Mr. Curtis, I teach math.
-COURTNEY
-What are your memories of Quentin?
-MR. CURTIS
-(heartfelt)
-I had him in geome~ry. He used to
-sit. in the back of class, pretending
-to read his textbook, but I knew he
-had a copy of "Jugs" between the
-pages •••
-· (sniffles a tear)
-Forgive .me ••• I 'm gonna miss. that
-horney little bastard ..•
-He walks off in tears.
-Courtney turns back into lens, and we now see a giant
-herpes sore on her upper · lip •.. 
-• J
-I .
-I
-COURTNEY
-(into lens)
-Touching words from one of the many
-grief stricken who've turned out
-tonight. And yet underneath the
-sadness, there still lurks a
-widespread fear. The killing is not
-over. ·
-(spots Sheriff Duty) Sheriff Duty •••
-She points .her camera and mike in his face •
-COURTNEY
-Are the killing"s related?
-7 3.
-Sheriff Duty turns to the camera, and we see he also has a
-giant herpes sore on his upper lip, matching Courtney's.
-SHERIFF DUTY
-Yes. Charges were dropped against Tim Tingle, the suspect we arrested
-yesterday. His alibi checked out.
-Our investigation has led us to
-believe· that whoever killed Quentin,
-also killed Jake.
-The cameraman turns the lens on Principal Fonzy, who
-addresses the crowd of mourners.
-PRINCIPAL FONZY
-(solemn}
-In honor of our departed students,
-I'd like to share·a poem by a young
-man who was also cut down in his
-prime - the late rapper Tupac
-Shaku-r.
-He takes 9ut a cue card, and puts on his reading glasses.
-PRINCIPAL FONZY
-(reads through tears) "Told my mama if I die ••• Put a blunt
-iil my casket, so my nigga's can get
-high ... ".
-ON CINDY AND SKEET
-She;s so saddened that she loses it - she drops her candle
-and rushes off. 
-I
-r
-•
-I
-•
-)
-SKEET
-~ey, hey - where are you going?
-He catches up and grabs her.
-CINDY
-I can't live with this anymore. The
-guilt, the pressure, the
-diarrhea ••• rm going to confess.
-She breaks his hold.
-SKEET
-Hang on!
-She rushes off toward Sheriff Duty.
-CINDY
-Sheriff Duty, I need to talk to you.
-It's about Time Tingle. Last
-Halloween his brother •.•
-SHERIFF DUTY
-Tim Tingle' s dead •.
-CINDY
-What?!
-SHERIFF DUTY
-We executed him this morning. Lethal injection.
-CINDI:
-But he was innocent~·
-SHERIFF DUTY
-I'm not going to quibble over
-technicalities •••
-Skeet pulls Cipdy aside.
-A beat.
-SKEET
-Listen, Tingle' s dead. He was the
-only one who could've known about
-it. The secret died with him. Just
-let it go. We're the only one's who
-know about it.
-She looks up at him in dread.
-74. 
-f
-t
-I
-t
-,
-CINDY
-And Buffy.
-They rush off, passing Principal Fonzy.
-PRINCIPAL FONZY
-(cont'd speech)
-" ••• 'cause you'll always be my nigga
-· fo • life ••• "
-75.
-CUT TO:
-INT - SCHOOL AUDITORIUM - NIGHT
-A banner reads: "!JOMECOMING. CEREMONY"
-The audience is filled with STUDENTS.
-ON STAGE
-The three finalists - Buffy, Danielle,. and Heather wear
-eveninggowns with ribbons ~raped across them.
-Heather's ribbon reads: "Miss Universe" Danielle's
-reads: "Miss Congeniality" Buffy's reads: "Miss
-Fellatio" ·
-The HOST - CHUCK WOOLERY, wearing a tuxedo, addresses the
-crowd.
-CHUCK WOOLERY
-(into mic)
-And this year's Kevin Williamson
-High Homecoming Queen is •••
-A DRUMROLL SOUNDS.
-CHUCK WOOLERY
-Buffy Michelle Geller!!
-The audience APPLAUDS.
-BUFFY
-Oh my god - I won!
-Heather and_Danielle hug Buffy in congratulations.
-DANIELLE
-Congratulations, Buffy~ · 
-I
-f
-,
-'
-/-",
-I\ ____ /)
-HEATHER
-Yeah, you deserve it.
-BUFFY
-I know you two are just being phoney bitches, but thanks.
-76.
-Chuck Woolery places a bouquet of roses in her hand, and a
-tiara on her head.
-He kisses her on both cheeks, then whispers in her ear:
-CHUCK WOOLERY
-Remember the deal. My place - one
-hour.
-He hands _her a· room key, then gives her ass a squeeze.
-CHUCK WOOLERY
-(sings)
-Here she comes, Miss Kevin
-Williamson High... .
-She walks to center stage, blowing kisses and waiving-to the crowd.
-The audience toss roses at her, then they toss rose vases.
-SMASHl CRASHl She smiles and waives as the vases SHATTER
-against her head.
-BUFFY
-Oh, thank you - thank you l
-OUTSIDE
-Cindy and Skeet run up and YANK on the auditorium doors - they're locked.
-CINDY
-It's locked.
-SKEET
-I'll go around the back, you wait
-here.
-He ·rushes off.
-BACK INSIDE
-As·.suffy stands in her moment of. glory, we PAN to the
-wings. 
-I
-I.
-,
-I
-t
-r
-I
-•
-•
-IN THE WINGS
-THE KILLER LURKS 1.. He holds a rope tied to a bucket
-labeled: PIG'S BLOOD. The bucket is perched atop a
-rafter directly over Buffy's head, a la "Carrie."
-He pulls the rope, tipping the. bucket - SPLASH! ·
-ON BUFFY
-The pig's blood DOUSES her, as the audience GASPS. She
-holds up her blood dripping hands and SCREAMS.
-BUFFY
-Aahhh! 1
-She collapses in a chair. A beat.
-7 7 •
-SPLASH! SPLASH! SPLASH!' Three more buckets DOUSE her, like
-Jennifer Beals in "Flashdance."
-song "What a Feeling" UP as she jogs in place in a puddle of blood, trying to get it off her.
-Terrified, she looks back to see the Killer in the wings, brandishing a knife.
-BUFFY.
-No ...
-She crawls down the runway, swinging her head from side to
-side - WHIPPING blood from her hair into the crowd.
-The MALE members of the crowd throw $1 bills at her, as if
-she was a stripper.
-BUFFY
-Someone please help me •••
-OUTSIDE
-Cin~y BANGS on the locked do~~-
-CINDY
-Open lip!
-BACK INSIDE
-Buffy crawls to the end of the stage, checking behind her
-for :the Killer. She turns back around and SCREAMS!
-She"s face.to face with the Killer-- he's in the stage
-floor prompter pit. 
-I.
-78.
-He grabs her arms and BAM! Bumps her head as he pulls her
-under the stage.
-BUFFY
-(as she's dragged under) Nooe ••• !
-The audience look around confused - where'd she go?
-From under the floor, we HEAR the AGONIZING SCREAMS of
-Bu_ffy getting slaughtered.
-BUFFY
-STOP ! HELP ! NO! AAHHlt' ••••
-We HEAR the sounds of BONES CRUNCHING and FLESH TEARING.
-The audience members, freaked out, head for the exits - but
-the doors are all locked!
-ON BUFFY_
-As she staggers out of the pit. She's gushing blood from
-her stab wounds like fire hoses.
-The audience spots her and SCREECH in horror.
-She opens her mouth and WHOOSH! - Blood shoots out like an
-open dam. WHOOSH! WHOOSH! Blood spurts out of· her eyes,
-nose, then ears.
-Blood now shoots out of her in ridiculous torrents, making
-her look like a HUMAN SPRINKLER.
-The crow9_slips on her blood as they frantically POUND on
-the locked. doors., The blood fills the auditorium, ankle
-deep.
-OUTSIDE
-Cindy tries to pry the doors open with a crowbar, to no.
-avail. She then puts on a welders mask and blowtorches,
-and finally, a jackhammer.
-suddenly, blood seeps through the door jam.
-INSIDE
-CINDY
-'What the ••• ?
-The place is now fiiled with blood, like a water tank.
-Students-swim around, some even have scuba gear.
-,
-• I
-I.
-I
------ --------------- --------~
-79.
-BOOM! The doors finally BURST open, and blood floods out
-in a big wave.
-OUTSIDE
-Blood.SPLASHES over Cindy as Students are washed out of the
-auditorium. The auditorium drains, leaving Buffy to beach
-on the front steps.
-Cindy rushes to her.
-CINDY
-Buffy!
-Buffy's a bloody mess - but STILL ALIVE.
-BUFFY
-(dying words) The Killer is •.•
-Cindy leans in closer, and Buffy WHISPERS to her.
-CINDY
-Wait; I can't hear you ••.
-Cindy takes off her walkman headphones.
-CINDY
-Buffy - who's the killer?
-Buffy •.• Buffy •.• ?1
-Just then, Skeet appears.
-CINDY
-Skeet, Buffy 's dead. Where have you .been?
-SKEET
-I was looking for the back entrance,
-but ! ... couldn't find it.
-She. looks past. him to see 3 FLASHING NEON "EXI'r" SIGNS.
-She frowns suspiciously.
-CUT TO:
-EXT - CINDY'S HOUSE - NIGHT
-Skeet and Cindy pull up. She looks at him a tense beat.
-. ' 
-I
-I
-t
-d
-I
-t
-•
-CINDY
-And then there were two.
-·SKEET
-Hey, it's gonna be o.k. I promise.
-Just stay inside and lock your
-doors. I'll pick you up in the . morning.
-She exits. He drives off, his car radio BLARING Oingo Boingo's ltDead Man's Party."
-80.
-CUT TO:
-INT - LIVING ROOM - NIGHT
-Cindy's on the couch watching T.V., but all that's on is
-late.night infomercials.
-ON THE T.V.
-PINHEAD, from "Hellraiser,". lies on a massage table as a
-CHINESE DOCTOR performs acupuncture.on him.
-PINHEAD·
-Take it from ~e, Pinhead •••
-He stands up, wearing just a.towel as hundreds of needles
-stick out of his body.
-PINHEAD
-(cont'd.)
-••• my muscles were tight and tense
-until I found Shiatzu acupunctu~e; ••
-Cindy changes the channel.
-The phone RINGS, startling her.
-apprehensively. ·
-CINDY
-Hello?
-MR. CAMPBELL
-( f ram phone)
-She picks up
-Hi, pumpkin. I heard about your
-friends dying, thought you might
-want to talk •
-CINDY
-Thanks., Dad.
-.. -· _::,, ,•
-• 1:,._. ••• -.. -...... -c 
-,
-'
-,
-t
-)
-•
-)
-,
-I
-r
-I
-~~\
-\ ;
-t ''--... .. ~~/
-MR. CAMPBELL
-You feeling allright?
-CINDY
-I'm not sure.
-MR. CAMPBELL
-How are you and Skeet doing?
-CINDY
-Fine ••• I guess.
-She flips to another infomercial.
-ON THE T.V.
-LEATHERFACE, from "Texas Chainsaw Massacre," cuts through different human body parts with a chainsaw.
-LEATHERFACE
-The new bodycount buzzsaw from Black
-and Decker does it all.· It cuts
-through bone, cartilage, and
-ligaments, and is; still" sharp enough
-to slice a tomato. And if you act
-now, I'll through in a salad
-shooter •••
-She changes the channel.
-MR. CAMPBELL
-You know •...
-• ( struggling for words)
-••.• your mother would 've been better
-· about this but ••• I think it ' s time
-we had that talk.
-CINDY
-oa-ad ...
-MR. CAMPBELL
-Now I know you"re modest ••• but . there ' s some things you should know.
-You see the man's got a ... a ...
-CINDY
-Cock?
-MR. CAMPBELL
-( taken ab.ack)
-Uh ••• that's right. And the woman's
-got a ••• 
-•
-)
-,
-,
-r
-·-·..,.
-;
-ON THE T.V.
-CINDY
-Pussy1
-MR. CAMPBELL
-O.K ••• uh ••. yes, that's uh .•. correct.
-So the man and woman •.• uh •.. uh •••
-CINDY
-(blurts out)
-Bump uglies until the man busts a
-nut?
-MR. CAMPBELL
-Boy, the things they teach you in
-school.
-Another infomercial plays. MICHAEL MEYERS, from
-·"Halloween," models his hockey mask.
-MICHAEL MEYERS
-So that's why I use the hockey mask
-by Remco. It's light, durable, and
-comes in three fashionable colors.
-White, fuchsia, and hunter.green •••
-She turns it off.
-MR. CAMPBELL
-Well, whatever you decide to do with
-Skeet, I trust your judgement.
-Gosh, you"ve grown up so fast. I
-guess you"re not daddy's little girl
-anymore.
--'CINDY
-Oh, Dad, I'll always be your little
-girl. .
-82.
-CUT TO:
-INT - CINDY'S BEDROOM - NIGHT
-Cindy lies asleep in bed. Her door CREAKS open, waking
-her. She rubs her eyes and squints to see who• s there •
-CINDY
-Dad, is that you?
-A SHADOWY FIGURE approaches. 
-I
-•
-r
-I
-Y\
-(, ... , ____ ,,,.,)
-CINDY
-Dad ••• ?
-She turns on the lights to reveal - IT'S THE KILLER!
-CINDY
-(screams)
-AAHHHH!
-83.
-She jumps out of bed as· he lunges at her with a knife. She
-grabs an endtable, and fends him off like a lion-tamer.
-CRACK! She SNAPS a whip at him.
-CINDY
-Get back! Get back!
-The Killer GROWLS at her as he STABS at the endtable, sending wood chips everywhere •
-.
-The sawdust clears to reveal the endtable's now carved into·
-Rodans' "The Thinker."
-She runs off into the kitchen, with the Killer in pursuit.
-IN THE KITCHEN
-She dumps out a drawer filled with kitchen utensils.
-CINDY
-Nooo ••• 1.
-She picks up a knife and throws it at the Killer, who
-ducks.
-MEOW! The knife misses, but STABS her CAT, pinning it to
-the wall.
-CINDY
-·Ohno, Fluffy!
-She 'looks through the.remaining utensils-· no knives. so
-instead she throws a spatula, turkey baster, and an~
-beater at the Killer.
-They miss, but stick into the wall behind as if they were
-knives. She cowers as the Killer raises the knife over _ her.
-CINDY
-Don't •.••• 
-I
-' 84.
-Just as he's about to stab her, she TOSSES a glass of water
-at him - SPLASH! She throws a plugged in toaster at him, hitting his now wet clothes.
-ZIP! ZAP! ZEE! Electrical JOLTS shoot through the Killer's
-body, causing him to convulse and gyrate.
-HIP-HOP MUSIC UP. The Killer's twitching body starts
-break-dancing in time to the beat. ·
-ZIP! ZAP! The JOLTS cause him to do elaborate hip-hop
-moves: He does the WORM, POP-LOCKS, and even WINDMILLS ON
-· HIS HEAD.
-Finally, he collapses dead. Cindy approaches the body
-slowly, then reaches down and.takes off th~ mask •••
-THE KILLER IS ••• COTTON BLEND.
-CINDY
-{gasps) Cotton.Blend!
-EXT - CINDY'S HOUSE - NIGHT
-CUT TO:
-The place is now a full crime scene - COPS, MEDIA, etc.
-Sheriff Duty stands .with his arm around Cindy, addressing . the PRESS.
-SHERIFF DUTY
-Thanks to the heroics of Cindy here,
-the serial murderer was killed. Our
-community can now rest easy - we've
-got our man.
-Courtney Cocks jostles for position.
-COURTNEY
-· Didn "t you say that last time?
-SHERIFF DUTY
-Yeah, but ••• this time I really mean
-it.
-Courtney turns to her cameraman. 
-,
-I
-I '
-I
-COURTNEY
-(into lens)
-And there you have it. In an ironic
-twist, Cotton Blend, the man who
-murdered Joan Campbell, was killed
-by her daughter, Cindy Campbell.
-This is Co~rtney C~cks, signing off.
-Remember, .1.f it's murder, kiddieporn, or animal husbandry, I'll
-bring you the story first.
-85.
-FADE OUT
-. Superimposed: OCTOBER 31, 1998 - HALLOWEEN
-FADE IN
-EXT - SUBURBAN HOME - NIGHT
-The house is decorated for Halloween - jack 'o lanterns~
-orange and black streamers, etc.
-Dozens of cars are parked haphazardly on the lawn as
-TEENAGERS enter the house party.
-Skeet and Cindy enter.
-IN THE HOUSE
-A raucous party is in full swing - loud music, dancing, drinking ••• ·
-ON THREE DRUNKEN DUDES
-one chugs a beer, then CRUNCHES it against his forehead •.
-The next chugs a bottle, then SMASHES it over his own head·.-
-The third finishes off a keg, then CLANGS! it into his own
-head, KNOCKING HIMSELF OUT.
-SKEET
-What a party.
-CINDY
-Yeah.
-(a beat) I'm feeling like I finally have
-closure. That everything bad' s
-behind me. And it• s amazing that
-all the killing ended with still 20
-minutes left.in the movie.
-They pass one GUY, snorting a line of coke. Another GUY
-dumps· ou-a a line ·of Comet Cleanser, and ·snorts it. · 
-I
-I
-t
-, .
-I
-I
-t
-'
-' ..
-~\
-I ,\ _______ ./ .
-,
-I
-.•.
-CINDY
-Skeet,·. I'm sorry I ever doubted you.
-Throughout all of this, you've been
-there for me.
-SKEET
-Hey, I love you.
-CINDY
-And I love you.
-(whispers in his ear) And tonight r•m gonna prove it •
-86.
-She takes his hand and leads him upstairs • They pass a
-GIRL, who's beer-bonging. Just as she drains the beer out
-of the funnel, . a DRUNKEN DUDE, about to vomit, UPCHUCKS . into the funnel.
-PARTYGOERS
-CHUG! CHUG! CHUG!
-She drinks down the now chunky beer.
-UPSTAIRS - IN THE BEDROOM
-Skeet and Cindy lie on the bed, making out. He gets her
-bra off and looks at her breasts.
-SKEET
-Wow, a superfluous nipple - how
-sexy. \ •
-ON HER BREAST
-With not one, but two nipples.
-They continue to makeout. He tries to take off her
-panties, but struggles.
-CINDY
-Here, let me •••
-His eyes gleam with heated anticipation as she lowers·her
-panties •••
-POOF,! Her enormous BUSH OF PUBIC HAIR fills the screen.
-We HEAR the primitive sounds of the CALL OF THE WILD
-emanating from her untamed forest.
-He whips out a machete an~ THWACK! He SLASHES at the bush~·
-He pulls back the blade to find it•s dented - he needs
-something stronger. 
-r\
-I.
-87.
-He puts on protective goggles and FIRES UP a weed wacker.
-WHIRRRRRR! He trims her bush, as pubes fly everywhere.
-He gets on top of her,· ·kissing his way down below the
-border •••
-Cindy arches her back and MOANS in delight. A beat. Skeet
-comes back up, now wearing full scuba gear - tank, snorkel
-mask, fins.
-He takes his mask off, and liquid pours out.
-CINDY
-I love you.
-SKEET
-I promise ••• I'll try not to
-prematurely ejaculate.'
-He mounts her and thrusts in.
-CINDY
-(surprised) That's not it.
-SKEET
-sorry.
-He thrusts in again.
-CINDY
-Still not it.
-He finally gets it right, and they make beautiful. love.
-CINDY
-Oh, Skeet, you've unleashed the
-woman in. me •••
-She climbs on top of him, and rides him hard. His smile
-turns to a frown as she rides him harder, and harder,
-really getting into it.
-DOWNSTAIRS
-The PARTYGOERS look up as the ceiling THUMPS, CRACKS, and
-CRUMBLES from the action in the bedroom. ·
-BACK IN THE BEDROOM
-Skeet hangs on for dear life as Cindy sits on him, spinning
-around on him like a HUMAN SIT-'N"-SPIN. 
-CINDY
-Weee! Weee ..•. !
-oo.
-TIME LAPSE:
-ON CINDY
-Sleeping in bed. She wakes to· find Skeet's gone.
-CINDY
-Skeet?
-She gets out of bed, and puts her clothes on.
-CINDY
-Skeet?
-She ventures down the hall.
-CINDY
-Skeet •.• where are you?
-DOWNSTAIRS
-Cindy descends the stairs and SCREAMS ~t what she sees.
-CINDY
-AAHHH1
-EVERYONE AT THE PARTY HAS BEEN KILLED!
-One is- hanging by a noose, one is. fried in an electric
-chair, another is guillotined, while another is stretched
-on a medieval rack.
-Cindy walks terrified through the bodies. She spots SKEET
-- LYING DEAD IN A POOL OF BLOOD.
-CINDY
-Skeetl 1
-She looks in horror to see her DAD - also lying there dead.
-CINDY
-No, not Dad!
-She WEEPS in terror over the bodies. Among them we FEATURE
-Principal Fonzy, who's also been killed.
-RING! RING! The phone RINGS, startling her.
-~he eyes the phone-with mounting dread. 
-y--\
-\ i •'--... --//
-CINDY
-(picks up) H-hello ••• ?
+You might want to check the back door
+first. You forgot to lock it.
+
+She screams and drops the phone in horror.  She races to the
+back door.
+
+EXT. DREW'S BACK DOOR � NIGHT
+
+We see a SHADOWY FIGURE also running to the back door.
+
+INT. DREW'S BACK DOOR � NIGHT
+
+She gets there one step ahead of the shadowy figure and
+locks the door, then chains it,
+then puts "The Club" over the doorknob.
+
+Drew backs away from the door in terror.  The figure
+disappears.  The suspense
+mounts�
+
+DING DONG!  The doorbell.  Drew is frozen in fear � who is
+it?
+
+She punches 9-1-1 on her cordless, then puts the receiver to
+her ear.
+
 SCARY VOICE
 (from phone)
-Guess who Cindy?
-She collapses in a SOBBING heap, clutching the phone.
+Aren't you going to answer the door?
+
+DREW
+Please�stop�
+
 SCARY VOICE
-Tonight you' re going to die.
-89.
-CLICK. He hangs up. Sca~~d, she looks wildly around, but
-the Killer's nowhere in sight.
-Suddenly, above her we now reveal the Killer, lowering himself down silently behind her from a ceiling beam.
-CRACK! The beam SNAPS and the Killer clumsily drops to the
-ground with a THUD!
+What's the matter, Drew?  Not having fun
+anymore?
+
+DING DONG!
+
+SCARY VOICE (CONT'D)
+Answer it.
+
+DREW
+No�
+
+SCARY VOICE
+It could be your friends.  It's been ten minutes.
+
+INT./EXT. DREW'S FRONT DOOR � NIGHT
+
+She moves to the front door slowly, then grabs a baseball
+bat out of the hall closet.
+
+DREW
+(gripping bat)
+I'm not afraid of you�
+
+SCARY VOICE
+Then open the door.
+
+She raises the bat, then closes her eyes and flings the door
+open.
+
+With eyes still closed, she flails away with the bat.
+
+
+DREW
+TAKE THAT YOU PSYCHO!!
+
+BANG!  THUD! CRUNCH!  She connects with several swings.
+
+She opens her eyes to find three LITTLE TRICK OR TREATERS,
+now lying knocked
+out on the front porch.
+
+
+DREW  (CONT'D)
+Oops�
+
+She apologetically tosses the children candy, which only
+lands uselessly next to their
+broken arms.
+
+The children GROAN in pain as she closes the door.
+
+LITTLE BOY
+I can't feel my legs�
+
+INT. DREW'S FRONT DOOR � NIGHT
+
+Drew locks the door.  As she turns, we see the KILLER �
+right behind her.
+
+The Killer has on Scream attire.
+
+He raises a wicked looking knife and creeps up behind her.
+
+KILLER
+Hello Drew.
+
+Drew freezes in her tracks � it's the same scary voice from
+the phone..
+
+She turns to see the Killer and SCREAMS!
+
+Drew takes off running, the Killer in pursuit.  She goes out
+the front door.
+
+EXT. DREW'S FRONT YARD � NIGHT
+
+Killer follows her at the casual horror movie pace.
+
+Drew sees a sign.  It reads:  SAFETY (Left arrow),  DEATH
+(Right arrow).  She runs to
+the right.
+Drew running.  She stumbles.
+
+NEW ANGLE � REVEAL SHE"S LAYING IN A PERFECT CHALK OUTLINE
+OF
+HER BODY.
+
+The killer is right behind, still walking at a casual pace.
+
+Drew looks over her shoulder.  No matter how fast she runs,
+the killer keeps getting
+closer.
+
+Reveal Drew is on a treadmill.  It stops.  She checks her
+pulse, takes off running.
+
+Killer catches up.
+
+The Killer grabs her sweater.  She slips out of it exposing
+her bouncy bra clad breasts.
+
+The chase continues.  The Killer grabs her skirt.  She slips
+out of it.
+
+Drew, in full sprint, in only a bra and panties, her hair
+short and wild.  The sprinklers
+come on spraying her with water.
+
+SLOW MOTION DREW RUNS THROUGH THE WATER.
+
+Drew looks seductively at the camera as she shakes the water
+from her hair, continuing to
+seduce the lens as she caresses her breasts and runs her
+fingers through her hair.
+
+Back to normal, the Killer closes in.  He grabs her around
+the neck, raises his knife,
+plunges it into her chest.
+
+A LOUD POPPING SOUND.
+
+CLOSE ON KNIFE AS IT PULLS BACK.  ON THE END OF IT, A
+LEAKING
+BREAST IMPLANT.
+
+
+Drew, wounded, continues to run with one deflated breast,
+the other normal.
+
+Drew sees headlights in the distance.  She runs towards the
+car.
+
+The killer wipes the implant off his knife and gives chase.
+
+Drew standing on the road waving her arms at an oncoming
+car.
+
+
+DREW
+Daddy, mommy, help!  Help me!
+
+EXT. DREW'S HOUSE/ROAD � NIGHT  (CAR)
+
+DAD is driving, obviously not paying attention to the road,
+slams into Drew, sending her
+flying.
+
+MOM pops up from DAD'S lap.
+
+
+MOM
+Did you hear something?
+
+DAD
+Nah, I didn't hear nothing.
+
+
+He pushes her head back down into his lap.
+
+Drew, lying on the road semi-conscious, the Killer standing
+over her.
+
+The Killer kneels and straddles her.
+
+CLOSE ON THE KNIFE.  IT STRIKES THE FATAL BLOW.
+
+INT. CINDY'S ROOM � NIGHT
+
+Cindy typing on her computer, a noise outside her window.
+
+Cindy looks at her window.
+
+Theme music from Dawson's Creek plays as a MALE CAST MEMBER
+climbs through
+the window.
+
+Cast member realizing he's in the wrong place.
+
+
+DAWSON CAST MEMBER
+Sorry, wrong set.
+
+He leaves through the adjacent window.
+
+Enter Bobby.
+
+
 CINDY
-AAHHH!
-She dashes off down the hall,· with the Killer giving chase.
-She runs and hides in a closet.
-IN THE CLOSET
-Like Jamie Lee Curtis in "Halloween," she cowers in the
-corner of the closet.
-THWACK! SPLINTER! The Killer HACKS at the closet door, as
-Cindy SCREAMS~
-·Thinking quic~ly, she grabs a moo-moo and throws it over
-his head, blinding him.
-She uses the distraction to dash past him, but before she
-gets away, she stops in her tracks.
+Bobby, what are you doing?  My dad's in
+the other room.
+
+BOBBY
+It just occurred to me I never
+climbed in your window before.
+
 CINDY
-No - that's it.
-running, I'm not
-victim anymore.
-I'm tired of
-going.to be the
-She turns and f ac.es the Killer.
+Well, now that you got it out of
+your system�
+
+SUDDENLY
+
+The bedroom door bursts open.  The doorknob catches on the
+open closet door jamming
+it, holding it in place.
+
+Cindy's dad looks through the partially opened door.
+
+
+DAD
+What's going on in there?
+
 CINDY
-come o~, whoever you are, let's go. 
-90.
-They square off like two boxers. She raises her dukes - BAM! She SOCKS him in the eye, and we now see a black eye
-over his mask.
-SLASH! The Killer SWIPES at he'r, cutting her arm.
+Can you knock?
+
+DAD
+I thought I heard screaming.
+
 CINDY
-You sonofabitch!
-BAM! She kicks him so hard in the ass, he actually COUGHS
-UP her high heel shoe.
-They squat like Sumo wrestlers, GRUNTING and CHALKING upa their hands. They BUMP bellies. '. . . . .
-From behind, we see the Killer's cloak is cut out to reveal
-his sumo-thonged butt.
-SLASH! He cuts her again, in the other arm.
+No, you didn't.
+
+DAD
+Must have been those 'shrooms I
+had earlier.  Look, I gotta leave
+town.  A recent business venture went
+bad, some money came up missing.  I
+gotta lay low for a while.  If a
+man named Tito calls, tell him to page
+me.  If they raid the place�
+
 CINDY
-I'm gonna beat the shit out of .. you.
-PUNCH! KICK! SOCK! She throws a vicious combo at him.
-Behind the Killer, fecal matter SPLATTERS against the wall.
-She looks around for a weapon.
-ON THE W"-LL
-An ~ in a glass case, with a label reading: "IN CASE OF
-FIRE -. BREAK GLASS"
-Another case, also containing an axe, but this label
-reading: "IH CASE OF HOMICIDAL MANIAC - BREAK GLASS"
-SMASH! She breaks the glass, and grabs the axe.
-The Killer raises his knife, but she's quicker with her
-axe.
+I never heard of you.
+
+DAD
+And don't forget�
+
 CINDY
-This is for my mom •••
-THWACK 1 She hacks off the Killer's right arm. Undaunted
-by the spewing stump, he lunges again.
+�to flush your stash.
+
+DAD
+If you need some money, I left a
+little something in the coffee can. 
+Be sure to cut it or somebody's gonna
+O.D.
+
 CINDY
-This is for my ~ad •.•
-THWACK! She hacks. off the Killer's left arm. Now armless,
-· he charges her.
-i
-i
-i I.,
-.; 
-91.
+Have a good trip.
+
+DAD
+Sleep tight sweetie.
+
+Cindy closes the door.
+
 CINDY
-This is for Skeet ..•
-THWACK! She hacks· off the Killer's right leg.. Now HOPPING
-on one. leg, the Killer lunges again.
+That was close.
+
+BOBBY
+I was home watching "The Exorcist", and
+it got me thinking of you.
+
 CINDY
-And this is for everyone else you·
-killed, and for world peace •••
-THWACK! She hacks off the Killer's last leg, leaving him
-just a torso and head.
-Unfazed by the loss of limbs, the Killer sccnTs at her.
-Just as she"s about to off him, he TEETERS back, and
-TUMBLES down the staircase.
-DOWNSTAIRS
-The Killer lands at the bottom of the stairs, lying
-unconscious. Cindy follows, and again raises the axe to
-finish him.
-Suddenly, TWO ARMS grab her from behind - it's Sheriff
-Duty.
-- SHERIFF DUTY
-Cindy, he's dead. - It's over.
-He takes the axe out- of her hand. She's in shock.
-SHERIFF DUTY
-It's o.k., it's over.
-EXT - HOUSE - NIGHT
-TIME LAPSE:
-The place is now a huge crime scene - COPS, MEDIA, etc.
-Of course, Courtney Cocks is on the scene, broadcasting.
-COURTNEY _ (into camera) This is Courtney Cocks, coming to
-you live with this breaking,
-shocking, exploitative,
-sensationalized news •••
-ON C~NDY AND SHERIFF DUTY
-He consoles her as ·the CORONER wheels the Killer out in a
-bodybag. 
-SHERIFF DUTY
-(to Coroner)
-Hold it.
-The Coroner stops.
-SHERIFF DUTY
+If this is about the time I puked green
+slime and masturbated with a  crucifix,
+it was my first keg party.
+
+BOBBY
+No, the movie was edited for T.V.  All
+the good stuff was cut out.
+
+CINDY
+So you thought you would just climb
+through my window and we would play bump
+bump?
+
+As they talk, a YOUNG STREET HOOD climbs in the window and
+starts loading things
+into a sack, no one notices.
+
+BOBBY
+Well, I was hoping to get my
+balls licked but I wouldn't
+dream of breaking your underwear rule. 
+I just thought we might do
+some "on top of the clothes" stuff.
+
+
+She snuggles up to him.
+
+CINDY
+Okay, just for a minute.
+
+They kiss and lay back on the bed.  He lifts up her nighty,
+slides his hand between her
+legs.  She spreads her legs.
+
+He feels a shock.
+
+BOBBY STARTLED.
+
+Instead of elastic, tiny barbed wire runs along the
+perimeter.  There's also a zapping
+electrified fence and a sign reading:  NO TRESPASSING.
+
+
+BOBBY
+I see.
+
+Undeterred, he kisses her again.
+
+STREET HOOD TAKES BOBBY'S WALLET, PUTS IT IN HIS SACK AND
+CLIMBS
+OUT THE WINDOW.
+
+CINDY
+(Breaking the kiss)
+Okay stud, you have to go now.
+
+They stand and walk to the window.
+
+CINDY (CONT'D)
+I appreciate the romantic gesture.
+
+She takes his finger and puts it in her mouth sucking it
+slowly.
+
+He takes his finger out of her mouth � it's now three times
+its' normal size and
+THROBBING.
+
+BOBBY
+See what you do to me?
+
+He starts to climb out the window.
+
+CINDY
+Hey, would you settle for PG-13?
+
+She opens her top, exposing her chest.
+
+We see eight tiny little titties.
+
+The shock sends Bobby falling out of the window.
+
+CINDY  (CONT'D)
+Goodnight�
+
+EXT. HIGH SCHOOL � PARKING LOT � DAY
+
+Close on compact car.  Bumper sticker reads "Save the
+Environment".  Pull back reveal
+smoke billowing out of the exhaust.
+
+Cindy arrives.  Brandy meets her curbside.
+
+BRANDY
+Come on, girl, move your tired white
+ass.
+
+Cindy gathering her books and purse from the car.
+
+
+CINDY
+I'm coming.
+
+BRANDY
+Move your pasty white, milk chalky,
+bologna smelling, cracker devil, honky
+bit�
+
+CINDY
+Hello?!
+
+BRANDY
+I'm sorry girl.  I rented "Amistad" last
+night.  I got issues.  It's cool.  Come
+on, we're gonna be late.
+
+
+They start to walk to class, when Cindy sees Buffy arriving
+via Daddy's new Mercedes.
+
+CINDY
+Wait, there's Buffy.
+
+BRANDY
+I don't know why you hang out with
+her.   She's such a ho.
+
+CINDY
+Why do you say that?
+
+BRANDY
+Cause I've seen her.  My friend Sean had
+a pool party this summer.
+
+CINDY
+Sean?
+
+BRANDY
+You know, Puff Daddy.
+
+BRANDY (CONT'D)
+Anyways, everybody was drinking Crystal
+champagne.  Then it started to get wild,
+people was getting freaky in the pool and
+stuff.  I looked over and there was your
+girl getting buck wild in the Jacuzzi.
+
+CINDY
+So?
+
+BRANDY
+With a backup dancer!  That's lower than
+a security guard!  At least security can
+get you backstage.
+
+CINDY
+I think Buffy is sweet.
+
+BRANDY
+She's as fake as press on nails.
+
+They greet Buffy.
+
+BRANDY  (CONT'D)
+Hey girl, what's up?
+
+Brandy and Buffy kiss as though they were best friends.
+
+BRANDY (CONT'D)
+Hey, lookin' good, love your hair!
+
+BUFFY
+Thanks, just got it done.
+
+Cindy waves goodbye to Buffy's dad as he drives off.
+
+CINDY
+Bye Mr. Gilmore!
+
+BUFFY
+(not looking back)
+Is he gone?
+
+CINDY
+Yes.
+
+Buffy rips off her clothes, revealing a sexy outfit
+underneath.  She lets her hair down and with a shake of her
+head, a new do, worthy of a sex kitten.
+
+
+EXT. HIGH SCHOOL � FRONT WALKWAY � DAY
+
+The girls walk together towards campus.
+
+Brandy passes her a makeup pack.  Buffy applies her makeup. 
+Cindy passes her the
+lipstick.  Two strokes and the transformation from Daddy's
+baby to every high school
+guy's wet dream is complete.
+
+BUFFY
+I love this color!
+
+CINDY
+Let me see that.
+
+Cindy checks the label.
+
+CINDY (CONT'D)
+You guys shouldn't use this brand.
+
+BRANDY
+Why not?
+
+CINDY
+Because they test their make-up on
+animals.
+
+BRANDY
+So?
+
+CINDY
+Have you seen what they do to those
+poor animals?
+
+Cindy shows them a flyer that reads "Stop Animal Testing". 
+A picture of a monkey in full make-up.
+
+BUFFY
+(taking back the lipstick)
+Well, I'm more of a people person.
+
+BUFFY (CONT'D)
+I'd rather help my fellow man than some
+animal.
+
+A homeless man approaches.
+
+HOMELESS MAN
+Spare a dollar?
+
+BUFFY
+Get away from me you bum!
+
+CINDY
+Buffy!?  Can't you see that he's just hungry?
+
+Cindy gives the man a sandwich from her lunch bag.
+
+CINDY
+Here you go.  A nice sandwich.
+
+The girls walk away.  Suddenly, Cindy is hit in the back of
+the head by the sandwich.
+
+HOMELESS MAN
+(V.O.)
+I said a dollar bitch!
+
+The girls attention is distracted by a commotion on campus.
+
+BUFFY
+God, look at this place, it's a circus!
+
+EXT. HIGH SCHOOL � FRONT � DAY
+
+NEW ANGLE � HOARDS OF MEDIA
+
+In the midst of the chaos, we pan around to see various
+reporters attempting to report the
+story.  Close on young attractive overly ambitious woman,
+GAIL HAILSTORM,
+syndicated talk show host and author.
+
+Gail is giving an update on camera.  Behind her an obnoxious
+KID is mugging for the
+camera.
+
+GAIL
+Hello, I'm Gail Hailstorm, author of
+the book "You're Dead, I'm Rich".  A
+small college town is in shock after
+the unthinkable has happened.
+
+KID in background is hamming it up.
+
+GAIL (CONT'D)
+A brutal killing spree that left one
+teen dead.
+
+KID really performing for the camera.  Gail, annoyed, turns
+and shoots the kid.
+
+GAIL (CONT'D)
+Correction, two teens dead.
+
+Next reporter, straight laced WHITE MALE.
+
+WHITE MALE REPORTER
+Police are searching for clues.
+
+EXT. HIGH SCHOOL � CURB SIDE � DAY
+
+Then a BLACK MALE REPORTER, barely outside of his van,
+hurriedly gives his report.
+
+BLACK MALE REPORTER
+Reporting live for Black TV.  White folks
+are dead, and we are about to get the
+hell out of here!  Let's roll, Jack.
+
+His crew jumps in the van and they burn out.
+
+
+EXT. HIGH SCHOOL � FRONT WALKWAY � DAY
+
+BRANDY
+Do you believe this?
+
+CINDY
+What happened?
+
+BUFFY
+Didn't you hear?  Drew Decker got killed
+last night.
+
+CINDY
+(disturbed)
+What?  Oh my God!  She sits next to me in
+English class.
+
+BRANDY
+Was she a friend?
+
+CINDY
+No, I was gonna cheat off her test
+today.  Now I'm like fucked!  Do
+they know who did it?
+
+BRANDY
+Clueless.
+
+BUFFY
+They showed a picture of her body on
+the news.  It was pretty scary.
+
+CINDY
+All the blood?
+
+BUFFY
+No, she was wearing a Gucci sweater
+and Payless shoes!  That's such a
+fashion disaster!  Do you think the
+press is going to interview us?
+
+BRANDY
+No way.  The press only want to interview
+the most ignorant person they can find.
+
+EXT. HIGH SCHOOL � DAY
+
+The media is surrounding a young black teen sporting a short
+black afro with a pick
+sticking out, a hemp emblemed t-shirt and a roach clip on a
+chain around his neck.  He
+smiles, revealing a gold cap on a rotting tooth.  His name
+is SHORTY.
+
+REPORTER
+Can we have a word with you?
+
+SHORTY
+Oh shit, I'm on TV.  I wanna give a
+shout out to Shane and dem!  Peace to my
+peeps, much love to the east and west,
+Tasha, wake up, the baby's daddy is a
+staraah!!
+
+REPORTER
+What can you tell us about Drew Decker?
+
+SHORTY
+She got a fat ass, kid!  Ya know what I
+mean?
+
+EXT. HIGH SCHOOL � DAY
+
+Shorty stands smoking a fat joint, looking up at two
+billboard ads.  One reads, "Just Say
+No."  The other, a Nike ad that reads, "Just Do It."  He
+looks back and forth between the
+two.  Heavily contemplating both messages.  Finally, he
+looks down at his own tennis
+shoes.  Then back up to the Nike ad.
+
+SHORTY
+Yo, son, I'm with you.  Just do that
+shit.
+
+He takes a long drag off his joint and exits.
+
+EXT. HIGH SCHOOL � DAY
+
+Shorty and his HOMIES kick it up on the school lawn. 
+Getting high and tripping off
+Drew's death.
+
+SHORTY
+Yo, son, that's fucked up that Drew
+got killed.
+
+HOMIE #1
+Word.
+
+SHORTY
+I didn't even get to fuck her.
+
+HOMIE #2
+True dat.  True dat.
+
+SHORTY
+I'm just glad that it wasn't one of us.
+
+HOMIE #1
+Word?
+
+SHORTY
+Yo, son, don't you know?  A brotha'
+never lasts long in these types of
+situations.
+
+HOMIE #2
+True dat.  True dat.
+
+SHORTY
+Kid, in the most successful horror
+flicks, most niggas don't even make
+it to the credits, yo.
+
+HOMIE #1
+Word.
+
+SHORTY
+That's why we as a people have to
+come together and show up to the
+movies on time if we want to see
+our black people die.  If you stop
+to get a forty, you could miss the
+whole thing.
+
+HOMIE #2
+True dat.  True dat.
+
+SHORTY
+'Cause you know they ain't gone
+never let us play the homeopathic
+killer.
+
+HOMIE #1
+Word.
+
+SHORTY
+Oh, sure there's that one cat,
+Candyman, but they don't even let
+that brotha wear a mask.  Why not? 
+Jason, Michael Myers, even the Phantom
+of the Grand Ole Opry covers half
+his face.
+
+HOMIE #2
+True dat.  True dat.
+
+SHORTY
+But see, the thing is, they don't
+fit a description.  On the other
+hand, without a mask, they could
+easily stick my man Candy in a
+line up and frame him for some trumped
+up bullshit.  You see what I'm saying?
+
+HOMIE #1
+Uh, word?
+
+SHORTY
+And tell me this, why he always got
+to be on C.P. time?
+
+
+SHORTY
+You've got to call the brotha'
+repetitiously before he even shows up. 
+Candyman!  Candyman!  Candyman! 
+Nigga' you hear me callin you. 
+Bring your pimp lookin ass on. 
+Off chasing white girls.  That's what
+got your hands cut off in the first
+place.  Which brings me to my point,
+son.
+
+The two stare at him in confused silence.
+
+SHORTY (CONT'D)
+(as if it were obvious)
+Yo, it all started with a white girl. 
+So you know what that means.
+
+Continued silence.
+
+SHORTY (CONT'D)
+Drew's dead.  We black.  Candy. 
+Man.  It's so obvious, kid.
+
+Blank stares.
+
+SHORTY (CONT'D)
+I've got the munchies like a mutha'
+fucka'.
+
+Suddenly clarity registers with the homies.
+
+HOMIE #1
+Word.
+
+HOMIE #2
+True dat. True dat.
+
+
+INT. HIGH SCHOOL HALLWAY � DAY
+
+The girls enter.
+
+V.O.
+Hey ladies!
+
+The girls turn to see SHORTY, young African American, cute,
+in an awkward kind of
+way.
+
+CINDY
+Hi Shorty.
+
+BRANDY
+Talk to the hand.
+
+She puts her hand in his face.
+
+SHORTY
+Cindy?
+
+CINDY
+Can't Shorty.
+
+SHORTY
+Oh well, you force me to open it up
+to hundreds of other girls who would
+die for the opportunity, but just
+because I like you guys, I'm gonna
+wait till lunch before I go public. 
+See ya at the fountain.
+
+Shorty heads to class.
+
+BUFFY
+Whatever!  What a geek!
+
+CINDY
+I think Shorty is cute.  If I wasn't
+dating Bobby, I would go out with him.
+
+BRANDY
+Shit girl, Bobby lives in a trailer. 
+Dating Shorty would be a step up.
+
+CINDY
+If how much money a guy has is so
+important, why are you dating Ray?
+
+BRANDY
+First of all, look at him.  He's
+100% man.
+
+P.O.V. GIRLS
+
+Ray and Greg standing at lockers.
+
+Ray takes off his shirt, exposing his muscular upper body. 
+He slips on a ty-dyed tank top.
+
+RAY
+Yo, man, this shirt make me look gay.
+
+GREG
+Nah.
+
+Ray ties the lower part of the tank top in a knot and rolls
+it above his navel.
+
+
+RAY
+How about now?
+
+Back to girls.
+
+BRANDY
+Besides, the boys got potential,
+girl.  Ray runs a 4.4 40, has a
+3.5 GPA and he's being scouted by
+every major college in the country. 
+If he stays healthy, we're talking
+multi million dollar contract and
+that's not including endorsements. 
+Now Greg on the other hand, that's
+somebody else's mess.
+
+BUFFY
+I'll admit, the pro's is a long shot
+for Greg.  He's been injured twice
+and he's not that bright.
+
+
+P.O.V. BUFFY
+
+Greg slamming his head into the lockers, obviously upset
+about something.
+
+BUFFY (CONT'D)
+And the only way we'll see him in prime
+time in on "Cops".  But for now, he's the
+hottest guy in the school and even if
+I don't want him, I'm not going to let
+anyone else have him.
+
+The girls meet up with Greg and Ray at the lockers.
+
+BRANDY
+Hey baby.
+
+Brandy kisses Ray.
+
+BUFFY
+What's the matter, honey?
+
+GREG
+I got my report card.
+
+He hands it to Buffy.
+
+REPORT CARD READS:  D.U.M.B.A.S.S.
+
+BUFFY
+At least you got one "A".
+
+GREG
+Yeah, I did huh?
+
+CINDY
+Anybody seen Bobby?
+
+RAY
+Nah.  That kid is late every day. 
+I don't get it.  He lives so close.
+
+EXT. HIGH SCHOOL PARKING LOT � BOBBY'S TRAILER � DAY
+
+Bobby exits, books in hand.  Pull back to reveal the trailer
+is parked in the school parking
+lot.
+
+EXT. HIGH SCHOOL FOUNTAIN � DAY
+
+Bobby joins the gang sitting at the fountain.
+
+BOBBY
+Hey guys.  Hey Cind.
+
+Bobby kisses Cindy.
+
+BOBBY (CONT'D)
+You guys see all the reporters out
+there?  They say that girl Drew
+Decker got killed last night.
+
+RAY
+I think I knew her.  She had a brother
+named Steve, pretty eyes, long hair,
+perfect ass.
+
+BOBBY
+Yeah, that was her.
+
+RAY
+No, I was talking about Steve. 
+Whatever happened to him?
+
+BOBBY
+I don't know.
+
+CINDY
+Hey, do you guys think it's strange
+that she got killed exactly one year
+after we, you know, killed that guy?
+
+GREG
+Hey, it was an accident.
+
+CINDY
+Was it?
+
+EXT. PARKING LOT � NIGHT -  (FLASHBACK � ONE YEAR AGO)
+
+
+GREG
+Hey dude.  Nobody drives my car but
+me!  Well, except for that big black
+guy that car jacked me last month, he
+drove it, but other than that, nobody
+drives my car but me.  Okay, there
+was that one time the dope man had
+it for a week because I owed him
+for a bag of weed, but other than
+that�
+
+CINDY
+You know cars are only to make guys
+feel more secure about the size
+of their penises.
+
+GREG
+What's that supposed to mean?
+
+Bobby takes the keys from Greg.
+
+BOBBY
+She's kidding, come on.
+
+
+Greg approaches Buffy.
+
+GREG
+Why did you tell Cindy about it?
+
+BUFFY
+I didn't say anything.
+
+GREG
+Then why did she make that comment?
+
+BUFFY
+Greg, you know I would never tell
+anyone our little secret.
+
+She kisses him.  Cindy walks by.  She holds up her pinky. 
+Buffy giggles.
+
+They get in the car and drive off.
+
+EXT. MOUNTAIN ROAD � NIGHT (GREG'S CAR)
+
+Bobby and Cindy in the front, the other two couples in the
+back.
+
+The two couples are making out.
+
+Greg opens a bottle of liquor.
+
+Greg takes a sip, then another.  Slowly, he starts to feel
+good.
+
+GREG
+Hey, let's put on some music.
+
+Ray pulls a tape out of his pocket.
+
+RAY
+Here, put this on.
+
+Bobby puts in the tape.
+
+The song "It's Raining Men" blares out speakers.  Everyone
+looks at Ray.
+
+RAY (CONT'D)
+Hey, it's a classic.
+
+GREG
+Let's put on the radio.
+
+Greg ejects the tape and finds a station.  Loud rock music
+fills the car.
+
+GREG
+Now that's more like it.  Yeah.
+
+Greg nods to the music.
+
+GREG (CONT'D)
+(yelling)
+AYOO!!!
+
+Greg stands up, pokes his head through the sunroof, takes
+another swig of liquor and
+yells as he enjoys the wind against his face.
+
+
+EXT. MOUNTAIN ROAD � NIGHT  (GREG'S CAR)
+
+Ray and Brandy in the back are really going at it hot and
+heavy.
+
+BOBBY
+(adjusting the rear view mirror)
+Look at what they're doing.
+
+CINDY
+Bobby, keep your eyes on the road.
+
+BOBBY
+When are we gonna do stuff like that?
+
+CINDY
+One day.
+
+Bobby unzips his pants.
+
+CINDY
+What are you doing?
+
+BOBBY
+I just want you to touch it.
+
+EXT. MOUNTAIN ROAD � NIGHT � (GREG'S SUNROOF)
+
+Greg yelling.  This time in tears as he realizes he is about
+to be hit by a low hanging
+branch.
+
+Thud.  His head goes reeling.
+
+EXT. MOUNTAIN ROAD � NIGHT � (GREG'S CAR)
+
+Cindy gingerly touching Bobby's crotch.  He closes his eyes
+momentarily.
+
+BOBBY
+Oh yeah.
+
+Suddenly, Greg's liquor bottle comes falling through the
+sunroof, crashing against
+Cindy's head, sending her face down into Bobby's lap.
+
+BOBBY (CONT'D)
+(shocked)
+Oh yeah!  That's what I'm talking about.
+
+Bobby lays his seat back.
+
+EXT. MOUNTAIN ROAD � NIGHT � (GREG'S SUNROOF)
+
+Greg's head, passing through the tree branches, emerges with
+a bee hive wrapped around
+his face.  He desperately tries to remove it.
+
+EXT. MOUNTAIN ROAD � NIGHT � (GREG'S CAR)
+
+It looks like a wild orgy.
+
+Bobby steering with his bare feet.
+
+Cindy trying to raise her head but is being stepped on by
+Greg.
+
+EXT. MOUNTAIN ROAD � NIGHT � (GREG'S SUNROOF)
+
+Greg finally removes the hive.  He sees something in the
+road.
+
+GREG
+Look out!
+
+EXT. WINDING ROAD � NIGHT � (GREG'S CAR)
+
+Bobby hears Greg's scream.  He too sees something.  Bobby
+swerves to avoid it.
+
+BOBBY
+Oh my God!
+
+The car goes spinning out of control before it finally comes
+to a stop.
+
+BOBBY (CONT'D)
+What was that?
+
+CINDY
+I think we hit something.
+
+EXT. WINDING ROAD � NIGHT
+
+Everyone gets out of the car.
+
+Buffy finds a boot.
+
+BUFFY
+Oh my God!  We hit a boot!
+
+They see a man lying unconscious in the road.
+
+CINDY
+Ahh!  It's a body!
+
+RAY
+Is he alive?
+
+BOBBY
+I don't know.
+
+BUFFY
+Let me check�
+
+
+Buffy kneels next to the body.
+
+BUFFY (CONT'D)
+Hey mister, you want a blow job?
+
+No answer.
+
+BUFFY (CONT'D)
+He's dead.  What are we gonna do?
+
+She quickly backs up and joins the rest of the group.
+
+The man slowly starts to gain consciousness.  The kids don't
+see him, caught up in their own drama.
+
+CINDY
+We have to call the police.
+
+RAY
+No way, I ain't going to jail.
+
+CINDY
+We have to.
+
+GREG
+Do you know what happens to a young boy
+in prison?  All those sex starved
+convicts just waiting for a fresh
+piece of meat.
+
+RAY
+You're right.  Maybe we should call
+the police.
+
+Behind them we see the man sit up.  He calls out to them.
+
+MAN
+That's not necessary.  I'm fine.
+
+They can't hear him.  They're too busy yelling at each
+other.
+
+BOBBY
+Think about it, Ray.  If you do that
+you ruin the rest of this movie.  This
+is your chance to crossover, Ray.
+
+RAY
+White girls?!
+
+Bobby nods yes.
+
+RAY (CONT'D)
+What do we do first?
+
+BOBBY
+We'll hide the body.
+
+CINDY
+I won't have anything to do with this.
+
+In the background, the man is now standing, brushes himself
+off and calls out to the group again.
+
+MAN
+I guess I'll be going now.
+
+Again he's ignored.  He shrugs his shoulders and starts to
+walk away.
+
+BUFFY
+What about the alcohol?
+
+GREG
+We'll get rid of it.
+
+Greg tosses the bottle over his shoulder.  It crashes the
+man on the head, knocking him out.  He flops back
+on to the road, just as the group turns to look at him.
+
+GREG (CONT'D)
+Now let's get him in the trunk.  Move the car closer.
+
+As the three of them talk among themselves, one of them gets
+in the car and backs it up.  The Man sits up
+again, shaking his head clear.
+
+He gets up just as the car backs up into him.  Knocked
+unconscious again, he falls flat on the road.  Just
+then, the kids turn around.
+
+BOBBY
+We'll throw him in the ocean.
+
+They throw him in the trunk and look at each other as they
+talk.
+
+BOBBY (CONT'D)
+We'll go down to Steveson and dump him in
+there.  The sharks will take care of
+the evidence.
+
+The Man wakes up again in the trunk, but the kids aren't
+looking at him.
+
+Not looking at him, Brandy slams the trunk lid down on the
+Man's head.
+
+Greg tries slamming it down again and again.
+
+EXT. PIER � NIGHT
+
+They get him out of the trunk and carry him over to the edge
+of the road, which is
+overlooking the ocean.
+
+CINDY
+Wait.  Shouldn't we check his wallet?
+
+BUFFY
+For what?
+
+BRANDY
+Shit, he might have some money.  We
+already committed murder.  Might as
+well rob his ass.
+
+BOBBY
+Good idea.  I'll take credit cards.
+
+BRANDY
+I want the jewelry.
+
+RAY
+I'll take his underwear.
+
+They finish stripping the man then toss his naked body over
+the side.
+
+GREG
+We must never mention this again.
+
+CINDY
+Mention what?
+
+GREG
+The guy we just killed.
+
+CINDY
+Well, you just mentioned it.
+
+GREG
+Starting now.
+
+EXT. HIGH SCHOOL FOUNTAIN � DAY (PRESENT)
+
+BOBBY
+That's all behind us now, Cindy, we
+have to move on.
+
+GREG
+Yeah, it's just a coincidence.
+
+BUFFY
+Greg's right, Cindy.  I mean what do
+you think we're in, a horror movie?
+
+Cindy relaxes and smiles.
+
+CINDY
+Yeah, if it were, they'd probably cast
+some ding-bat like Jennifer Love "Huge-Tits"
+to play me.
+
+They share a laugh as the bell rings and everyone heads to
+class.
+
+EXT. HIGH SCHOOL � CURBSIDE � DAY
+
+Skate boarders cruise by, followed by guy with no legs on a
+skate board.
+
+Cindy walks toward building, she passes Gail's news van.
+
+Kenny sees Cindy.  He knocks at the van.  Gail answers from
+inside.
+
+GAIL V.O.
+I'm putting on my make up.
+
+Kenny opens the van door.
+
+Gail turns around.  We see a decrepit old woman.
+
+GAIL
+Close the goddamn door!
+
+Kenny, horrified, slams the door.
+
+EXT.  HIGH SCHOOL � FRONT � DAY
+
+Gail trying to get information from the sheriff.
+
+GAIL
+Sheriff, can I get a statement?
+
+SHERIFF
+No comment.
+
+Gail spots Doofy and approaches him.
+
+GAIL		
+Hi, Gail Hailstorm, field reporter, Hard
+Story.
+
+DOOFY
+Special Officer Doofy.
+
+GAIL
+Is there a problem on campus?
+
+DOOFY
+Not while Doofy's on the job.
+
+GAIL
+Well, of course not, handsome.
+
+He salutes her and a student walking by and smacks his hat
+off his head.  He scrambles
+for it, then resumes his composure.
+
+DOOFY
+(embarrassed)
+You shouldn't be here.
+
+GAIL
+I know.  I should be on my knees
+covering the next presidential
+election.  But who knew?
+
+She tickles Doofy.  He farts.
+
+DOOFY
+Excuse me.
+
+GAIL
+You look awfully young to be a
+police officer.
+
+DOOFY		
+I'm twenty-five and a half years
+old.  That's this many.
+
+He spreads his fingers on his hands twice.  Then once on one
+hand and gives her a bent
+thumbs up.
+
+GAIL
+You know, I prove to be most popular
+with males eleven to twenty-four.  And
+most prison lesbians.  Of course, you
+don't look a day over twelve.  Except
+for that big head and glazed over look
+in your eyes.  Ooh, look a little drool.
+
+DOOFY
+Yeah, sometimes I forget to swallow.
+
+GAIL
+Don't worry, I never do.
+
+She tickles him again and he farts again.
+
+GAIL (CONT'D)
+Remind me not to do that again.
+
+Suddenly they are interrupted by an announcement.
+
+PRINCIPAL V.O.
+Hello, due to the recent events, a curfew
+has been placed effective immediately.
+
+GAIL
+Sounds like we've got a serial
+killer on our hands.
+
+DOOFY
+That's official police business.
+
+GAIL
+Are there any suspects?
+
+DOOFY
+I can't say mama.
+
+Gail notices Doofy's large penis.
+
+GAIL
+I say, that's a mighty big night
+stick you got there.
+
+DOOFY
+My mom says I can't play with it
+cause I might poke someone's eye
+out.
+
+GAIL
+I can see how that could happen.  Say,
+what do you say we go back to my van and
+get to know each other a little better?
+
+DOOFY
+Ok.
+
+INT. HIGH SCHOOL CLASSROOM � DAY
+
+Cindy and Buffy enter.  Cindy notices something immediately.
+
+A bird in a cage.
+
+CINDY
+You see?  This is the kind of
+cruelty I'm talking about.  What's
+an animal doing in here?
+
+STUDENT
+He's our mascot.  We adopted him.
+
+CINDY
+No way.  This animal is supposed to
+be free and spread his wings.
+
+Cindy opens the cage and removes the bird.  She walks over
+to the window.
+
+STUDENT
+What are you doing?
+
+CINDY
+Setting him free.
+
+She tosses the bird out the window.
+
+CINDY (CONT'D)
+Fly, little birdy, soar little fella.
+
+STUDENT
+You asshole, his wings were broken.  We
+were nursing him back to health!
+
+The bird falls to it's death.
+
+CINDY
+Oops!  My bad.
+
+INT. HIGH SCHOOL CLASSROOM � DAY
+
+A frumpy woman, MISS TATE, faces the class.  Tragic look on
+her face.
+
+MISS TATE
+A terrible tragedy and an unbearable 
+loss. It's days like today we need
+prayer in school.
+
+Pull back.  Reveal she is breast feeding a baby.  She
+removes the baby from her breast,
+hands it to a nerdy fifteen year old student.
+
+MISS TATE (CONT'D)
+Here, go to your daddy.
+
+MISS TATE (CONT'D)
+Okay class, we've been discussing the
+constitution this week.  Who would like to
+give their oral presentation first?
+
+Young girl excitedly raises her hand.
+
+MISS TATE
+Okay, Heather.
+
+Heather runs to the front of the class.
+
+HEATHER
+My presentation is on the First Amendment,
+which protects freedom of speech.
+
+NEW ANGLE CLASS
+
+Cindy is distracted by something outside the window.  A man
+wearing a mask and Scream attire looking at
+her.  He ducks behind a tree when she looks.
+
+Cindy turns her head quickly to the class then quickly back
+to the window, catching the killer as he steps
+from behind the tree.
+
+Killer freezes.
+
+Cindy and killer play peek-a-boo, finally he disappears.
+
+Cindy notices a note on her desk.  She opens it.
+
+Note reads: "I know what you did last Halloween".
+
+EXT. PARK � DAY  (CINDY'S FLASHBACK)
+
+Flashback to romantic picnic in the park.
+
+INT. HIGH SCHOOL � CLASSROOM � DAY
+
+Cindy smiles, finds a second note.
+
+Note reads: "No, bitch, I'm talkin' about the guy you
+killed".
+
+Cindy's face struck with terror.
+
+Back to Heather who's been talking the whole time.
+
+HEATHER
+That's whats so important about the
+First Amendment.  It gives us the right
+to say what we want without fear of
+retaliation
+
+Smack!  Heather goes flying.
+
+MISS TATE
+Aw, shut the fuck up and sit down.
+
+A student enters the class and hands Miss Tate a note.
+
+MISS TATE (CONT'D)
+Cindy, you're next.  The sheriff's ready
+to see you.
+
+Cindy grabs her books and exits.
+
+INT. HIGH SCHOOL � PRINCIPALS OFFICE � DAY
+
+The LOCAL SHERIFF, a short pudgy balding man, late 40's, and
+the SCHOOL
+PRINCIPAL, Mr. Fonzy, mid 40's, average looking, nice guys,
+waiting to interrogate the
+next student.
+
+SHERIFF
+So, who's next?
+
+PRINCIPAL
+Cindy Campbell.  She's the daughter of,
+you know�
+
+He makes an obscene gesture with his hand and mouth.
+
+SHERIFF
+Oh, you mean Mrs�
+
+Sheriff makes an obscene gesture poking his finger in and
+out of a circle.
+
+PRINCIPAL
+That's right, old Mrs�
+
+Another gesture, more graphic.
+
+
+SHERIFF
+The one and only.
+
+Sheriff starts humping the air and climbs on the desk.  He
+starts having simulated sex. 
+He gets so into it he brings himself to climax just as Cindy
+enters.
+
+PRINCIPAL
+Hello Cindy.
+
+Sheriff recovers himself, lights a cigarette and greets
+Cindy.  He has a big wet spot in the
+front of his pants.
+
+CINDY
+Principal Fonzy.  Hello Sheriff.
+
+Cindy takes a seat.  She greets ANOTHER MAN who has just
+entered, his name is DOOFY, let's call him
+"slow", late teens, early 20's.  He wears a make-shift
+police uniform.
+
+CINDY (CONT'D)
+Hello Doofy.
+
+DOOFY
+That's Officer Doofy today, Cind.
+
+PRINCIPAL
+Cindy, we'd like to ask you some questions.
+
+Sheriff annoyed by something.
+
+SHERIFF
+What's that God awful smell?
+
+DOOFY
+I go poopy.
+
+SHERIFF
+Get him outta here.
+
+PRINCIPAL
+Doofy, it's time to go back to special
+ed.  Maybe the sheriff will let you
+play later, ok.
+
+DOOFY
+Ok.
+
+Doofy exits.
+SHERIFF
+So, how are you Cindy?
+
+CINDY
+Fine, Sheriff and yourself?
+
+SHERIFF
+Bloated, constipated, got a boil on my
+ass the size of a walnut, you know, the
+usual.  So we wanna ask you a few
+questions about Drew Decker.
+
+EXT. HIGH SCHOOL FOOTBALL FIELD � DAY
+
+The football team is practicing on the field.
+
+EXT. NEW ANGLE � INSIDE HUDDLE � DAY
+
+Ray calls the play.
+
+RAY
+25 dive play on 2.  Break!
+
+They clap hands, break huddle and set formation.
+
+Ray at the quarterback position steps up behind the center
+who is bent over ready to hike
+the ball.
+
+RAY (CONT'D)
+24, 25, 15, 22, 55, 66, 11, 45,
+96, 17, 12, 37�
+
+CENTER
+Hey, you gonna call hike or what?
+
+RAY
+Oh, my bad!  Hike!  Hike!
+
+Center snaps the ball.  Ray steps back to pass, revealing
+he's got a hard on.  He throws
+the ball and makes the play.
+
+Coach blows the whistle, ending practice.  The players rush
+to the locker room.
+
+INT. MEN'S LOCKER ROOM � DAY
+
+Players enter after a tough work out.
+
+Ray is first.  He starts to undress.  Several players pass
+Ray and he congratulates each of
+them with a pat on the ass.
+
+RAY
+Hey Murphy, nice catch.  Dugan, good
+block.  Johnson, what a move.  Woodward,
+nice ass.
+
+Woodward looks at him strange, continues on.
+
+Ray heads to the shower, towel wrapped around his waist.  He
+notices Greg lingering.
+
+RAY (CONT'D)
+Hey Greg, you comin'?
+
+GREG
+In a minute, I'm gonna work out first.
+
+RAY
+Okay� Alright, guys, last one in is a
+rotten egg.
+
+Ray snatches off his towel, playfully swatting the other
+players.
+
+INT. MEN'S LOCKER ROOM � DAY
+
+The last of the players exit.  Greg appears from behind the
+locker wearing just a towel. 
+He makes sure the place is empty.  Greg walks to the
+showers, very careful to keep his
+towel wrapped around him until he's safely inside one of the
+stalls.  Even then, he
+surreptitiously looks around to make sure no one's around
+before removing the towel.
+
+Greg approaches his locker and sees a Polaroid photograph
+sticking out of it.  He pulls it
+out and looks at it.  It's a photo of his tiny penis with
+the words "I Know" written
+underneath.  Greg freaks.
+
+GREG
+(yelling and searching the empty locker room)
+Where are you?!  Who did this?!  This
+isn't funny, all right? � a small dick's
+like a disability, man!  Would you make
+fun of somebody in a wheelchair?  Huh? 
+Would you, you sick fuck?
+
+In the locker room, you see a kid in a wheelchair pushed by
+another student real fast into
+the lockers, ala "Slingblade".
+
+GREG (CONT'D)
+Where are you, you  chicken shit?
+
+As he continues his ranting and his search, we�
+
+FADE OUT:
+
+EXT. HIGH SCHOOL FRONT STEPS � DAY
+
+Cindy exits.
+
+Brandy joins Cindy.
+
+BRANDY
+Hey girl, you okay?
+
+CINDY
+Yeah, just that some strange things
+have been going on today.
+
+Suddenly, Brandy's cell phone rings.  She answers.  Terror
+crosses her face.
+
+BRANDY
+Hello.  Who is this?  What do you want
+from me?  No please stop!  I'm gonna
+call the police if you don't stop
+calling me!
+
+She hangs up, visibly shaken.
+
+BRANDY (CONT'D)
+It was him again!  He keeps harassing
+me, sending me notes, calling me on
+the phone.  I'm so scared!
+
+CINDY
+The killer?
+
+BRANDY
+No, M.C. Hammer! 
+
+Brandy spots girls approaching.
+
+BRANDY (CONT'D)
+Aw, shit, I hope that tramp ain't coming
+over here.
+
+CINDY
+Who, Tanya?
+
+BRANDY
+I don't like her cause she's phoney.  I'm talking
+faker than a swap meet hair weave.
+
+Tanya arrives.  Again hugs and kisses from Brandy.
+
+BRANDY (CONT'D)
+What's happenin'?  Girl, I ain't seen
+you in ages.
+
+TANYA
+Right, since the video.  Listen, I
+just wanted to know if you guys were
+coming to the pageant tonight.
+
+BRANDY
+Aw, I can't.  I gotta study.
+
+TANYA
+Cind?
+
+(V.O.) BUFFY
+She's going to cheer for me.
+
+Buffy joins the girls.
+
+TANYA
+Oh, I see.  Well, whatever.  Good luck,
+Buff.
+
+Buffy gives a fake smile.  Tanya walks away.
+
+BUFFY
+(under her breath)
+Slut.
+
+TANYA
+(under her breath)
+Ho.
+
+EXT. HIGH SCHOOL FOUNTAIN � DAY (LATER)
+
+Bobby, Cindy, Ray, Brandy, Buffy, Shorty are sitting around
+the fountain, discussing the
+murder.
+
+CINDY
+The police asked me a whole lot of
+questions.
+
+BRANDY
+Yeah, my brother Shorty is still in
+there.
+
+Shorty approaches.
+
+SHORTY
+Yo, yo , what's up?
+
+RAY
+How'd it go with the police?
+
+SHORTY
+They tried to intimidate a brother but
+I told them I don't talk to pigs and I
+ain't dropping dime on nobody.  I just
+told them where they could shove it.
+
+Shorty reveals he has a plunger sticking out of his ass.
+
+BOBBY
+They asked me if I knew how to hunt.
+
+BUFFY
+That's funny, they asked me if I like
+it doggie style.
+
+CINDY
+It's a shame how she died.  She was
+such a nice girl.
+
+BUFFY
+You know she used to babysit my brother
+Doofy.  He had the biggest crush on her.
+
+SHORTY
+Hey, didn't Greg used to go out with her?
+
+BUFFY
+What are you saying?  Greg killed her?
+
+SHORTY
+No, but it makes him a suspect.
+
+BUFFY
+Oh, yeah, where were you last night?
+
+SHORTY
+I was chillin' at the crib watching an ill
+kung fu flick called Tae Bo.  There was
+this ugly ass brother and he looked like
+a burnt up Keenen Ivory Wayans but the
+ill shit is, he didn't fight nobody he just
+warmed up the whole  time.
+
+SHORTY (CONT'D)
+What did you do last night?
+
+BUFFY
+I was in bed all night.
+
+SHORTY
+Can you prove it?
+
+BUFFY
+Sure I can, right guys?
+
+Cut to the entire football team.  They all nod yes.
+
+BUFFY (CONT'D)
+Here comes Greg.  Now let's see what
+he thinks of your suspect theory.
+
+Greg approaches.  He's pissed.  He goes after Ray.
+
+GREG
+Ray, you're a dead man!
+
+Greg rushes toward ray.  Bobby stops him.
+
+BOBBY
+Easy Greg.  What's the problem?
+
+GREG
+I'll tell you the problem!
+
+Greg shows Bobby the picture of his penis.  The words
+written "I Know" written on it.
+
+BOBBY
+Oh, wow!  This is you?  Oh fuck!
+
+Bobby starts to laugh uncontrollably.
+
+GREG
+Hey, the shower was cold!
+
+BRANDY
+Let me see.
+
+Bobby passes her the picture.
+
+Brandy starts laughing, passes it to Buffy, who passes it to
+Ray and Shorty who burst into
+laughter.
+
+BRANDY (CONT'D)
+My God, how do you even give him head?
+
+BUFFY
+I don't.  I just use it to pick my
+teeth.
+
+GREG
+My nuts are big, they just make my
+dick look small.
+
+They all laugh.  Greg realizes what he's started.
+
+The photo keeps changing hands.  Everyone laughing.
+
+TWO CHINESE GUYS are looking at the photo.
+
+CHINESE GUY
+Now that's a little dick.
+
+GREG
+It's a Polaroid!  There's no dimension!
+
+A LITTLE PERSON gets a look, cracks up, tosses it, it lands
+in a baby carriage.
+
+LITTLE BABY laughing at photo tosses it.
+
+TWO MICE look at photo, laughing.
+
+Back to Greg.
+
+GREG (CONT'D)
+All of you can go to hell!
+
+CINDY
+Greg, you're not the only one
+who got one.
+
+GREG
+Bobby's got a baby dick too?
+
+CINDY
+No, I was talking about the note. 
+I got one too.
+
+Everyone stops laughing.  Cindy shows them the note.
+
+CINDY (CONT'D)
+Somebody knows.
+
+GREG
+Bullshit.  Somebody's just trying
+to fuck with us.
+
+CINDY
+I think we should go to the police.
+
+Greg grabs Cindy around the throat.
+
+GREG
+You talk and I'll kill you myself.
+
+BOBBY
+Greg, chill, you're hurting her.
+
+Greg lets go.
+
+SHORTY
+Somebody want to tell me what that
+was all about?
+
+CINDY
+Forget it, Shorty.  You've already
+heard too much.
+
+Bell rings.  Everyone walks off, leaving Shorty standing
+confused.
+
+INT. AUDITORIUM STAGE � NIGHT
+
+Sign reads "Miss Teen Beauty Pageant"
+
+M.C. on stage introduces the contestants.
+
+M.C.
+And now for our finalists.  Aren't
+they beautiful, except for that motley
+looking one?  Hot damn, where's the
+muzzle?
+
+PAN ACROSS FIVE BEAUTY FACES AND ONE OLD HAG.
+
+The old hag remains confident.  Two of the pretty girls run
+off stage, thinking the M.C. is
+talking about them.
+
+M.C. (CONT'D)
+This is the swimsuit portion of the
+show, giving our judges one final
+look at the contestants.
+
+First contestant, TANYA, her banner reads "Miss
+Congeniality".  She waves as she
+parades across the stage.
+
+Second contestant, black, with beaded braids, not only on
+her head, but under her arms
+and pubic hair as well.  The banner reads "Miss Thang".
+
+Third contestant is Buffy, she struts her stuff, her banner
+reads "Miss Fellatio".
+
+INT. AUDITORIUM � BALCONY � NIGHT
+
+Bobby, Cindy, and Greg watching Buffy on stage.
+
+Greg cheers for Buffy.
+
+GREG
+Whoa!  That's my girl!
+
+VOICE IN CROWD #1
+Mine too!
+
+VOICE IN CROWD #2
+Yeah, I'm hittin' that too.
+
+CINDY
+Hey, I'm gonna go downstairs so I
+can get a closer seat.  I'll see
+you guys when it's over.
+
+Cindy heads downstairs.
+
+BOBBY
+Hey man, I'm gonna run to the head
+real quick.  Want me to bring you
+back anything?
+
+GREG
+Nah, I'm cool.  Just hurry back. 
+She's gonna perform first.
+
+BOBBY
+Don't worry, I'll be back.
+
+
+INT. AUDITORIUM � STAGE � NIGHT
+
+BACK TO THE PAGEANT
+
+M.C.
+And now for the question in the
+spirit of Mother Theresa.  What will
+be your contribution to society contestant
+#1?
+
+TANYA
+I will heal the sick, feed the poor, and
+never change my dress.
+
+M.C. moves down the line.
+
+MISS THANG
+Like Martin Luther King once said,
+"Can't we all just get along?"
+
+BUFFY
+I thought we discussed this last
+night in your hotel room.  You
+said if I�
+
+M.C. cuts her off.
+
+M.C.
+Let's go to the talent portion of the
+show.  Let's welcome contestant #3,
+Buffy Gilmore.
+
+Buffy crosses the stage.
+
+M.C. (CONT'D)
+Okay, Buffy, tell us what is your
+talent this evening?
+
+BUFFY
+Acting.  I'll be doing a dramatic
+reading.
+
+
+INT. AUDITORIUM � BALCONY � NIGHT
+
+GREG
+Yeah, baby, yeah!
+
+INT. AUDITORIUM � STAGE � NIGHT
+
+M.C.
+Miss Buffy Gilmore doing a dramatic
+reading.
+
+M.C. steps offstage.
+
+Buffy gathers herself, about to start, the audience is
+quiet.
+
+Buffy glances up to the balcony for one last reassuring
+smile from Greg.
+
+Suddenly, through the glare of the lights, she sees the
+killer sneaking up behind Greg.
+
+BUFFY
+Look out Greg!  Look behind you!  It's
+him!  It's the killer!
+
+INT. AUDITORIUM � BALCONY � NIGHT
+
+Too late.  The killer grabs Greg and begins his brutal
+attack.
+
+BUFFY
+Oh my God!  Somebody do something! 
+He's killing him!
+
+The audience and judges murmuring and nodding.  Their
+impressed.  "She's good".  No
+one realizes it's not a performance.
+
+BUFFY (CONT'D)
+You fucking bastards!  Why won't
+anyone help?!  Someone call an
+ambulance!  Greg hold on!
+
+Buffy runs off stage.
+
+The audience gives her a standing ovation.
+
+M.C.
+What a wonderful reading, ladies and
+gentlemen!  I think we have a winner,
+Ms. Buffy Gilmore!
+
+INT. AUDITORIUM � BACKSTAGE � NIGHT
+
+Buffy trying to get to Greg.  She is stopped by one of the
+contestants.
+
+TANYA
+You have to go back on stage!
+
+BUFFY
+I have to get to Greg.
+
+TANYA
+But you won!  They're calling your
+name.
+
+BUFFY
+I won?
+
+approaches.
+
+CINDY
+Buffy, what happened?  What about Greg?
+
+BUFFY
+Fuck Greg!  I won!
+
+TANYA
+Congratulations.
+
+BUFFY
+Outta my way, loser.
+
+Buffy pushes the contestant out of her way and rushes back
+to the stage.
+
+INT. AUDITORIUM � STAGE � NIGHT
+
+The crowd applauds.  Buffy waves.  The former Miss Teen
+approaches with a bouquet of
+roses.
+
+BUFFY
+Give me my crown bitch!
+
+Buffy snatches the crown off her head and places it on her
+own.
+
+All the contestants crowd around wishing Buffy congrats.
+
+TANYA
+I guess you won.
+
+BUFFY
+I guess you blew the wrong judge.
+
+MISS THANG
+I'm so happy for you.
+
+BUFFY
+No you're not.
+
+The M.C. starts to sing.
+
+M.C.
+There she is, Miss Teen 99�
+
+The audience applauds, tossing roses, and vases of roses.
+
+Buffy walks down the runway.  Smash!  Crash!  Vases crash
+against her head.
+
+INT. AUDITORIUM � BALCONY � NIGHT - (LATER)
+
+BOBBY
+There's no sign of him anywhere.
+
+CINDY
+He could have taken the body.
+
+BOBBY
+Impossible.  There's no blood. 
+Nothing.
+
+Killer with bucket and mop, a plastic garbage bag with a
+foot sticking out.
+
+BUFFY
+It's probably Greg pulling one of his
+dumb jokes.  I'm sure he'll turn up. 
+He's probably at my house waiting for
+me!
+
+BOBBY
+Well, I'm gonna look around some more. 
+Cind, you mind catching a ride with
+Buffy?
+
+CINDY
+No problem.  Call me later. Be careful.
+
+BOBBY
+Don't worry.  I will.
+
+INT. CINDY'S BATHROOM � NIGHT
+
+Cindy sits at the edge of her bathtub, wearing only a towel. 
+She adds bubble bath to the
+running water.
+
+She lights candles, incense, and a menorah.
+
+She drops her towel and steps into the sudsy bath.  She
+leans back and gives a deep sigh
+of relaxation.
+
+The phone rings, startling her.  She eyes the phone
+anxiously.  RING.  She picks it up.
+
+CINDY
+Hello?
+
+V.O.
+Hello Cindy.
+
+CINDY
+(alarmed)
+Who is this?
+
+V.O.
+It's me, Bobby.  You know,
+your boyfriend?
+
+She sighs, then grabs a razor a leans back to shave her
+legs.
+
+CINDY
+Sorry, guess I'm just a little jumpy. 
+Any sign of Greg?
+
+V.O. BOBBY
+No.  Do you want me to come by?
+
+She shaves her armpits.
+
+CINDY
+No, I'm just going to take a bath,
+then go to sleep.
+
+She shaves her face.
+
+V.O. BOBBY
+O.K. Love you.
+
+CINDY
+Love you too.
+
+She hangs up, then relaxes back into the tub, closing her
+eyes in tranquility.
+
+BLOOP!  BLOOP!  Two of Cindy's fart bubbles rise to the
+surface of the water.  She
+sighs.
+
+She is in deep relaxation.  A beat.
+
+Phone rings startling her again.
+
+CINDY (CONT'D)
+Bobby, I told you �
+
+V.O. KILLER
+I know what you did on Halloween.
+
+Cindy stands straight up in terror at the recognition of the
+scary voice � it's the same one
+from the first scene.
+
+The bubbles form a perfect two-piece bikini over her,
+including straps and a bow.
+
+Cindy slips on her nightgown and exits bathroom.
+
+INT. CINDY'S UPSTAIRS HALLWAY � NIGHT
+
+CINDY
+Who is this?  What do you want?
+
+V.O. KILLER
+To see your insides all over the floor.
+
+Cindy runs downstairs and locks front door.
+
+INT. CINDY'S LIVING ROOM � NIGHT
+
+V.O. KILLER
+You're going to die tonight.
+
+Blaring horn sound.  Cindy is crying, panicking.
+
+CINDY
+Leave me alone.
+
+V.O. KILLER
+I'm going to cut�
+
+Suddenly, her call waiting goes off.
+
+CINDY
+Um, hold on, I have another call.
+
+V.O. KILLER
+What..?!
+
+Cindy clicks over.
+
+
+CINDY
+Hello?
+
+It's another teenager girl's voice on the other line.
+
+V.O. JILL
+Hey, Cindy, it's Jill. You remember that
+hot blue miniskirt on sale at the mall? 
+I bought it.
+
+CINDY
+(quickly recovering)
+Get out� You are going to look so
+gorgeous!  I bet Dave would ask you out
+if you wore that to school.
+
+V.O. JILL
+No way.  He's such a major hotty.
+
+Cindy's phone beeps.
+
+CINDY
+Oh my God, I totally forgot, I've got
+someone on the other line.  I'll call you
+back.
+
+Cindy clicks over.
+
+CINDY (CONT'D)
+Sorry about that.
+
+V.O. KILLER
+Do you think this is a game?  I'm gonna
+gut you like a fish!
+
+Cindy's back to freaking out again, screaming, crying,
+running through the house.
+
+CINDY
+I'm gonna call the police if you don't�
+
+Her phone beeps again.
+
+CINDY (CONT'D)
+Hold on.
+
+V.O. KILLER
+No, don't answer.  My phone bill is
+already too high.
+
+CINDY
+I'll just be a sec.
+
+She clicks over.  Another teenage girl on the line.
+
+CINDY (CONT'D)
+Hello?
+
+V.O. KAREN
+Cindy, it's Karen, Did you get the
+notes in chemistry today?
+
+CINDY
+(recovering, wiping the tears)
+Yeah, I'll give them to you tomorrow.
+
+Cindy's phone beeps.
+
+CINDY (CONT'D)
+I gotta run.
+
+She clicks back over. 
+
+CINDY (CONT'D)
+Hello?
+
+V.O. OPERATOR
+Hi, this is the operator.  I have a
+collect call from� Say your name,
+sir.
+
+V.O. KILLER
+Homicidal Maniac.
+
+V.O. OPERATOR
+Will you accept?
+
+CINDY
+Yes.
+
+V.O. OPERATOR
+Go ahead, sir.
+
+V.O. KILLER
 (to Cindy)
-Don't you want to know who the
-Killer is? ·
-A long beat. Her MOM'S VOICE echoes in her head - "Cindy, don't take off the mask, don't take off the mask ••• "
+Look you little bitch, you ever do
+that again and I'll rip your throat
+out.
+
+CINDY
+My friend needed the notes.
+
+V.O. KILLER
+I don't give a shit.  You made me
+lose my train of thought.
+
+CINDY
+It was something about gutting me.
+
+V.O. KILLER
+Oh yeah, now I remember.  I'm in the
+house.  Do you know where I am?
+
+Cindy walks nervously through the house.  She sees
+something.
+
+CINDY		
+Ah, you're behind the couch.
+
+KILLER
+(surprised)
+What?  How'd you know?
+
+CINDY
+I see your feet.
+
+Close on Killer as he looks up.
+
+KILLER
+Shit, wait a minute.
+
+He runs out of the room.
+
+V.O. KILLER
+No peeking!
+
+V.O. KILLER (CONT'D)
+Ok, now where am I?  You don't know,
+do you?  Heh, heh.
+
+Cindy rushes for the door, opens it.  The Killer standing in
+front of her.
+
+KILLER
+Hello, Cindy.
+
+Killer swings his hook.  Cindy ducks and runs.
+
+Killer gives chase.  Cindy puts a move on him.  He stumbles
+over furniture.
+
+Killer gets up.  He starts to run and stumbles again.
+
+KILLER (CONT'D)
+(to himself)
+I gotta stop drinking.
+
+Cindy runs upstairs.  Killer follows.
+
+INT. CINDY'S STAIRWELL � NIGHT
+
+Cindy tosses a vase.  It crashes against the killer's head. 
+He keeps coming.
+
+Cindy tosses a bicycle.  The killer brushes it to the side
+and continues up the stairs.
+
+KILLER P.O.V.  Cindy pushing a piano down the stairs.
+
+Killer turns and runs.  Piano just misses.
+
+INT. CINDY'S UPSTAIRS HALLWAY � NIGHT
+
+Cindy enters the closet, revealing JAMIE LEE CURTIS already
+hiding in the corner.
+
+JAMIE LEE
+Hey bitch!  I'm in here.
+
+Jamie shoves Cindy back into the hallway.
+
+NEW ANGLE � HALLWAY
+
+Cindy and Jamie playing tug of war with the closet door.
+
+CINDY
+Let me in!
+
+JAMIE LEE
+Find your own!
+
+Killer appears at the top of the stairs.
+
+Cindy runs to her room and locks the door. 
+
+Killer hacking away with his hook.
+
+INT. CINDY'S BEDROOM � NIGHT
+
+Cindy quickly types on her computer.
+
+Screen: 911
+
+Operator: What's your emergency?
+
+Screen: White woman in trouble.
+
+Immediately we hear police sirens closing in.
+
+Cindy turns to the door.  The chopping has stopped.  She
+hears a noise at the window. 
+Bobby climbing in.
+
+BOBBY
+Cindy, you ok?  I heard screaming.
+
+Cindy hugs Bobby.
+
+CINDY		
+He was here!
+
+BOBBY
+It's okay.
+
+Cindy calms down for a moment then she notices something
+falling from Bobby's jacket.
+
+A cell phone drops to the floor.
+
+BOBBY (CONT'D)
+I can explain�
+
+Then a knife and bloody gloves.
+
+BOBBY (CONT'D)
+Uh�that too.
+
+Cindy takes off running.
+
+BOBBY (CONT'D)			
+Cindy!  Wait!  Cindy!
+
+INT. CINDY'S FRONT DOOR � NIGHT
+
+Cindy runs to the front door and opens it.  The mask of the
+killer is covering someone's
+face.
+
+Cindy screams and attacks.
+
+VOICE
+Cindy, It's me.
+
+Cindy sees it's Doofy.
+
+EXT. CINDY'S HOUSE � NIGHT
+
+Bobby repeatedly being body slammed against the hood of a
+police car by Doofy.
+
+BOBBY
+Help!  Somebody get this moron off
+me!
+
+The sheriff arrives.
+
+DOOFY
+I got him sheriff!
+
+SHERIFF
+It's okay, Doofy, I'll take it from
+here.
+
+DOOFY	
+I was the first to respond.
+
+SHERIFF
+Whoopie for you, numb nuts.  How's
+the girl?
+
+DOOFY
+She's okay.
+
+Sheriff walks over to Cindy.
+
+SHERIFF
+You okay to come down to the station?
+
+Cindy nods.
+
+DOOFY
+I'll give you a ride.
+
+Doofy escorts Cindy past a real police car to his kiddie,
+pedal-operated police car.  They
+climb in and ride off.  Doofy makes a siren noise with his
+mouth.
+
+As they ride off, they pass an arriving news van.
+
+Van stops.  Gail Hailstorm rushes out, calling for the
+camera man.
+
+GAIL
+Kenny!  Camera!  Now!
+
+Gail tries to get a glimpse of Bobby as he is driven off.
+
+GAIL (CONT'D)
+Who is that?  Is he a suspect?  Is
+anyone dead?  Sheriff, can I get a
+statement?
+
+Sheriff drives off.  Gail, alone at the scene, sees Kenny
+approaching with a camera.
+
+Gail goes off with Kenny.
+
+GAIL (CONT'D)
+Kenny, I know you're about 50 pounds
+overweight, but when I say hurry, please
+interpret that to mean move your lard
+sweating', bacon burpin' jello shakin'
+ass now!!
+
+INT. POLICE STATION BULLPEN � NIGHT
+
+Bobby being led away.
+
+BOBBY		
+Cindy!  Come on Cind!  You know me!
+
+Cindy sits at a desk alone, visibly shaken.
+
+NEW ANGLE
+
+A policeman talking to the sheriff about Cindy.
+
+SHERIFF
+How's she doing?
+
+POLICEMAN #1
+She's a little shaken up but I
+think she's okay.
+
+SHERIFF
+Okay, I'll take it from here.
+
+Sheriff walks over to Cindy.
+
+SHERIFF (CONT'D)
+I know you've had a rough night Cindy, so
+I'm not going to keep you.  I just want
+you to look at some photo's and tell me
+what you think.
+
+Sheriff hands her a stack of photos.
+
+Close in on photos.  They are pictures of the sheriff
+wearing a pair of speedos, striking
+several different poses.
+
+Cindy shakes her head no.
+
+SHERIFF (CONT'D)	
+Okay, you're free to go.  Do you have
+someone picking you up?
+
+CINDY
+Yes.
+
+NEW ANGLE
+
+
+Two young policemen talking.  We see Doofy in the
+background.
+
+POLICEMAN #2
+Hey, guess what I just did to those
+hookers we busted.
+
+POLICEMAN #1
+No way.
+
+POLICEMAN #2
+All the way.  Watch this.  Hey Doofy,
+come here.
+
+DOOFY
+Yes.
+
+POLICEMAN #2
+Smell my finger.
+
+DOOFY
+What's that?
+
+POLICEMAN #2
+That's when you'll know you've
+become a man.
+
+They laugh at Doofy.
+
+DOOFY
+Hey, smell my finger.
+
+POLICEMAN #2
+What the hell is that?
+
+DOOFY
+My ass.
+
+Buffy enters.
+
+BUFFY
+Doofy, mom said get home now.
+
+DOOFY
+Tell mom I'm on official police
+business.
+
+BUFFY
+Hey, Cind, you okay?
+
+DOOFY
+Hey, no talking to the witness.
+
+BUFFY
+Go get in the car Doofy.  She's
+coming with us.
+
+DOOFY
+Does mom know?
+
+BUFFY
+Yeah, Doofus.
+
+DOOFY
+Mom says when I wear this badge your
+supposed to treat me like a man of
+the law.
+
+BUFFY
+Yeah, well mom also said for you to
+stop sticking your dick in the vacuum
+cleaner.  Now let's go.
+
+Everyone in the police station laughs at Doofy.  He looks
+embarrassed.
+
+Buffy and Cindy exit.  Doofy follows.
+
+EXT. POLICE STATION � NIGHT
+
+Gail Hailstorm arrives.  Kenny hustles behind her.
+
+GAIL
+Okay roll in 5, 4, 3�
+
+Kenny fumbles with the camera.  Ho looks confused.
+
+GAIL (CONT'D)		
+What now?  Don't tell me you
+can't count.  Let's see if I can
+make it easy for you.  This little
+piggy went to market, this little
+piggy stayed home, this little
+piggy had roast beef, this little
+piggy had none,and if this little
+piggy doesn't roll the goddamn camera
+right now I'm gonna put my foot�
+
+KENNY
+We're live.
+
+GAIL
+Hi, Gail Hailstorm here in front of
+the police station where I'm going to
+try to get a glimpse of Cindy Campbell,
+the young woman who was attacked earlier
+this evening.
+
+Gail and other reporters see Cindy exit the station.  They
+rush her.
+
+REPORTER #1
+Cindy, can we get a statement?
+
+REPORTER #2
+Is it true the police have someone
+in custody?
+
+GAIL
+Cindy, your ass looks fat.
+
+Cindy turns and punches Gail in the face.
+
+Doofy hustles Cindy into the car.  She gets behind the
+wheel.  Doofy throws his jacket
+across her head to shield her from the media rush.
+
+Doofy gets in.  They drive off.
+
+O.C.  We hear swerve, crash, crash.
+
+INT.  BUFFY'S BEDROOM � NIGHT
+
+Buffy and Cindy sit on the bed talking.
+
+BUFFY	
+Do you really think Bobby did it?
+
+CINDY
+I don't know but he was there.
+
+BUFFY
+I knew there had to be something.
+
+Doofy enters holding an ice pack.
+
+DOOFY
+Here, a little something for your hand.
+
+He tosses the ice pack to Cindy, not having good aim or
+knowing his strength, the ice
+pack smacks her in the head, knocking her off the bed.
+
+DOOFY (CONT'D)
+Sorry.  I better get something for
+your head.
+
+Cindy, dazed, climbs back on the bed.
+
+CINDY
+That's okay Doofy.
+
+DOOFY
+I'll be in the next room if you
+need me.
+
+CINDY
+Thanks.  Good night Doofy.
+
+Doofy exits.
+
+Buffy opens a bag of doughnuts, starts snacking.  She hands
+one to Cindy.
+
+CINDY
+Say, I didn't know you ate stuff
+like that.
+
+BUFFY
+(excited)
+Oh, I'm on this new diet.  I can eat
+all the junk food I want and not
+gain a pound!
+
+CINDY
+Really?!
+
+Barf, Barf.  Buffy throws up the doughnuts.
+
+BUFFY
+Want some pizza?
+
+Buffy's mom enters.
+
+MRS. GILMORE
+Cindy, telephone.
+
+CINDY
+Who is it?
+
+MRS. GILMORE
+I'm just guessing but I'd say a
+psychotic killer.
+
+Cindy exits to answer the phone.
+
+INT. BUFFY'S HALLWAY � NIGHT (PHONE)
+
+CINDY
+Hello?
+
+V.O. KILLER
+Hello, Cindy.  Poor Bobby boy.  An
+innocent guy doesn't stand a chance with
+you.
+
+CINDY
+No!
+
+Buffy and Mrs. Gilmore run to Cindy.
+
+MRS. GILMORE
+Doofy!  Doofy!
+
+CINDY
+Who are you?
+
+V.O. KILLER
+You'll find out soon enough.
+
+Cindy drops the phone.
+
+Doofy comes running, carrying the vacuum cleaner hose.
+
+DOOFY
+What?
+
+The girls go into the bedroom.  Doofy picks up the phone.
+
+DOOFY (CONT'D)
+Hello?
+
+INT. HIGH SCHOOL CAFETERIA � FOODLINE � DAY
+
+Cindy enters, grabs a tray and gets in line.
+
+Cindy looks at menu.  It reads "Same Old Shit".
+
+PAN ACROSS FACES OF SEVERAL CAFETERIA LADIES SCOOPING IN
+MUSH
+ON TO THE PLATES.  EACH WORKER GETS PROGRESSIVELY UGLIER. 
+THE
+LAST IS A SEA CREATURE IN A UNIFORM AND HAIR NET.
+
+Cindy joins Ray, Brandy & Shorty.
+
+CINDY
+Hey guys.
+
+BRANDY
+How you doin' girl?
+
+CINDY
+Ok.  He got Buffy.
+
+SHORTY
+What?!  She's dead too?
+
+CINDY
+No, she's fine, just a little
+bent out of shape.
+
+RAY
+We gotta get this guy.
+
+CINDY
+I think we should all just stick  
+together. After school, everyone grab
+some stuff, meet at my house and invite
+some friends too. There is safety in  
+numbers. Anyone seen Bobby?
+
+RAY
+I heard he was let out this morning.
+
+CINDY
+If you see him, tell him I'm sorry. 
+I'll see you guys tonight.
+
+Kid dressed in killer's outfit runs through the cafeteria,
+screaming and waving his arms
+wildly.
+
+CINDY (CONT'D)
+(annoyed)
+Why are they doing this?
+
+She rushes from the table.
+
+NEW ANGLE
+
+Cindy bumps into someone.
+
+CINDY (CONT'D)
+Oh my�
+
+It's Bobby.
+
+BOBBY
+It's okay.  It's just me.
+
+Cindy pulls away.
+
+BOBBY (CONT'D)
+Whoa, whoa, wait.  You don't still
+think it's me?!
+
+Cindy pats him down for weapons.
+
+CINDY
+No, no, not at all.  It's just that
+someone did try to kill me.
+
+BOBBY
+The police said I scared him away.
+
+CINDY
+I know.  He called last night.
+
+BOBBY
+See?  It couldn't have been me. 
+I was in jail, remember?
+
+Bobby shows Cindy a tattoo on his butt cheek.  It reads
+"Hank's stuff".
+
+CINDY
+I'm sorry.  Please understand.
+
+BOBBY
+What?  My girl would rather call
+me a killer then touch me?
+
+CINDY
+That's not true.
+
+BOBBY
+Then what is it?
+
+CINDY
+What is it?  Bobby, she's gone and
+she's not coming back.
+
+BOBBY
+It's been a year Cindy.
+
+CINDY
+But Ginger was such an important part
+of the Spice Girls.
+
+BOBBY
+You have to move on, Cind.
+
+CINDY
+I'm sorry if my complicated life is an
+inconvenience to your perfect existence.
+
+Cindy runs away.
+
+BOBBY
+Stupid.
+
+EXT. HIGH SCHOOL � DAY
+
+Sheriff makes an announcement.
+
+SHERIFF
+Let me just say the killings of these
+teenagers have been tragic but with
+every cloud there is a silver lining. 
+Thanks to all the press, tourism is at
+an all time high.  Any of you folks
+visiting, I'll be selling souvenir
+t-shirts right after the conference.
+
+Sheriff holds up a t-shirt that reads: "I could be next
+Woodsboro 99"
+
+SHERIFF (CONT'D)
+Only fifteen bucks each.  Get one
+for the whole family.
+
+Gail calls out to the sheriff.
+
+GAIL
+Sheriff..Hi, Gail Hailstorm, author of
+101 Ways to Milk a Tragedy.  Sheriff,
+let me ask you, do you think the killer
+will strike again?
+
+SHERIFF
+We have no evidence of that.  This is
+just a precaution.
+
+GAIL
+Have you located Cindy Campbell's father?
+
+SHERIFF
 No.
+
+GAIL
+Is he a suspect?
+
+SHERIFF
+That's classified.  Where are you
+getting your information?
+
+GAIL
+My source is strictly confidential.
+
+Doofy steps up to the mic.
+
+DOOFY
+Hey, anybody wanna smell my finger?
+
+INT. GIRLS LOCKER ROOM � DAY
+
+Several girls changing clothes, heading to the showers.
+
+INT. GIRLS SHOWERS � DAY
+
+Camera pans across the naked backs of Buffy and her friends
+taking a shower.  They
+gossip about the past nights events.
+
+BUFFY
+Can you believe it?  There's a killer
+out there.
+
+Several tattoos on Buffy's back.  All hearts with guys names
+crossed out:  Dave, Tom,
+Phil, Steve, last heart reads "Your Name Here."
+
+GIRL #2
+Yeah, I heard he's really cute!
+
+Girl #2: Her tattoo reads: "One Billion Served".
+
+GIRL #3
+Is it true he almost got Cindy?
+
+Girl #3 tatoo above her ass reads: "Exit Only".
+
+BUFFY
+I don't believe her.
+
+Girls finish their shower, grab towels, and continue
+conversation.
+
+BUFFY (CONT'D)
+I think she's just trying to get
+attention.  Just a case of virginal
+delusions.
+
+A girl passes them, built like a playmate centerfold.  The
+girls look at themselves
+insecurely.
+
+BUFFY (CONT'D)
+That Tammy.  She's been left back
+so many times it ain't funny.
+
+
+INT. GIRL'S LOCKER ROOM � DAY
+
+We pick up our girls at the lockers.  They see Cindy getting
+dressed.
+
+BUFFY
+Watch this.
+
+She takes a cell phone from her locker and pretends that she
+a call.
+
+BUFFY (CONT'D)
+Hello, who is this?  What?  You
+want to kill me?  Hold on� Cindy,
+it's for you.
+
+All the girls laugh.  Cindy tries to ignore them.
+
+The laughter is interrupted by the Gym teacher.
+
+MISS MANN, a tall muscular woman with a five o'clock shadow
+and a bulge under her
+skirt that she constantly adjusts.
+
+MISS MANN
+Alright, knock it off Buffy.  Now
+as all have heard, there is a killer
+in our town and the police have asked
+us to give you all the following
+safety tips.  Stay in well lit areas, do
+not travel alone whenever possible and
+don't accept rides from anyone you don't
+know.  I understand this is a difficult
+time for you young ladies, so if anyone
+wants to come to my office to talk,
+I'm here for you.
+
+Miss Mann exits.
+
+BUFFY
+What a crock of shit.
+
 CINDY
-SHERIFF DUTY
-(to coroner)
-Get him out of here.
-Cindy watches distrustfully as the Coroner wheels the body
-to the Coroner's van.
-Suddenly, she lunges for Sheriff Duty's revolver, and yanks
-it from his holster.
+It's not!  He's out there!  I'm
+telling you he's real!
+
+BUFFY
+Oh right, cause you saw him.  Sure. 
+What are you gonna come up with next? 
+Let me guess..The faculty are really
+aliens?
+
+They all laugh.
+
+Cindy grabs her books and exits.
+
+INT. MISS MANN'S OFFICE � DAY
+
+Start on photos on the wall.
+
+Includes Miss Mann with k.d.lang.
+
+Pan down we see Miss Mann sniffing a pair of women's
+panties.
+
 CINDY
-(waiving gun)
-Everyone get backl
-All COPS draw their guns, then train them on Cindy.
-SHERIFF DUTY
-· Cindy, put the gun down! You don ' t
-want to do this.
+Miss Mann?
+
+Miss Mann startled, hides the panties.
+
+MISS MANN
+Come right in, dear.  Have a seat.  Take
+off your bra if you like.
+
+Cindy sits.  She can see Miss Mann's bulge.  She tries to
+avoid looking at it.
+
+MISS MANN (CONT'D)
+What can I do for you dear?
+
 CINDY
-I have to.
-She grabs Courtney Cocks and puts the gun to her head;
-holdin_g her hostage.
-· COURTNEY
-Please don't •••
-( to cameraman)
-••• keep rolling.
-The Cops move in, Cindy COCKS the gun. 
-I.
+I need to talk.
+
+MISS MANN
+Go ahead, my dear.
+
 CINDY
-Everyone get back or I'll kill her!
-COURTNEY
-Please, Cindy, don't hurt me •••
-(to cameraman)
-••• you getting all this?
-I
-SHERIFF DUTY
-Just put the gun down.
+Well, you see, I have this problem and
+I don't know who to tell. This is
+really hard.
+
+Miss Mann touches her hand, gives her a reassuring smile.
+
+MISS MANN
+Not feeling so fresh?
+
 CINDY
-No.
-SHERIFF DUTY
-Then you leave me no choice.
-(turns to Cops)
-FIRE!
-COURTNEY
-Huh?!
-BLAM! POW! BLAST! All Cops OPEN FIRE - mistakenly shooting Courtney with a hail of bullets.
-SHERIFF DUTY
-Hold your fire!
-93.
-They stop. Courtney drops to the ground, bullet ridden and
-bloody. Cindy, unharmed, runs to the van where the Killer
-lies in a bodybag in back.
-VROOM! Cindy hijacks the van, PEELING OUT down the road.
-ON COURTNEY COCKS
-As she lies bloody and dying. · Sheriff Duty kneels by her,
-cradling her head tenderly.
-SHERIFF DUTY
-aan:g in there, kid, you're going to
-make it ... (looks her over) . ••• they missed all your vital
-organs.
-The cameraman puts down his camera and also kneels by her,
-with ~ears in his eyes.
-COURTNEY
-( to cameraman) ·
-Keep rolling, you bastard, this is
-gold. 
-She turns to Duty.
-COURTNEY
-Kiss me •.•
-(she coughs up blood)
-•.• kiss me one last time •••
-He leans down and kisses her blood-filled mouth.
-9-L
-CUT TO:
-EXT -DARK AND WINDY ROAD - NIGHT
-Cindy speeds down the road in the van, with the bodybag in
-the back. She winds along the steep cliffs passing a sign which reads: Dawson's River.
-She looks in the rearview mirror, to see the bodybag·
-SQUIRMING - The Killer's still alive!
-Just then, the Killer UNZIPS the bodybag with his mouth.
-He lunges over the seat, trying to bite her jugular.
+Huh?
+
+MISS MANN
+Feminine odor and itching got you down?
+
 CINDY
-No· •••• 1
-SCREECH! She SLAMS on the brakes, sending the Killer
-SMASHING through the windshield.
-He lands in the road, 10 feet in front of the van.
+No, not that.
+
+MISS MANN
+Oh.
+
 CINDY
-Come on, get up ••• get up •••
-The Killer rears up on his torso - Still alive!
-She jams it into gear and FLOORS IT·- SMACK! . She RAMS him.
-She throws it in reverse and CRUNCH! - rolls over him.
-She repeats this until he lies motionless in the road.
-Satisfied that he's dead, she collapses against the
-steering wheel, exhausted.
-THUD l . Cindy looks up to see that the Killer has jumped
-onto the grill of the van, holding onto the hood ornament
-with his mouth - Still alive!
+I have a terrible secret.
+
+Miss Mann sits back.
+
+MISS MANN
+I see.  Well, Cindy, we all
+have our little secrets.
+
+Miss Mann spreads her legs.  We see a set of testicles fall
+out from under her skirt.
+
+Cindy tries not to react.
+
+Miss Mann walks around the room.  As she speaks, her balls
+swing as they dangle in the
+air.
+
+MISS MANN (CONT'D)
+Sometimes we do things we're not proud
+of.
+
+MISS MANN (CONT'D)
+Some for money, others to gain an
+athletic edge against the competition.
+
+Miss Mann walks over to Cindy, places her hand on one
+shoulder and accidentally rests
+her balls on Cindy's other shoulder.
+
+MISS MANN (CONT'D)
+Sometimes those little secrets come back
+to haunt us in the most unpredictable 
+ways. You know what I mean?
+
+Cindy jumps up.
+
 CINDY
-No,. no •••
-She.jams it into gear and aims it for the edge of the
-cliff. 
-.  .. -~ ..... ---- ---------------
+Yes I do.  Thanks for your time. 
+I gotta go to class.
+
+MISS MANN
+Anytime, dear.
+
+Cindy hustles out of the office.
+
+INT. GIRLS LOCKER ROOM � DAY
+
+All the girls have left but Buffy, who grabs her books and
+closes her locker.
+
+She hears a noise.  She goes to investigate.  No one there.
+
+Buffy turns.  She sees The Killer.
+
+BUFFY
+Very funny.  But you better get out
+of here before Miss Mann sees you.
+
+Buffy tries to walk away.  Killer blocks her path.
+
+BUFFY (CONT'D)
+(sarcastically)
+Oh, so what movie is this from, "Die
+Cheerleaders Die"?  So wanna play
+psycho killer?
+
+The Killer nods yes.
+
+BUFFY (CONT'D)
+Can I be the helpless cheerleader? 
+Let's see�
+(pretend pleading)
+Please don't kill me, mister killer�
+
+The Killer grabs her arm.
+
+NOTE: Buffy's attitude is smart ass and condescending the
+whole scene.
+
+BUFFY (CONT'D)
+Oh, is this the part where I beg
+for my life?
+
+Killer nods yes.
+
+BUFFY (CONT'D)
+Oh, please mister killer, don't kill me!
+
+Killer slashes her with his knife.
+
+BUFFY (CONT'D)
+Oh is this where I'm supposed to bleed? 
+Oh, look, I'm bleeding.  EEK! EEK!  Oh
+yeah, I'm supposed to run, right?  Ha ha,
+okay, if it makes you happy.
+
+She runs half heartily, waving her arms in comical mock
+fright.
+
+BUFFY (CONT'D)
+I'm running, I'm running.  Help!  Now
+here is where I fall and break my leg,
+leaving me helpless.
+
+She sighs, like she's indulging him.  She trips and twists
+her leg grotesquely.  We hear a
+loud snap.
+
+BUFFY (CONT'D)
+There ya go, mister scary killer.  I'm
+panicking now.  God, somebody please
+help me!
+
+Killer gets down and viciously attacks.  We hear flesh
+tearing and ripping as blood sprays
+everywhere.
+
+BUFFY (CONT'D)
+So, I suppose this is where my guts
+get ripped open?  Whatever�
+
+Killer raises a meat clever the final blow.  He lifts her
+severed head.
+
+She rolls her eyes.
+
+BUFFY (CONT'D)
+Oh, look at me.  I'm all dead.
+
+BUFFY (CONT'D)		
+I'm a gross scary severed head.  Come on,
+Pul-leeze!
+
+EXT. HIGH SCHOOL � DAY
+
+The ledge outside one of the school windows on the third
+floor.  Phil crawls out on the
+ledge, looking disheveled.  Another faculty member pokes his
+head out the window.
+
+FACULTY MEMBER
+Phil!  What are you doing?!  Come
+back in here!
+
+PHIL
+No, I've had it!  I can't take
+this job and these stupid kids
+anymore!  I'm going to end it all!
+
+FACULTY MEMBER
+Be reasonable.
+
+PHIL
+There's nothing for me to live
+for.  I'm jumping.
+
+FACULTY MEMBER
+Wait!  Just hold on, we're getting help.
+
+BRANDY
+The killer's just fucking with us.
+
+RAY
+I don't get it.  Why?
+
 CINDY
-Aahhhh •••. 11 !
-95.
-She drives off the edge, and th~ van goes CRASHING down the
-side of the cliff with the Killer still on the hood.
-ON THE ROCKS BELOW
-KABOOM!!! The van lands in a fiery heap, EXPLODING on
-impact.
-Cindy is thrown from the van, landing on the rocky shore.
-Cindy is battered, bruised and generally fucked up.· She
-approaches the Killer, who's pinned under the smoldering
-van.
-The Killer lifts his head - HE'S STILL NOT DEAD!
-. She stares at the masked Killer.
-'CINDY
-I have to know. I have to know who
-you are.
-She unmasks the Killer to:reveal that it's ••• MARTHA
-STEWART!
+What does he want with us?
+
+Upset, Cindy steps away from the group, looking up (but not
+in the direction of the
+school) arms out, shouting:
+
+CINDY (CONT'D)
+What are you waiting for, huh?
+
+Phil on the ledge, breathing hard, sweating.  He hears Cindy
+yelling again, louder this
+time.
+
+CINDY (O.S.)(CONT'D)
+What are you waiting for?!
+
+PHIL
+She's right.  What am I waiting for?
+
+With a shout, he jumps to his death.
+
+Phil lands near them�SPLAT.  They all surround him.  Shorty
+stands over him.
+
+SHORTY
+Yo, kid.  You got that ill chronic.
+I told you that shit would make
+you fly.
+
+INT. RAY'S BEDROOM � DAY
+
+Ray and Brandy sitting on his bed, sharing fruit.  Ray is
+wearing shorts and a tank top.
+Music plays in the background.
+
+Brandy is wearing Ray's football jersey.
+
+BRANDY
+Ray, I don't think this party is
+a good idea.  What if Shorty is
+right?
+
+RAY
+Promise.
+
+He gives her a reassuring kiss.
+
+The song "Same Ho" by Snoop Dog is playing on the radio.
+
+SONG V.O.
+Every where I go, I see the same ho,
+in every video, I see the same hooo�
+
+BRANDY
+Hey, that's my song.  You know they
+gave me a shout out on the album.
+
+Brandy starts to dance for Ray.
+
+RAY
+You know, you look really sexy in
+my jersey.
+
+Brandy stands up and begins to model the jersey.
+
+BRANDY
+You think so?
+
+RAY
+Yeah, put these on with it.
+
+He hands her the football pants.
+
+RAY (CONT'D)
+And these too.
+
+He hands her a pair of cleats.
+
+BRANDY
+You sure?
+
+RAY
+Yeah, and this too.
+
+He gives her his shoulder pads.
+
+RAY (CONT'D)
+Yeah, that's hot.  Wait.  One more
+thing.
+
+He puts a helmet on her head.
+
+RAY (CONT'D)
+That's what I'm talkin' about.  Come
+here, you sexy thing you.
+
+Ray grabs her and starts making passionate love to her.
+
+EXT. MOVIE THEATRE � NIGHT
+
+Ray and Brandy walk to the box office to get tickets.
+
+BRANDY
+I don't know why we got to go
+see this movie.  They just insult
+my intelligence.
+
+RAY
+What are you talking about?  You
+just got your GED.
+
+BRANDY
+All I know is these movies is about
+white people doing white things in
+white places.  There ain't never
+no black people in them.
+
+RAY
+That's cuz it's Shakespeare.
+
+Reveal they are going to see "Shakespeare in Love".
+
+BRANDY
+Whatever.  Why can't we go see a
+horror movie or something?
+
+RAY
+Look, why don't you just chill
+and try to have a good time.
+
+BRANDY
+Alright.  I'm sorry.  I do appreciate
+you takin' me out.
+
+They enter the theatre.
+
+INT. MOVIE THEATRE � CONCESSION AREA � NIGHT
+
+RAY
+Look, why don't you go get some
+seats? I'm gonna get some refreshments.
+
+Ray stands in line at the concession stand.  Brandy enters
+the screening room.
+
+INT. MOVIE THEATRE � NIGHT
+
+Ray enters, looking for Brandy.
+
+Brandy calls for Ray.
+
+BRANDY
+Ray!  Hey Ray-Ray!  Down here!
+
+She waves wildly, screaming Ray's name.
+
+Note: Ray and Brandy are the only black people in the
+theatre.
+
+Ray walks to Brandy, takes a seat.
+
+RAY
+You want some popcorn?
+
+BRANDY
+I brought my own food.
+
+Brandy reaches into her purse, pulls out a full course meal. 
+Fried chicken, potato salad,
+greens, and a large bottle of hot sauce.
+
+Screen:  The THX robot starts the film.
+
+Brandy immediately starts yelling at the screen.
+
+BRANDY (CONT'D)
+Ooo, yeah, do that shit!
+
+Screen: You are now listening to THX.
+
+BRANDY (CONT'D)
+This sound system is the bomb.  I need
+one of these in my car.
+
+White patrons, shaking their heads.  It's gonna be a long
+night.
+
+Ray is embarrassed by Brandy's behavior.  He excuses
+himself.
+
+RAY
+Watch my seat.  I have to go to the
+bathroom.
+
+INT. MOVIE THEATRE � BATHROOM � NIGHT
+
+A guy stands in front of a condom dispenser and chooses from
+the selection: "Ultra
+Sensitive", "For Her Pleasure", "Can't Feel Shit", and
+"You're a Daddy".
+
+Another guy washes his hands at the sink, then turns to pull
+down the rotating towels and
+it's a pair of pants that go in a circle.
+
+Enter Ray.  He waits for a free urinal, but they're all
+occupied by guys pissing at a target
+in the bowl.  As they pee on the bulls-eye, toy horses race
+across a track on the wall like a
+carnival game.  The guys look straight ahead.
+
+Ray tries to find a stall.
+
+He checks under other doors.  He sees a pair of tennis
+shoes, cleats, clogs, ballerina shoes
+up on their toes, and the ugliest pair of men's feet with
+freshly painted red toenails with
+the toe separators still in them.
+
+Finally, he looks under a door and doesn't see any feet. 
+Ray opens the door.
+
+Reveal a LITTLE PERSON sitting on the toilet.
+
+LITTLE PERSON
+Hey, I'm in here.
+
+RAY
+My bad.
+
+The handicap stall opens.  A guy in a wheelchair rolls out. 
+The guy in the wheelchair
+looks around, stands up, folds up the chair, picks it up and
+walks out.
+
+Ray shakes his head in disbelief, then enters the handicap
+stall.
+
+Ray finishes, zips his pants, turns to exit.
+
+Ray starts to leave when he hears voices coming from the
+adjacent stall.
+
+Ray presses his ear against the stall wall.
+
+Traces the sound to a small hole in the stall wall.
+
+
+
+Ray presses his ear against the hole.  A penis pokes through
+tickling his ear.  Ray
+chuckles and presses his head closer.
+
+This time the penis thrusts through his ear.
+
+Ray grabs his ear in pain.  Goo flows out of his mouth.  He
+falls to the floor.
+
+INT. MOVIE THEATRE � NIGHT
+
+Brandy sits alone, eating and yelling at the screen.
+
+BRANDY
+Don't go in there!
+
+Screen: Shakespeare climbing up the side of the tower.  He
+reaches the top.  He and the
+lady's nurse see each other.  They scream.  So does Brandy.
+
+BRANDY
+This is some scary shit!  Run,
+Shakespeare, run!
+
+Man next to her leans over.
+
+MAN
+Will you keep it down!?
+
+BRANDY
+Excuse me!  I paid my money like
+everyone else.
+
+Screen: Gwyneth Paltrow dressed as a man reciting the play.
+
+BRANDY (CONT'D)
+That ain't no man!
+
+Brandy takes out a laser pointer.
+
+BRANDY (CONT'D)
+You can see her real hair under
+that wig.  Look right there!
+
+People around her are getting really annoyed.
+
+WOMAN	
+Do you mind?
+
+Brandy starts video taping the movie.  The killer sits down
+next to her.  She doesn't notice.
+
+BRANDY
+Hey Ray, you came back just in time. 
+Yeah, this movie is good.
+
+BRANDY (CONT'D)
+She's about to get it on with Shake-a-spear;
+he found out she's a girl.   This is just like
+an episode of Jerry Springer.
+
+Screen: A fight on screen.
+
+BRANDY (CONT'D)
+Aw, shit.  The fightin'!  Jerry! 
+Jerry!  Jerry!
+
+The audience is furious.
+
+OLD LADY
+Shut up!
+
+MAN
+For Christ's sake, shut your trap!
+
+Brandy's cell phone rings.  She answers.
+
+BRANDY
+I don't know why y'all trippin'.  My
+girlfriend saw the movie and she said
+they don't even stay together in the end.
+
+That's it.  The audience has had enough.
+
+The Man sitting next to her suddenly reaches over and stabs
+her in the stomach, then goes back to watching
+the movie.  Brandy stands up, stunned and horrified.  She
+screams.
+
+Then the Woman sitting behind her reaches over and stabs her
+in the back, then also goes
+back to watching the movie.  Man #2 reaches over, guts her,
+and then continues to watch
+the movie.  The Old Woman reaches over and cuts Brandy's
+throat.  Brandy tries to
+escape, but all the people in the theatre start stabbing,
+slicing and gutting her as she runs
+by them � all normal looking people: an old couple, a
+teenager, middle class couple, a
+priest, etc.  The Killer never has to touch her.
+
+Crying and bloody, Brandy stumbles toward the movie screen,
+still getting stabbed by
+everyone.  She stands up in front of the screen, looks out
+at all the pissed off faces in the
+audience and drops to the ground, dead.
+
+The audience erupts in wild cheers and applause.
+
+
+EXT. CINDY'S HOUSE � NIGHT
+
+Party in progress.  Several cars arrive, music blasting from
+inside.
+
+INT. CINDY'S LIVING ROOM � NIGHT
+
+Kids watch "Halloween H2O".
+
+SHORTY
+Here it comes..SPLAT!
+
+JILL
+How can you watch this over and
+over?
+
+SHORTY
+It's great promotion for Miramax.
+
+
+TEEN
+When does LL get killed?
+
+SHORTY
+He doesn't.  LL Cool J is one of
+the only black guys to survive a
+horror movie.  Him and Duane Martin
+from Scream 2.  That's because they
+followed the rules.
+
+JILL
+What are you talking about?
+
+SHORTY
+There are certain rules a black
+person must follow in order to
+survive a horror movie.
+
+JILL
+Where's Brandy?
+
+SHORTY
+Probably dead.  The sassy black best
+friend of a white virgin is always
+sacrificed first.  It's like being the
+black guy with the red shirt in the Star
+Trek landing party when Kirk says
+"Johnson, go check it out".  You know
+he ain't coming back.
+
+Kids boo and throw popcorn at Shorty.
+
+JILL
+I'm going to the kitchen.  Anybody
+want anything?
+
+TEEN
+More popcorn.
+
+Everyone laughs.  She exits.
+
+INT. CINDY'S KITCHEN � NIGHT
+
+Cindy is preparing chips and dip.  Jill enters.
+
+JILL
+Can I help with anything?
+
 CINDY
-Martha Stewart?! But why?
-MARTHA STEWART
-I'm trying to change my image.
-In a twist, Cindy realizes this .too is a mask. She pulls
-off the Martha Stewart mask to rev~al the real- killer
-is ••• JESUS CHRIST!
-JESU.S CHRIST
-Got a smoke?
-Cindy realizes this. is also a mask. She pulls off the
-Jesus· mask to reveal •••
+Sure, can you get some more beers
+out of the fridge in the garage?
+
+JILL
+Sure.
+
+INT. CINDY'S GARAGE � NIGHT
+
+Jill enters, turns on the lights, makes her way to the
+fridge.
+
+She is startled by a cat.
+
+JILL
+Oh, kitty, you scared me.
+
+The cat runs out the doggie door that's cut into the garage
+door.
+
+Jill turns again.  She is startled.  This time by a horse.
+
+JILL (CONT'D)
+Oh horsey!  You scared me too!
+
+Finally at the fridge, she grabs a few drinks.
+
+INSERT OF FRIDGE
+
+Beer bottle labels: Cult 45, Satan Malt Liquor, Killer
+Genuine Draft.
+
+NEW ANGLE � GARAGE
+
+The door slowly closes.
+
+Suddenly the lights go out.
+
+JILL (CONT'D)
+Who's there?   Hello?  Is anyone there?
+
+Jill walking in the dark constantly talking.
+
+JILL (CONT'D)
+How tall are you?  What's your sign?  Do
+you speak more than one language?
+
+The lights back on.  The killer is standing at the top of
+the steps.  Knife is drawn.
+
+JILL (CONT'D)
+Oh my God!  Please don't!  I'm just
+a day player!
+
+Killer swings with knife.  Misses.
+
+Jill drops the bottles, starts to run.  Killer chases.  She
+swings open the refrigerator door,
+smashing him in the face.
+
+Killer falls.  She runs for the door.
+
+Killer cuts her off.  She picks up a bottle and throws it at
+the killer, smashing him in the
+face.  He stumbles back.
+
+This is her chance.  She runs to the doggie door.
+
+The killer watches in disbelief as Jill tries to stuff her
+body through the doggie door.
+
+EXT. CINDY'S GARAGE � DOGGIE DOOR � NIGHT
+
+Jill tries pushing head through.  It takes up the whole
+door.  Finally it pops through.
+
+INT. CINDY'S GARAGE � DOGGIE DOOR � NIGHT
+
+Jill's ass and feet struggling to get thru the small door. 
+Won't fit.  Turns around and tries
+to go feet first.
+
+EXT. CINDY'S GARAGE � DOGGIE DOOR � NIGHT
+
+Jill's head is stuck, squeezing past left side of her face. 
+Her hand wiggles through, then a
+foot.  An anatomical mess.
+
+INT. CINDY'S GARAGE � NIGHT
+
+Killer turns on the garage door opener.  The motors spark
+and strain, unable to lift the
+giant weight.  She keeps heaving, ramming and pushing
+against the door until the entire
+garage door start to shake and splinter.
+
+Then, the entire garage starts trembling and crumbling
+around her with the force of her
+heaving.  Finally the whole garage just collapses on her,
+killing her.
+
+INT. CINDY'S KITCHEN � NIGHT
+
+Several kids cheering.
+
+TEENS
+Go!   Go!   Go!   Go!  
+
+Cindy drinking from funnel.
+
+TEEN BOY
+Whoa!
+
+Ray enters.  Cindy lets out a loud burp.
+
+Jump Scare Bobby steps into frame.
+
+BOBBY
+Somebody looking for me?
+
 CINDY
-(gasps)
-Mom?!
-THE TRUE XILLER IS JOAN CAMPBELL - HER MOTHER!!
-' .. 
+Hi.  You had me worried there for a
+minute.  I thought the killer got to
+you before I could.
+
+BOBBY
+Could what?
+
+Cindy kisses him in an obviously drunk and slutty way.
+
+CINDY		
+Why don't we go ahead upstairs and
+whatever�
+
+Bobby and Cindy walk hand and hand upstairs.
+
+INT. CINDY'S BEDROOM � NIGHT
+
+Cindy and Bobby sitting on the bed, talking.
+
 CINDY
-But I thought you were dead.
-JOAN CAMPBELL
-Only clinically. You all buried me
-alive.
-96.
-Cindy takes a step back, reeling with the horrible truth.
-- JOAN CAMPBELL
-I came back to take my revenge.
+So�.
+
+BOBBY
+So, here we are again.
+
 CINDY
-What about Tim Tingle, Cotton
-Blend ••• ?
-JOAN CAMPBELL
-My lovers.
+Yeah.
+
+BOBBY
+And if your not ready still,
+I'll understand.
+
 CINDY
-_Slut!
-JOAN CAMPBELL_
-Watch your mouth, I'm still your mother. ·
+But I am ready.
+
+BOBBY
+You are?
+
 CINDY
-sorry, Mom.
-JOAN CAMPBELL
-My revenge was almost complete. You
-were the _last. ••.
-Tears well in Cindy's eyes.
+Yeah, I figured out that I have to
+live my own life and I can't keep
+fighting my urges.  I have to give
+in and let them flow.
+
+BOBBY
+This is like a scene in a movie.
+
 CINDY
-Oh, Mom~ ••
-She picks up an~ and raises it over Joan's head.
+Only this is real life, it's not a
+movie.
+
+BOBBY
+Sure it is..There's the sound man and
+the script supervisor..
+
+WE SEE THE SOUND MAN AND SCRIPT SUPERVISOR WATCHING.
+
 CINDY
-~· see -you in hell. •.. ..
-THWACK! She lops off her mom's head.
-Superimposed: ONE YEAR LATER
-FADE- IN
-- . INT- COLLEGE DORMITORY - DAY
-FADE OUT 
-...
-97.
-IN THE GIRLS BATHROOM
-Cindy enters, wearing a towel, and turns on the hot water.
-in the shower stall.
-Steam envelopes the room.
-She walks to a mirror, and takes a hard look at herself.
+What I mean is in real life you have
+to enjoy each moment.
+
+Cindy takes off her shirt.  Bobby does the same.  They kiss
+passionately, licking each
+others mouths, flicking their tongues.  The two tongues
+start wildly slapping and lapping
+together until they end up hopelessly tied and knotted
+together.
+
+Cindy and Bobby lay down on the bed.
+
+Cindy starts to kiss his chest.  She works her way down to
+his belly button then starts
+back up.
+
+Bobby gingerly pushes her head back down.  They play tug of
+war.  Finally, Cindy
+surrenders.  She unzips his pants.
+
+Cindy looks up innocently.
+
+CINDY (CONT'D)
+You know, I've never really done
+this before.
+
+BOBBY
+It's okay.  It's just like sucking
+a tootsie pop.
+
+Cindy lowers her head.  We hear the sounds.
+
+Lick!  Lick!  Slurp!
+
+BOBBY (CONT'D)
+That's it, that's right.  Just
+like that.
+
+Slurp.  Suddenly CRUNCH!
+
+Bobby screams with pain.
+
 CINDY
-(to her reflection)
-You survived. You're a survivor •••
-A beat.
-She drops her towel, revealing a 12" PENIS dangling between
-her legs, like Dirk Diggler in "Boogie Nights."
-As the steam parts, she sees a message wr~tten on the
-mirror:
-. I STILL KNOW WHAT YOU DID LAST. HALLOWEEN • ••
-Cindy SCREAMS in horror.
-ROLL END CREDITS
-FADE OUT
-JI
-j I
-.' ' ) I
-'
-: I
-: l `)
+I never could wait to get to the
+chewy middle.
+
+Bobby recovers.
+
+BOBBY
+Come here, let me.
+
+Bobby slides off Cindy's pants.  He's startled by bat's
+flying out.
+
+They continue to make out. He tries to take off her panties,
+but struggles.
+
+CINDY
+Here, let me.
+
+His eyes gleam with heated anticipation as she lowers her
+panties.
+
+POOF!  Her enormous BUSH OF PUBIC HAIR fills the screen.
+
+We hear the primitive sounds of the Call of the Wild
+emanating from her untamed forest.
+
+He whips out a machete and THWACK!  He slashes at the bush. 
+He pulls back the blade
+to find it's dented � he needs something stronger.
+
+Cindy grabs him by the head and pushes it down.  She moans
+with ecstasy.  We hear
+Bobby struggling to breath.
+
+CINDY (CONT'D)
+To the left!  Faster!  Higher!  Wait!
+
+She draws him a map ad gives it to him along with a compass.
+
+Cindy finally lets Bobby up.  He coughs up a hairball.
+
+CINDY (CONT'D)
+I want sex.
+
+BOBBY
+Okay, let me just get my pants off.
+
+Bobby stands up and takes off his pants.  From the back we
+see his ass and two giant blue
+balls hanging between his legs.
+
+BOBBY (CONT'D)
+Are you sure?
+
+CINDY
+I want it now!
+
+She slams him down, tears the remainder of his clothes off
+and begins to ride him like a
+human sit and spin.
+
+INT. CINDY'S LIVING ROOM � NIGHT
+
+The party stops.  The house shakes.  Plaster falls from the
+ceiling.  A loud howling noise
+is echoed through out the house.
+
+INT. CINDY'S ROOM � NIGHT
+
+Bobby feels himself ready to climax.
+
+BOBBY
+Oh my God!  I can't hold it..OOOOO!!!
+
+He cums, sending Cindy blasting off into the air as he
+shoots a geyser of jizz.
+
+Close on Bobby, his body caves in as fluids leave his body.
+
+Cindy is stuck to the ceiling.
+
+INT. CINDY'S BONG ROOM � NIGHT
+
+Two teen boys smoking weed through a bong.  Room is filled
+with smoke.
+
+TEEN
+Dude, where did you get this?  It's
+fuckin' awesome
+
+The door busts open.  The kids see the Killer.
+
+INT. CINDY'S BONG ROOM � NIGHT
+
+Killer hitting the bong.
+
+KILLER
+Good shit.
+
+TEEN
+Fuckin' a dude, I'm wasted.
+
+Killer pretends to hear a noise.
+
+KILLER
+You hear that?
+
+TEEN #2
+What?
+
+Killer does the Jason theme.
+
+KILLER
+Ching, ching, ching, ching, cha, cha,
+cha, cha.  I'm just bullshitting.  Hey
+you guys want to have some fun?
+
+INT. CINDY'S BONG ROOM
+
+Killer on the phone.
+
+KILLER
+What's your favorite scary movie?
+
+Killer starts snickering.  We hear a terrified girl on the
+phone.  He passes the phone to
+one of the teens.
+
+TEEN
+Who was the killer in Friday the
+Thirteenth?
+
+They all start laughing.
+
+INT. CINDY'S BEDROOM � NIGHT
+
+CINDY
+That was wonderful.  I really felt
+something special happen between us. 
+Like this bond that can only be between
+two people who truly love one another,
+you know?
+
+PAN OVER TO BOBBY WHO IS ON THE PHONE.
+
+Cindy slaps his arm.
+
+BOBBY
+Yeah, I got that ass.  Tore it up!
+
+CINDY
+Bobby!  Did you hear anything I said?
+
+BOBBY
+Yeah, sure, can you make me a
+sandwich?  I'm a little hungry.
+
+INT. CINDY'S LIVING ROOM � NIGHT
+
+The phone rings.  Shorty answers it.
+
+SHORTY
+Hello?  What?  No way!
+
+Shorty hangs up.  Turns to the kids.
+
+SHORTY (CONT'D)
+Hey everybody, they found Tanya
+hanging from the goal post.
+
+PARTY GOER #1
+Hey lets go check it out before
+they cut her down!
+
+PARTY GOER #2
+Yeah, maybe she's not wearing underwear! 
+Last on gets sloppy seconds.
+
+The party cheers.  All the guys exit the party, leaving
+Shorty alone.
+
+EXT. CINDY'S HOUSE � NIGHT
+
+All the guys rush to their cars.
+
+INT. CINDY'S BEDROOM � NIGHT
+
+Bobby and Cindy are getting dressed.  Bobby sits closest to
+the door.
+
+CINDY
+Bobby, where were you tonight?
+
+BOBBY
+Huh?
+
+CINDY
+I was just curious.  What took you
+so long to get here?
+
+BOBBY
+Why so curious?
+
+CINDY
+Well, I just thought it would fit
+the 90's horror clich� if you
+turn out to be the killer.
+
+BOBBY
+You think I killed Buffy and Greg?
+
+CINDY
+Buffy and Greg are dead?
+
+BOBBY
+I thought you knew.
+
+The door behind Bobby opens.  The killer appears.
+
+CINDY
+Bobby!  Look out!  He's behind you!
+
+Bobby turns.  It's too late.  The killer stabs him
+repeatedly.
+
+Bobby turns to Cindy, his shirt bloodied, he's holding a
+bottle of ketchup in his hand.
+
+CINDY (CONT'D)
+Oh my God!  Bobby no!!!
+
+Bobby falls dead.
+
+Killer wipes his knife.  Goes after Cindy.
+
+Cindy takes off.  Runs downstairs.
+
+INT. CINDY'S FOYER � NIGHT
+
+Cindy runs to the door.  She looks behind her.  The killer
+is gone.
+
+Cindy turns to leave and runs into Ray.
+
+CINDY
+Ray!  I'm so glad you're okay!  The
+killer is here!  He got Bobby!  We
+gotta get away!
+
+Ray says nothing.  He just looks straight ahead.  No
+emotion.
+
+Cindy hears someone calling her.  She turns to see Bobby
+staggering down the steps.
+
+BOBBY
+Cindy!  Help!
+
+CINDY
+Bobby!!!
+
+Cindy turns to his aide.  She helps him down the steps.
+
+CINDY (CONT'D)
+It's gonna be okay Bobby, but we
+gotta hurry.
+
+
+Ray locks the door.
+
+CINDY (CONT'D)
+Ray, what are you doing?
+
+Bobby starts laughing.
+
+CINDY (CONT'D)
+What?!
+
+BOBBY
+We all go a little crazy sometimes. 
+Billy Loomis, Scream part 1.
+
+CINDY
+No, it can't be!
+
+Ray gives Bobby a knife.  Cindy backs into the kitchen.
+
+INT. CINDY'S KITCHEN � NIGHT
+
+BOBBY
+Yes Cindy, it's true.
+
+CINDY
+But I thought you loved me.
+
+BOBBY
+Oh I did, but abstinence will make you
+discover new things about yourself. 
+That's right, Cindy, I'm gay and if you
+haven't noticed, so is Ray.
+
+Ray looks confused.
+
+RAY
+Huh?  Wait, whoa!  I'm not gay.
+
+BOBBY
+What do you mean?  You took me to
+the club.
+
+RAY
+They play good music.
+
+BOBBY
+What about our trip to San Francisco?
+
+RAY
+I wanted to do some shopping!
+
+BOBBY
+But you made love to me!
+
+RAY
+Hey, you sucked my di..
+
+BOBBY
+Whatever!  The point is I'm a new man. 
+I'm ready to leave all of this behind
+and start a new life.
+
+CINDY
+So you kill all your friends.
+
+BOBBY
+No, just you.  See, that's the genius of
+it all, the perfect crime, copycat
+of a serial killer.
+
+RAY
+But there's more!  Hold on cause this
+is a scream baby!
+
+Ray exits.  He comes back with Cindy's dad, bound and
+gagged.
+
+CINDY
+Dad!  Oh my God!  So what are you
+gonna do, frame him?
+
+RAY
+No, we were just having a little
+fun with him.
+
+NEW ANGLE DAD.  We see his pants are down around his ankles.
+
+BOBBY
+No, the police will find you both dead
+and me and Ray are the only survivors
+of a maniac's revenge.  Okay Ray,
+let's do it.
+
+Bobby hands Ray the knife.
+
+BOBBY (CONT'D)
+Come on baby, get it!!!
+
+Ray stabs Bobby repeatedly.
+
+BOBBY (CONT'D)
+Ok, ok, that's enough.
+
+RAY
+My bad.
+
+BOBBY
+Ok, my turn.
+
+RAY
+What?
+
+BOBBY
+Give me the knife! It's my turn to
+stab you.
+
+RAY
+Shit, you must be crazy!  Ain't
+nobody stabbing me!
+
+Suddenly Ray goes silent.  A hook pierces his body as he is
+lifted off the ground.
+
+The killer, standing behind him, removes the hook.  Ray
+falls dead.
+
+One swift blow and Bobby is dead too.
+
+Killer swings at Cindy.  His hook misses her and gets stuck.
+
+Cindy punches the killer in the face.  He goes flying,
+leaving his hook behind.
+
+Cindy tries to run and the killer trips her.
+
+INT. CINDY'S LIVING ROOM � NIGHT
+
+They both rise to their feet and square off.
+
+CINDY
+I'm not running anymore, no more victim. 
+Come on, show me what you got.
+
+Killer back hands her.  Cindy fires back.
+
+Killer grabs her and throws her against the wall.  She gets
+back on her feet.
+
+Cindy ala Keanu Reeves in Matrix jumps into mid-air karate
+stance and freezes
+momentarily.
+
+Killer looks on in amazement.  She then proceeds to kick
+major ass, running up walls and
+throwing a barrage of Kung Fu kicks as if she was walking on
+air.
+
+Cindy stops for a moment to do a little mid-air Riverdance
+then back to the ass
+whupping.  The final kick sends the killer flying out the
+window.
+
+INT. CINDY'S KITCHEN � NIGHT
+
+Cindy rushes to her dad to help untie him.
+
+EXT. CINDY'S HOUSE � NIGHT
+
+Cindy and her dad exit.  Police sirens closing in.
+
+Cindy looks for the killer's body.  It's gone.
+
+CINDY
+No!
+
+Police arrive and exit their vehicles.  Several officers run
+into the house.
+
+Sheriff approaches Cindy.
+
+SHERIFF
+What the hell is going on here?
+
+Deputy runs out of the house.
+
+DEPUTY
+It's a blood bath in there, sir.
+
+CINDY
+He was right here, I swear!
+
+SHERIFF
+Who was?
+
+CINDY
+The killer.
+
+SHERIFF
+I'm gonna have to take you in.
+
+INT. POLICE STATION � NIGHT
+
+SHERIFF	
+Let's go over this again.  You say
+it was an accident?
+
+CINDY
+Yes, he was on the road.
+
+SHERIFF
+And you think he came back to get
+revenge?
+
+CINDY
+Yes, it had to be him.
+
+Doofy enters and gives Sheriff a folder.
+
+DOOFY
+They told me to give you this.
+
+SHERIFF
+Thanks, shit head.
+
+Sheriff reads the folder.
+
+DOOFY
+You ok Cindy?
+
+CINDY
+Yes, thanks Doofy.
+
+SHERIFF
+That will be all Doofy.
+
+Doofy exits.
+
+SHERIFF (CONT'D)
+Sorry, Cindy, it wasn't the guy you hit. 
+His name was David Keegan.  Some
+fisherman found his body a few weeks  
+later. He's buried in Lakewood cemetery.
+
+CINDY
+That's impossible.
+
+SHERIFF
+Afraid not.
+
+CINDY
+Who could it be?
+
+SHERIFF
+Had to be someone who was connected to
+all the victims.  Someone who knew about
+the accident.  Someone who could move
+around without being noticed.
+
+CINDY
+Oh my God!
+
+EXT. HIGH SCHOOL FOUNTAIN � DAY � FLASHBACK
+
+BUFFY
+Doofy had the biggest crush on her.
+
+EXT. CINDY'S HOUSE � NIGHT
+
+Doofy at the front door.
+
+INT. BUFFY'S BEDROOM � NIGHT
+
+DOOFY
+I'll be in the next room.
+
+END OF FLASHBACK
+
+INT. POLICE STATION � NIGHT
+
+SLOW MOTION SHOT coffee cup crashing to the floor.
+
+CINDY
+Doofy!
+
+Cindy and Sheriff run through the station looking for Doofy
+
+SHERIFF
+Anyone seen Doofy?
+
+DEPUTY
+He just left.
+
+EXT. POLICE STATION � DAWN
+
+Sheriff and Cindy rush out of station looking for Doofy ala
+Usual Suspects.
+
+EXT. MAIN STREET � DAW
+
+CLOSE ON a pair of twisted feet walking.  The feet slowly
+straighten out as the pace
+increases.
+
+Camera moves up to the bent hand tucked close to the body. 
+It too straightens out.
+
+Pan up to Doofy looking very normal with a devilish smile on
+his face.
+
+Doofy lights a cigarette.
+
+A new Jaguar pulls up along side of him and he gets in.
+
+We see Gail at the wheel.  They kiss.
+
+GAIL
+This is gonna make one helluva movie.
+
+They drive off.`)
   .then((e) => console.log(`Código finalizado, ${e} mensagens enviadas`))
   .catch(console.error);
