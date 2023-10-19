@@ -1,0 +1,15 @@
+# SendScriptWhatsApp
+
+Esse código é uma copia com adições do código de [Matt-Fontes](https://github.com/Matt-Fontes/) com adições de alguns filmes.
+
+## Utilização
+
+Basta abrir o código no git e o copie.
+
+Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+
+No WhatsApp Web abra o console do Browser
+
+Cole o código no console e aperte Enter
+
+Pronto
