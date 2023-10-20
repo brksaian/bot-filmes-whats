@@ -1,6 +1,7 @@
 # SendScriptWhatsApp
 
-Esse código é uma copia com adições do código de [Matt-Fontes](https://github.com/Matt-Fontes/) com adições de alguns filmes.
+Esse código é uma copia do código de [Matt-Fontes](https://github.com/Matt-Fontes/) com adições de alguns filmes.
+[Repositorio original](https://github.com/Matt-Fontes/SendScriptWhatsApp)
 
 ## Utilização
 
